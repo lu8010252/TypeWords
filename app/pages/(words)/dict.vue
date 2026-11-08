@@ -144,8 +144,13 @@ async function searchOfficialWord() {
     const normalized = normalizeApiWord(res.data)
     const note = wordForm.note
     const formId = wordForm.id
+    const oldPhonetic0 = wordForm.phonetic0
+    const oldPhonetic1 = wordForm.phonetic1
     wordForm = word2Str({ ...normalized, id: formId })
     wordForm.note = note
+    // 词典接口没返回音标时保留原有音标，避免查询/加词把已有音标清空
+    if (!wordForm.phonetic0) wordForm.phonetic0 = oldPhonetic0 || ''
+    if (!wordForm.phonetic1) wordForm.phonetic1 = oldPhonetic1 || ''
     officialWordSnapshot = convertToWord({ ...wordForm })
   } finally {
     wordSearchLoading = false
