@@ -31,7 +31,7 @@ import SettingItem from '@/components/setting/SettingItem.vue'
 import { Supabase } from '@/core/utils/supabase.ts'
 import BackupGateDialog from '@/components/dialog/BackupGateDialog.vue'
 
-import { createClient } from '@supabase/supabase-js'
+import { checkServer, createClient } from '@/core/utils/syncClient'
 import { useRoute } from 'vue-router'
 import type { BackupData, Snapshot } from '@/core'
 
@@ -449,8 +449,8 @@ async function clearAllData() {
 let sbFormRef = $ref<FormType>()
 const initialSbConfig = Supabase.getConfig()
 let sbForm = $ref({
-  url: initialSbConfig?.url ?? '',
-  key: initialSbConfig?.key ?? '',
+  url: initialSbConfig?.url || (typeof location !== 'undefined' ? location.origin : ''),
+  key: initialSbConfig?.key || String(route.query.key ?? ''),
 })
 let sbStatus = $ref(Supabase.getStatus())
 watch(
@@ -486,8 +486,16 @@ async function doSaveSbConfig() {
   if (configLoading) return
   showBackupGate = false
   configLoading = true
+  sbForm.key = (sbForm.key ?? '').trim()
   tempSbInstance = createClient(sbForm?.url, sbForm?.key)
   try {
+    const chk = await checkServer(sbForm.url, sbForm.key)
+    if (!chk.ok) {
+      Supabase.setStatus('error', chk.message)
+      sbStatus = Supabase.getStatus()
+      Toast.error('连接失败：' + chk.message)
+      return
+    }
     // 检测 typewords_data 表是否存在
     const { data: existingData, error: checkError } = await tempSbInstance.from('typewords_data').select('type')
     if (checkError) {
@@ -667,9 +675,8 @@ function disable360() {
           </div>
 
           <div v-if="tabIndex === 6">
-            <p class="text-red font-bold">过时功能：由于经常同步失败，不再推荐继续使用，请等待官方同步功能</p>
-            <!--          Supabase 设置  -->
-            <SettingItem :title="$t('supabase_config')" :desc="$t('supabase_config_desc')">
+            <!--          自建服务器同步设置  -->
+            <SettingItem title="多设备同步（自建服务器）" desc="每个孩子一个档案，进度互不影响，多台设备填同一个档案密钥即可共用">
               <div v-if="sbStatus.status !== 'idle'" class="mt-2 text-sm">
                 <span v-if="sbStatus.status === 'success'" class="text-green">{{ $t('sync_status_running') }}</span>
                 <span v-else-if="sbStatus.status === 'error'" class="text-red">
@@ -680,25 +687,16 @@ function disable360() {
             </SettingItem>
 
             <div class="mb-6">
-              <div>
-                {{ $t('supabase_website') }}
-                <a href="https://supabase.com/" target="_blank">https://supabase.com/</a>
-              </div>
-              <div>
-                {{ $t('supabase_tutorial') }}
-                <a href="https://www.kdocs.cn/l/cduLx52XXXgw" target="_blank">https://www.kdocs.cn/l/cduLx52XXXgw</a>
-              </div>
-              <div>
-                {{ $t('supabase_intro', { appName: APP_NAME }) }}
-              </div>
+              <div>服务器地址默认是当前网站；档案密钥在管理页 <a href="/admin" target="_blank">/admin</a> 创建。</div>
+              <div>第一次保存时，可选择「用本机数据覆盖服务器」或「用服务器数据覆盖本机」。</div>
             </div>
 
             <div class="relative">
               <Form ref="sbFormRef" :rules="sbFormRules" :model="sbForm">
-                <FormItem label="Url" prop="url">
+                <FormItem label="服务器地址" prop="url">
                   <BaseInput v-model="sbForm.url" />
                 </FormItem>
-                <FormItem label="Key" prop="key">
+                <FormItem label="档案密钥" prop="key">
                   <BaseInput v-model="sbForm.key" />
                 </FormItem>
               </Form>

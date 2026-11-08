@@ -1,0 +1,16 @@
+services:
+  typewords:
+    image: ghcr.io/lu8010252/typewords:latest
+    container_name: typewords
+    restart: unless-stopped
+    ports:
+      - "8040:3000"
+    volumes:
+      - ./data:/data
+    environment:
+      # 管理口令:打开 http://服务器:8040/admin 创建孩子档案时要用,务必改掉
+      ADMIN_TOKEN: "改成一个只有你知道的口令"
+      # AI 加词用(OpenAI 兼容接口,填你自己的中转站),不用 AI 可留空
+      AI_BASE_URL: "https://你的中转站/v1"
+      AI_API_KEY: "sk-xxxx"
+      AI_MODEL: "gpt-4o-mini"

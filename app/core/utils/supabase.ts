@@ -1,4 +1,4 @@
-import { createClient } from '@supabase/supabase-js'
+import { createClient } from './syncClient'
 import { Toast } from '@/base'
 import { useRuntimeStore } from '../stores'
 
@@ -64,7 +64,9 @@ export class Supabase {
   }
 
   static saveConfig(url: string, key: string): void {
-    setConfig({ url, key })
+    // 只有配置成功后才会调用保存,所以直接标记为 success;
+    // 否则首次保存后状态停在 idle,要等下一次保存才会开始同步
+    setConfig({ url, key, status: 'success' })
   }
 
   static removeConfig(): void {

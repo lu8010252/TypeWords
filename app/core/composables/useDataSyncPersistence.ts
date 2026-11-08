@@ -32,7 +32,7 @@ import type { BackupData, SaveData, Snapshot } from '../types/types.ts'
 import { SyncDataType, CompareResult, DictType } from '../types/enum'
 import { Supabase } from '../utils/supabase'
 import { del, get, set } from 'idb-keyval'
-import type { SupabaseClient } from '@supabase/supabase-js'
+import type { SyncClient as SupabaseClient } from '../utils/syncClient'
 import { Toast } from '@/base'
 
 type RemoteMetaRow = {
