@@ -5,6 +5,8 @@ RUN npm i -g pnpm@10.28.0
 COPY package.json pnpm-lock.yaml pnpm-workspace.yaml ./
 RUN pnpm install --frozen-lockfile
 COPY . .
+# 补充人教版 PEP 小学（三年级起点）词库：三年级上 ~ 六年级下
+RUN node scripts/fetch-pep-dicts.mjs
 ENV NODE_OPTIONS=--max-old-space-size=4096
 RUN pnpm run generate
 
