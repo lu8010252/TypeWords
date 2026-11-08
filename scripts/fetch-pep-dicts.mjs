@@ -206,12 +206,40 @@ for (const book of pepArticleBooks) {
 }
 
 // ---------- 4. 自建 新概念青少版 1A / 1B ----------
+// 用已下载的官方词库（新概念 1~4、人教版）补充释义/例句/短语/近义词/同根词/词源；
+// 自带的释义与例句始终排在最前，官方数据只做追加，不覆盖。
+const officialIndex = new Map()
+for (const { words } of downloaded) {
+  for (const w of words) {
+    const k = String(w.word || '').trim().toLowerCase()
+    if (k && !officialIndex.has(k)) officialIndex.set(k, w)
+  }
+}
+let enrichedCount = 0
+function mergeOfficial(entry) {
+  const off = officialIndex.get(entry.word.trim().toLowerCase())
+  if (!off) return
+  enrichedCount++
+  for (const t of off.trans || []) {
+    if (entry.trans.length >= 4) break
+    if (t?.cn && !entry.trans.some(x => x.cn === t.cn)) entry.trans.push({ pos: t.pos || '', cn: t.cn })
+  }
+  for (const s of off.sentences || []) {
+    if (entry.sentences.length >= 3) break
+    if (s?.c && !entry.sentences.some(x => x.c === s.c)) entry.sentences.push({ c: s.c, cn: s.cn || '' })
+  }
+  if (Array.isArray(off.phrases) && off.phrases.length) entry.phrases = off.phrases.slice(0, 6)
+  if (Array.isArray(off.synos) && off.synos.length) entry.synos = off.synos.slice(0, 4)
+  if (off.relWords && Array.isArray(off.relWords.rels) && off.relWords.rels.length) entry.relWords = off.relWords
+  if (Array.isArray(off.etymology) && off.etymology.length) entry.etymology = off.etymology.slice(0, 2)
+}
+
 let wordId = 50000
 for (const book of ncejBooks) {
   const words = []
   for (const lesson of book.lessons) {
     for (const [word, p0, p1, pos, cn, c, cnText] of lesson.words) {
-      words.push({
+      const entry = {
         id: wordId++,
         word,
         phonetic0: p0,
@@ -222,7 +250,9 @@ for (const book of ncejBooks) {
         synos: [],
         relWords: { root: '', rels: [] },
         etymology: [],
-      })
+      }
+      mergeOfficial(entry)
+      words.push(entry)
     }
   }
   await fs.writeFile(path.join(WORD_DIR, book.url), JSON.stringify(words))
@@ -289,4 +319,5 @@ try {
 
 await fs.writeFile(WORD_LIST, JSON.stringify(wordList, null, 2) + '\n')
 await fs.writeFile(ARTICLE_LIST, JSON.stringify(articleList, null, 2) + '\n')
+console.log(`[ncej] 用官方词库补充了 ${enrichedCount} 个词条`)
 console.log(`[done] 词库 ${wordList.length} 本，文章库 ${articleList.length} 本，补充音标 ${phoneticFixed} 处`)
