@@ -14,6 +14,7 @@ import { useI18n } from 'vue-i18n'
 import { Supabase } from '@/core/utils/supabase.ts'
 import MiniProgram from '@/components/MiniProgram.vue'
 import WordCollectPopover from '@/components/word/WordCollectPopover.vue'
+import IconFluentSpeaker220Regular from '~icons/fluent/speaker-2-20-regular'
 
 const router = useRouter()
 const { toggleTheme, getTheme, setTheme } = useTheme()
@@ -47,7 +48,7 @@ const { locales, setLocale } = useI18n()
 const route = useRoute()
 
 const showIcon = $computed(() => {
-  return ['/words', '/articles', '/ai', '/setting', '/help', '/doc', '/feedback'].includes(route.path)
+  return ['/words', '/articles', '/phonetics', '/ai', '/setting', '/help', '/doc', '/feedback'].includes(route.path)
 })
 
 onMounted(() => {
@@ -90,6 +91,10 @@ function onMouseLeave() {
         <NuxtLink id="article" to="/articles" class="row">
           <IconFluentBookLetter20Regular />
           <span>{{ $t('articles') }}</span>
+        </NuxtLink>
+        <NuxtLink to="/phonetics" class="row">
+          <IconFluentSpeaker220Regular />
+          <span>音标</span>
         </NuxtLink>
         <NuxtLink to="/ai" class="row">
           <IconFluentSparkle20Regular />
@@ -135,6 +140,10 @@ function onMouseLeave() {
         <div class="nav-item" @click="router.push('/articles')" :class="{ active: route.path?.includes('/articles') }">
           <IconFluentBookLetter20Regular />
           <span>{{ $t('articles') }}</span>
+        </div>
+        <div class="nav-item" @click="router.push('/phonetics')" :class="{ active: route.path === '/phonetics' }">
+          <IconFluentSpeaker220Regular />
+          <span>音标</span>
         </div>
         <div class="nav-item" @click="router.push('/ai')" :class="{ active: route.path === '/ai' }">
           <IconFluentSparkle20Regular />

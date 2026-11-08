@@ -33,6 +33,7 @@ import type { DictResource, Statistics } from '@/core/types/types.ts'
 import { onMounted, onUnmounted, watch } from 'vue'
 import { useRuntimeStore } from '@/core/stores/runtime.ts'
 import Book from '@/components/Book.vue'
+import ImportBanner from '@/components/ImportBanner.vue'
 import { getDefaultDict } from '@/core/types/func.ts'
 import PracticeSettingDialog from '@/components/word/PracticeSettingDialog.vue'
 import ChangeLastPracticeIndexDialog from '@/components/word/ChangeLastPracticeIndexDialog.vue'
@@ -796,6 +797,10 @@ onUnmounted(() => {
         </Calendar>
       </div>
     </div>
+
+    <NuxtLink to="/import?type=word" class="block no-underline">
+      <ImportBanner title="导入自己的单词" desc="支持 txt/json/xlsx 文件导入，或者手动输入单词导入" />
+    </NuxtLink>
 
     <div class="card flex flex-col">
       <div class="flex justify-between">

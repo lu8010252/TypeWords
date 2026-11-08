@@ -251,6 +251,42 @@ for (const book of ncejBooks) {
   console.log(`[word] ${book.name}(${book.url}) ${words.length} 词`)
 }
 
+// ---------- 5. 音标发音音频 ----------
+const PHONETIC_SOUND_DIR = path.join(ROOT, 'public/sound/phonetics')
+try {
+  await fs.mkdir(PHONETIC_SOUND_DIR, { recursive: true })
+  const phoneticsSource = await fs.readFile(path.join(ROOT, 'app/core/data/phonetics.ts'), 'utf8')
+  const ids = [...phoneticsSource.matchAll(/"audioSrc": "\/sound\/phonetics\/([^"]+)\.mp3"/g)].map(m => m[1])
+  let downloadedCount = 0
+  for (const id of ids) {
+    const target = path.join(PHONETIC_SOUND_DIR, `${id}.mp3`)
+    try {
+      await fs.access(target)
+      continue
+    } catch {
+      // 文件不存在，继续下载
+    }
+    for (let i = 1; i <= 3; i++) {
+      try {
+        const res = await fetch(`${BASE}/sound/phonetics/${id}.mp3`, { signal: AbortSignal.timeout(30_000) })
+        if (!res.ok) throw new Error(`HTTP ${res.status}`)
+        const buf = Buffer.from(await res.arrayBuffer())
+        if (buf.length < 5000) throw new Error('文件内容过小')
+        await fs.writeFile(target, buf)
+        downloadedCount++
+        break
+      } catch (e) {
+        if (i === 3) console.warn(`[phonetics] 跳过 ${id}: ${e.message}`)
+        else await new Promise(r => setTimeout(r, i * 1500))
+      }
+    }
+  }
+  console.log(`[phonetics] 音频 ${ids.length} 个，本次下载 ${downloadedCount} 个`)
+} catch (e) {
+  // 音频下载失败不应阻断整个构建
+  console.warn(`[phonetics] 音频处理失败: ${e.message}`)
+}
+
 await fs.writeFile(WORD_LIST, JSON.stringify(wordList, null, 2) + '\n')
 await fs.writeFile(ARTICLE_LIST, JSON.stringify(articleList, null, 2) + '\n')
 console.log(`[done] 词库 ${wordList.length} 本，文章库 ${articleList.length} 本，补充音标 ${phoneticFixed} 处`)

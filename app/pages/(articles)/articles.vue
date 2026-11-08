@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { BaseButton, BaseIcon, BasePage, DeleteIcon, PopConfirm, Progress, Toast } from '@/base'
 import Book from '@/components/Book.vue'
+import ImportBanner from '@/components/ImportBanner.vue'
 import { APP_NAME, DICT_LIST } from '@/core/config/env.ts'
 import { useBaseStore } from '@/core/stores/base.ts'
 import { useRuntimeStore } from '@/core/stores/runtime.ts'
@@ -279,6 +280,10 @@ const { data: recommendBookList, isFetching } = useFetch(resourceWrap(DICT_LIST.
         </div>
       </div>
     </div>
+
+    <NuxtLink to="/import?type=article" class="block no-underline">
+      <ImportBanner title="导入自己的句子" desc="支持 json/xlsx 文件导入，或者手动输入句子导入" />
+    </NuxtLink>
 
     <div class="card flex flex-col">
       <div class="flex justify-between">
