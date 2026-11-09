@@ -14,6 +14,7 @@ const BASE = process.env.DICT_SOURCE || 'https://files.typewords.cc'
 const ROOT = path.resolve(import.meta.dirname, '..')
 const WORD_LIST = path.join(ROOT, 'public/list/word.json')
 const ARTICLE_LIST = path.join(ROOT, 'public/list/article.json')
+const RECOMMEND_WORD_LIST = path.join(ROOT, 'public/list/recommend_word.json')
 const WORD_DIR = path.join(ROOT, 'public/dicts/en/word')
 const ARTICLE_DIR = path.join(ROOT, 'public/dicts/en/article')
 
@@ -140,11 +141,9 @@ function fillPhonetics(words) {
   phoneticFixed += n
 }
 
-for (const { entry, words } of downloaded) {
-  fillPhonetics(words)
-  await fs.writeFile(path.join(WORD_DIR, entry.url), JSON.stringify(words))
-  upsert(wordList, entry)
-}
+// 官方词库（人教版 PEP / 新概念 1~4）只作为「音标、例句、短语、近义词、词源」的补充来源，
+// 不再作为词典发布到网站里（词典全部用 scripts/data/vocab 的自建词表）。
+for (const { words } of downloaded) fillPhonetics(words)
 
 // ---------- 2. 官方文章（新概念英语 1~4） ----------
 const remoteArticleList = await getJson(`${BASE}/list/article.json`)
@@ -339,6 +338,9 @@ try {
   console.warn(`[phonetics] 音频处理失败: ${e.message}`)
 }
 
+// 首页「推荐」位：人教版 PEP 三起 8 册
+const recommendWords = wordList.filter(d => /^PEP3Q_/.test(String(d.url)))
+await fs.writeFile(RECOMMEND_WORD_LIST, JSON.stringify(recommendWords, null, 2) + '\n')
 await fs.writeFile(WORD_LIST, JSON.stringify(wordList, null, 2) + '\n')
 await fs.writeFile(ARTICLE_LIST, JSON.stringify(articleList, null, 2) + '\n')
 console.log(`[ncej] 用官方词库补充了 ${enrichedCount} 个词条`)
