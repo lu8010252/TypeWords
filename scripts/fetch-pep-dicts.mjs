@@ -8,6 +8,7 @@
 import fs from 'node:fs/promises'
 import path from 'node:path'
 import { pepArticleBooks } from './data/pep-articles.mjs'
+import { storyBooks } from './data/stories.mjs'
 import { phoneticFallback } from './data/phonetics.mjs'
 
 const BASE = process.env.DICT_SOURCE || 'https://files.typewords.cc'
@@ -15,6 +16,7 @@ const ROOT = path.resolve(import.meta.dirname, '..')
 const WORD_LIST = path.join(ROOT, 'public/list/word.json')
 const ARTICLE_LIST = path.join(ROOT, 'public/list/article.json')
 const RECOMMEND_WORD_LIST = path.join(ROOT, 'public/list/recommend_word.json')
+const RECOMMEND_ARTICLE_LIST = path.join(ROOT, 'public/list/recommend_article.json')
 const WORD_DIR = path.join(ROOT, 'public/dicts/en/word')
 const ARTICLE_DIR = path.join(ROOT, 'public/dicts/en/article')
 
@@ -161,9 +163,9 @@ for (const book of nceArticles) {
   console.log(`[article] ${entry.name}(${entry.url}) ${articles.length} 篇`)
 }
 
-// ---------- 3. 自建 PEP 课文句子 ----------
+// ---------- 3. 自建文章库：PEP 课文句子 + 伊索寓言 / 儿歌 / 日常对话 ----------
 let articleId = 300
-for (const book of pepArticleBooks) {
+for (const book of [...pepArticleBooks, ...storyBooks]) {
   const articles = book.units.map(unit => ({
     id: articleId++,
     title: unit.title,
@@ -198,10 +200,18 @@ for (const book of pepArticleBooks) {
     cover: null,
     hidden: false,
     category: '文章学习',
-    tags: ['人教版'],
+    tags: book.tags || ['人教版'],
   })
   console.log(`[article] ${book.name}(${book.url}) ${articles.length} 篇`)
 }
+
+// 文章页「推荐」位：保留原有的（新概念 1），再加上新增的三个故事/对话库
+const recommendArticles = await readJson(RECOMMEND_ARTICLE_LIST)
+for (const book of storyBooks) {
+  const entry = articleList.find(d => d.url === book.url)
+  if (entry) upsert(recommendArticles, entry)
+}
+await fs.writeFile(RECOMMEND_ARTICLE_LIST, JSON.stringify(recommendArticles, null, 2) + '\n')
 
 // ---------- 4. 自建词库：新概念青少版全套 + 人教版 PEP 三起 ----------
 // 词表来自 scripts/data/vocab/*.json；1A/1B 原有的手写例句保留在 examples.json 里。
