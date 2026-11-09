@@ -108,3 +108,8 @@ Of course, sponsorship is not required for use—sharing the project, submitting
 <img width="300" height="390" alt="practice words" src="/public/imgs/zhifubao.png" />
 <img width="300" height="390" alt="practice words" src="/public/imgs/weixin.png" />
 
+
+## 内置小学词表来源
+
+「新概念英语青少版」（入门级～5B）与「人教版 PEP 三年级起点 3~6 年级」的单词表，整理自 [lilinji/English](https://github.com/lilinji/English)（CC BY-NC-SA 4.0，仅限非商业个人学习使用，改编需以相同方式共享）。
+Excel 由 `scripts/tools/xlsx_to_vocab.py` 转换成 `scripts/data/vocab/*.json`，Docker 构建时由 `scripts/fetch-pep-dicts.mjs` 生成词典。

@@ -1,0 +1,5411 @@
+{
+"name": "新概念英语青少版 1A",
+"enName": "ncej-1a",
+"words": [
+{
+"word": "meet",
+"phonetic0": "miːt",
+"phonetic1": "miːt",
+"trans": [
+{
+"pos": "vt.",
+"cn": "满足；遇见；对付"
+},
+{
+"pos": "vi.",
+"cn": "相遇；接触"
+},
+{
+"pos": "n.",
+"cn": "集会"
+}
+]
+},
+{
+"word": "the",
+"phonetic0": "ðə",
+"phonetic1": "ðə",
+"trans": [
+{
+"pos": "art.",
+"cn": "这；那"
+},
+{
+"pos": "adv.",
+"cn": "更加（用于比较级，最高级前）"
+}
+]
+},
+{
+"word": "family",
+"phonetic0": "ˈfæməli",
+"phonetic1": "ˈfæməli",
+"trans": [
+{
+"pos": "n.",
+"cn": "家庭；亲属；家族"
+},
+{
+"pos": "adj.",
+"cn": "家庭的；家族的；适合于全家的"
+}
+]
+},
+{
+"word": "Hello",
+"phonetic0": "həˈləʊ",
+"phonetic1": "həˈləʊ",
+"trans": [
+{
+"pos": "int.",
+"cn": "喂；哈罗"
+},
+{
+"pos": "n.",
+"cn": "表示问候， 惊奇或唤起注意时的用语"
+}
+]
+},
+{
+"word": "my",
+"phonetic0": "maɪ",
+"phonetic1": "maɪ",
+"trans": [
+{
+"pos": "pron.",
+"cn": "我的"
+},
+{
+"pos": "int.",
+"cn": "哎呀（表示惊奇等）；喔唷"
+}
+]
+},
+{
+"word": "name",
+"phonetic0": "neɪm",
+"phonetic1": "neɪm",
+"trans": [
+{
+"pos": "n.",
+"cn": "名称，名字；姓名；名誉"
+},
+{
+"pos": "vt.",
+"cn": "命名，任命；指定；称呼"
+},
+{
+"pos": "adj.",
+"cn": "姓名的；据以取名的"
+}
+]
+},
+{
+"word": "is",
+"phonetic0": "ɪz",
+"phonetic1": "ɪz",
+"trans": [
+{
+"pos": "v.",
+"cn": "是（be的三单形式）"
+},
+{
+"pos": "n.",
+"cn": "存在"
+}
+]
+},
+{
+"word": "this",
+"phonetic0": "ðɪs",
+"phonetic1": "ðɪs",
+"trans": [
+{
+"pos": "adj.",
+"cn": "这；本；这个"
+},
+{
+"pos": "pron.",
+"cn": "这；这个；这里"
+},
+{
+"pos": "adv.",
+"cn": "这样地；这么"
+}
+]
+},
+{
+"word": "wife",
+"phonetic0": "waɪf",
+"phonetic1": "waɪf",
+"trans": [
+{
+"pos": "n.",
+"cn": "妻子，已婚妇女；夫人"
+}
+]
+},
+{
+"word": "How do you do",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "（初次见面）您好！"
+}
+]
+},
+{
+"word": "daughter",
+"phonetic0": "ˈdɔːtə(r)",
+"phonetic1": "ˈdɔːtər",
+"trans": [
+{
+"pos": "n.",
+"cn": "女儿；[遗][农学] 子代"
+},
+{
+"pos": "adj.",
+"cn": "女儿的；子代的"
+}
+]
+},
+{
+"word": "son",
+"phonetic0": "sʌn",
+"phonetic1": "sʌn",
+"trans": [
+{
+"pos": "n.",
+"cn": "儿子；孩子（对年轻人的称呼）；男性后裔"
+}
+]
+},
+{
+"word": "Hi",
+"phonetic0": "haɪ",
+"phonetic1": "haɪ",
+"trans": [
+{
+"pos": "",
+"cn": "可移动磁盘"
+}
+]
+},
+{
+"word": "and",
+"phonetic0": "ænd",
+"phonetic1": "ænd",
+"trans": [
+{
+"pos": "conj.",
+"cn": "和，与；就；而且"
+}
+]
+},
+{
+"word": "nephew",
+"phonetic0": "ˈnefjuː",
+"phonetic1": "ˈnefjuː",
+"trans": [
+{
+"pos": "n.",
+"cn": "侄子；外甥"
+}
+]
+},
+{
+"word": "Nice to meet you.",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "很高兴见到你；很高兴认识你；见到你很高兴"
+}
+]
+},
+{
+"word": "friend",
+"phonetic0": "frend",
+"phonetic1": "frend",
+"trans": [
+{
+"pos": "n.",
+"cn": "朋友；助手；赞助者"
+}
+]
+},
+{
+"word": "teacher",
+"phonetic0": "ˈtiːtʃə(r)",
+"phonetic1": "ˈtiːtʃər",
+"trans": [
+{
+"pos": "n.",
+"cn": "教师；导师"
+}
+]
+},
+{
+"word": "Mrs.",
+"phonetic0": "ˈmɪsɪz",
+"phonetic1": "ˈmɪsɪz",
+"trans": [
+{
+"pos": "n.",
+"cn": "先生"
+}
+]
+},
+{
+"word": "your",
+"phonetic0": "jɔː(r)",
+"phonetic1": "jʊr",
+"trans": [
+{
+"pos": "pron.",
+"cn": "你的，你们的"
+}
+]
+},
+{
+"word": "pen",
+"phonetic0": "pen",
+"phonetic1": "pen",
+"trans": [
+{
+"pos": "n.",
+"cn": "钢笔；作家；围栏"
+},
+{
+"pos": "vt.",
+"cn": "写；关入栏中"
+}
+]
+},
+{
+"word": "Yes",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "n.",
+"cn": "是（表示肯定）"
+},
+{
+"pos": "adv.",
+"cn": "是, 是的"
+}
+]
+},
+{
+"word": "it",
+"phonetic0": "ɪt",
+"phonetic1": "ɪt",
+"trans": [
+{
+"pos": "abbr.",
+"cn": "信息技术information technology"
+},
+{
+"pos": "abbr.",
+"cn": "意大利Italy；意大利的Italian"
+}
+]
+},
+{
+"word": "No",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "adv.",
+"cn": "不"
+},
+{
+"pos": "adj.",
+"cn": "没有；不是"
+},
+{
+"pos": "n.",
+"cn": "不；否决票"
+}
+]
+},
+{
+"word": "not",
+"phonetic0": "nɒt",
+"phonetic1": "nɑːt",
+"trans": [
+{
+"pos": "adv.",
+"cn": "表示否定，不"
+},
+{
+"pos": "n.",
+"cn": "“非”（计算机中逻辑运算的一种）"
+}
+]
+},
+{
+"word": "Whose",
+"phonetic0": "huːz",
+"phonetic1": "huːz",
+"trans": [
+{
+"pos": "pron.",
+"cn": "谁的（疑问代词）"
+}
+]
+},
+{
+"word": "it's",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "abbr.",
+"cn": "它的（it has）；它是（it is）"
+}
+]
+},
+{
+"word": "isn't",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "不是（等于is not）"
+}
+]
+},
+{
+"word": "pencil",
+"phonetic0": "ˈpens(ə)l",
+"phonetic1": "ˈpensl",
+"trans": [
+{
+"pos": "n.",
+"cn": "铅笔；笔状物"
+},
+{
+"pos": "vt.",
+"cn": "用铅笔写；用眉笔涂"
+},
+{
+"pos": "vi.",
+"cn": "成铅笔状"
+}
+]
+},
+{
+"word": "hat",
+"phonetic0": "hæt",
+"phonetic1": "hæt",
+"trans": [
+{
+"pos": "n.",
+"cn": "帽子"
+},
+{
+"pos": "vt.",
+"cn": "给……戴上帽子"
+},
+{
+"pos": "vi.",
+"cn": "供应帽子；制造帽子"
+}
+]
+},
+{
+"word": "coat",
+"phonetic0": "kəʊt",
+"phonetic1": "koʊt",
+"trans": [
+{
+"pos": "n.",
+"cn": "外套"
+},
+{
+"pos": "vt.",
+"cn": "覆盖…的表面"
+}
+]
+},
+{
+"word": "mobile",
+"phonetic0": "ˈməʊbaɪl",
+"phonetic1": "ˈmoʊbl",
+"trans": [
+{
+"pos": "adj.",
+"cn": "可移动的；机动的；易变的"
+},
+{
+"pos": "n.",
+"cn": "运动物体"
+}
+]
+},
+{
+"word": "ruler",
+"phonetic0": "ˈruːlə(r)",
+"phonetic1": "ˈruːlər",
+"trans": [
+{
+"pos": "n.",
+"cn": "尺；统治者；[测] 划线板，划线的人"
+}
+]
+},
+{
+"word": "book",
+"phonetic0": "bʊk",
+"phonetic1": "bʊk",
+"trans": [
+{
+"pos": "n.",
+"cn": "书籍；卷；帐簿"
+},
+{
+"pos": "vt.",
+"cn": "预订；登记"
+}
+]
+},
+{
+"word": "bag",
+"phonetic0": "bæɡ",
+"phonetic1": "bæɡ",
+"trans": [
+{
+"pos": "n.",
+"cn": "袋；猎获物；（俚）一瓶啤酒"
+},
+{
+"pos": "vt.",
+"cn": "猎获；把…装入袋中；占据，私吞"
+},
+{
+"pos": "vi.",
+"cn": "松垂"
+}
+]
+},
+{
+"word": "What",
+"phonetic0": "wɒt",
+"phonetic1": "wʌt",
+"trans": [
+{
+"pos": "pron.",
+"cn": "什么；多么；真"
+},
+{
+"pos": "adj.",
+"cn": "什么；多少；关系形容词"
+},
+{
+"pos": "adv.",
+"cn": "多少"
+}
+]
+},
+{
+"word": "Hey",
+"phonetic0": "heɪ",
+"phonetic1": "heɪ",
+"trans": [
+{
+"pos": "n.",
+"cn": "干草（等于hay）"
+},
+{
+"pos": "int.",
+"cn": "喂！（引起注意等）；你好！（表示问候）"
+}
+]
+},
+{
+"word": "good",
+"phonetic0": "ɡʊd",
+"phonetic1": "ɡʊd",
+"trans": [
+{
+"pos": "n.",
+"cn": "好处；善行；慷慨的行为"
+},
+{
+"pos": "adj.",
+"cn": "好的；优良的；愉快的"
+},
+{
+"pos": "adv.",
+"cn": "好"
+}
+]
+},
+{
+"word": "look",
+"phonetic0": "lʊk",
+"phonetic1": "lʊk",
+"trans": [
+{
+"pos": "vt.",
+"cn": "看；期待；注意"
+},
+{
+"pos": "vi.",
+"cn": "看；看起来；注意"
+},
+{
+"pos": "n.",
+"cn": "看；样子；面容"
+}
+]
+},
+{
+"word": "a",
+"phonetic0": "ə",
+"phonetic1": "ə",
+"trans": [
+{
+"pos": "n.",
+"cn": "字母A；第一流的；学业成绩达最高标准的评价符号"
+},
+{
+"pos": "abbr.",
+"cn": "[物]安（ampere）"
+}
+]
+},
+{
+"word": "wheel",
+"phonetic0": "wiːl",
+"phonetic1": "wiːl",
+"trans": [
+{
+"pos": "n.",
+"cn": "车轮；方向盘；转动"
+},
+{
+"pos": "vt.",
+"cn": "转动；使变换方向；给…装轮子"
+},
+{
+"pos": "vi.",
+"cn": "旋转；突然转变方向；盘旋飞行"
+}
+]
+},
+{
+"word": "green",
+"phonetic0": "ɡriːn",
+"phonetic1": "ɡriːn",
+"trans": [
+{
+"pos": "n.",
+"cn": "绿色；青春"
+},
+{
+"pos": "adj.",
+"cn": "绿色的；青春的"
+},
+{
+"pos": "vt.",
+"cn": "使…变绿色"
+}
+]
+},
+{
+"word": "OK",
+"phonetic0": "əʊˈkeɪ",
+"phonetic1": "ˌoʊ'keɪ",
+"trans": [
+{
+"pos": "adj.",
+"cn": "好的；不错的"
+},
+{
+"pos": "adv.",
+"cn": "行；很好"
+},
+{
+"pos": "int.",
+"cn": "好；可以"
+}
+]
+},
+{
+"word": "now",
+"phonetic0": "naʊ",
+"phonetic1": "naʊ",
+"trans": [
+{
+"pos": "adv.",
+"cn": "现在；如今；立刻"
+},
+{
+"pos": "adj.",
+"cn": "现在的"
+},
+{
+"pos": "n.",
+"cn": "现在；目前"
+}
+]
+},
+{
+"word": "flower",
+"phonetic0": "ˈflaʊə(r)",
+"phonetic1": "ˈflaʊər",
+"trans": [
+{
+"pos": "n.",
+"cn": "花；精华；开花植物"
+},
+{
+"pos": "vt.",
+"cn": "使开花；用花装饰"
+},
+{
+"pos": "vi.",
+"cn": "成熟，发育；开花；繁荣"
+}
+]
+},
+{
+"word": "red",
+"phonetic0": "red",
+"phonetic1": "red",
+"trans": [
+{
+"pos": "n.",
+"cn": "红色，红颜料；赤字"
+},
+{
+"pos": "adj.",
+"cn": "红色的；红肿的，充血的"
+}
+]
+},
+{
+"word": "umbrella",
+"phonetic0": "ʌmˈbrelə",
+"phonetic1": "ʌmˈbrelə",
+"trans": [
+{
+"pos": "n.",
+"cn": "雨伞；保护伞；庇护"
+}
+]
+},
+{
+"word": "that",
+"phonetic0": "ðæt",
+"phonetic1": "ðæt",
+"trans": [
+{
+"pos": "conj.",
+"cn": "因为；以至于"
+},
+{
+"pos": "adj.",
+"cn": "那；那个"
+},
+{
+"pos": "pron.",
+"cn": "那；那个"
+}
+]
+},
+{
+"word": "grey",
+"phonetic0": "ɡreɪ",
+"phonetic1": "ɡreɪ",
+"trans": [
+{
+"pos": "n.",
+"cn": "灰色"
+},
+{
+"pos": "adj.",
+"cn": "灰色的；灰白的"
+},
+{
+"pos": "vt.",
+"cn": "使变成灰色；使变老"
+}
+]
+},
+{
+"word": "bird",
+"phonetic0": "bɜːd",
+"phonetic1": "bɜːrd",
+"trans": [
+{
+"pos": "n.",
+"cn": "鸟；家伙；羽毛球"
+},
+{
+"pos": "vt.",
+"cn": "向…喝倒彩；起哄"
+},
+{
+"pos": "vi.",
+"cn": "猎鸟；观察研究野鸟"
+}
+]
+},
+{
+"word": "key",
+"phonetic0": "kiː",
+"phonetic1": "kiː",
+"trans": [
+{
+"pos": "n.",
+"cn": "（打字机等的）键；关键；钥匙"
+},
+{
+"pos": "vt.",
+"cn": "键入；锁上；调节…的音调"
+},
+{
+"pos": "vi.",
+"cn": "使用钥匙"
+}
+]
+},
+{
+"word": "right",
+"phonetic0": "raɪt",
+"phonetic1": "raɪt",
+"trans": [
+{
+"pos": "n.",
+"cn": "正确；右边；正义"
+},
+{
+"pos": "adj.",
+"cn": "正确的；直接的；右方的"
+},
+{
+"pos": "vt.",
+"cn": "纠正"
+}
+]
+},
+{
+"word": "silver",
+"phonetic0": "ˈsɪlvə(r)",
+"phonetic1": "ˈsɪlvər",
+"trans": [
+{
+"pos": "n.",
+"cn": "银；银器；银币"
+},
+{
+"pos": "adj.",
+"cn": "银的；含银的；有银色光泽的"
+},
+{
+"pos": "vt.",
+"cn": "镀银；使有银色光泽"
+}
+]
+},
+{
+"word": "chair",
+"phonetic0": "tʃeə(r)",
+"phonetic1": "tʃer",
+"trans": [
+{
+"pos": "n.",
+"cn": "椅子；讲座；（会议的）主席位"
+},
+{
+"pos": "vt.",
+"cn": "担任（会议的）主席；使…入座；使就任要职"
+}
+]
+},
+{
+"word": "table",
+"phonetic0": "ˈteɪb(ə)l",
+"phonetic1": "ˈteɪbl",
+"trans": [
+{
+"pos": "n.",
+"cn": "桌子；表格；平地层"
+},
+{
+"pos": "vt.",
+"cn": "制表；搁置；嵌合"
+},
+{
+"pos": "adj.",
+"cn": "桌子的"
+}
+]
+},
+{
+"word": "bicycle",
+"phonetic0": "ˈbaɪsɪk(ə)l",
+"phonetic1": "ˈbaɪsɪkl",
+"trans": [
+{
+"pos": "n.",
+"cn": "自行车"
+},
+{
+"pos": "vt.",
+"cn": "骑自行车运送"
+},
+{
+"pos": "vi.",
+"cn": "骑脚踏车"
+}
+]
+},
+{
+"word": "colour",
+"phonetic0": "ˈkʌlə(r)",
+"phonetic1": "ˈkʌlər",
+"trans": [
+{
+"pos": "n.",
+"cn": "颜色；风格；气色，面色"
+},
+{
+"pos": "vt.",
+"cn": "把…涂颜色，粉饰；歪曲；使脸红"
+},
+{
+"pos": "vi.",
+"cn": "变色"
+}
+]
+},
+{
+"word": "What colour ...",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "无"
+}
+]
+},
+{
+"word": "white",
+"phonetic0": "waɪt",
+"phonetic1": "waɪt",
+"trans": [
+{
+"pos": "n.",
+"cn": "白色；洁白；白种人"
+},
+{
+"pos": "adj.",
+"cn": "白色的；白种的；纯洁的"
+}
+]
+},
+{
+"word": "an",
+"phonetic0": "æn",
+"phonetic1": "æn",
+"trans": [
+{
+"pos": "art.",
+"cn": "一（在元音音素前）"
+}
+]
+},
+{
+"word": "black",
+"phonetic0": "blæk",
+"phonetic1": "blæk",
+"trans": [
+{
+"pos": "n.",
+"cn": "黑色；黑人；黑颜料"
+},
+{
+"pos": "adj.",
+"cn": "黑色的；黑人的；邪恶的"
+},
+{
+"pos": "vt.",
+"cn": "使变黑；把鞋油等涂在…上；把（眼眶）打成青肿"
+}
+]
+},
+{
+"word": "dress",
+"phonetic0": "dres",
+"phonetic1": "dres",
+"trans": [
+{
+"pos": "n.",
+"cn": "连衣裙；女装"
+},
+{
+"pos": "vt.",
+"cn": "给…穿衣"
+},
+{
+"pos": "vi.",
+"cn": "穿衣"
+}
+]
+},
+{
+"word": "camera",
+"phonetic0": "ˈkæm(ə)rə",
+"phonetic1": "ˈkæm(ə)rə",
+"trans": [
+{
+"pos": "n.",
+"cn": "照相机；摄影机"
+}
+]
+},
+{
+"word": "blue",
+"phonetic0": "bluː",
+"phonetic1": "bluː",
+"trans": [
+{
+"pos": "adj.",
+"cn": "蓝色的；沮丧的，忧郁的；下流的"
+},
+{
+"pos": "n.",
+"cn": "蓝色；[复数]（美国海、陆、空三军穿的）蓝色制服；蓝颜料"
+},
+{
+"pos": "vi.",
+"cn": "变成蓝色，呈蓝色"
+}
+]
+},
+{
+"word": "desk",
+"phonetic0": "desk",
+"phonetic1": "desk",
+"trans": [
+{
+"pos": "n.",
+"cn": "办公桌；服务台；编辑部"
+},
+{
+"pos": "adj.",
+"cn": "书桌的；桌上用的；伏案做的"
+}
+]
+},
+{
+"word": "brown",
+"phonetic0": "braʊn",
+"phonetic1": "braʊn",
+"trans": [
+{
+"pos": "n.",
+"cn": "褐色，棕色"
+},
+{
+"pos": "adj.",
+"cn": "棕色的，褐色的；太阳晒黑的"
+},
+{
+"pos": "vt.",
+"cn": "使变成褐色"
+}
+]
+},
+{
+"word": "Who",
+"phonetic0": "huː",
+"phonetic1": "huː",
+"trans": [
+{
+"pos": "",
+"cn": "世界卫生组织；世界健康组织；世界卫生组织所"
+}
+]
+},
+{
+"word": "boy",
+"phonetic0": "bɔɪ",
+"phonetic1": "bɔɪ",
+"trans": [
+{
+"pos": "n.",
+"cn": "男孩；男人"
+}
+]
+},
+{
+"word": "Which",
+"phonetic0": "wɪtʃ",
+"phonetic1": "wɪtʃ",
+"trans": [
+{
+"pos": "adj.",
+"cn": "哪一个；哪一些"
+},
+{
+"pos": "pron.",
+"cn": "哪/那一个；哪/那一些"
+}
+]
+},
+{
+"word": "on",
+"phonetic0": "ɒn",
+"phonetic1": "ɑːn",
+"trans": [
+{
+"pos": "adv.",
+"cn": "向前地；作用中，行动中；继续着"
+},
+{
+"pos": "prep.",
+"cn": "向，朝……；关于；在……之上"
+},
+{
+"pos": "adj.",
+"cn": "开着的；发生着的，正在进行中"
+}
+]
+},
+{
+"word": "man",
+"phonetic0": "mæn",
+"phonetic1": "mæn",
+"trans": [
+{
+"pos": "n.",
+"cn": "人；男人；人类"
+},
+{
+"pos": "vt.",
+"cn": "操纵；给…配置人员；使增强勇气"
+}
+]
+},
+{
+"word": "with",
+"phonetic0": "wɪð",
+"phonetic1": "wɪð",
+"trans": [
+{
+"pos": "prep.",
+"cn": "用；随着；支持"
+}
+]
+},
+{
+"word": "Mr.",
+"phonetic0": "ˈmɪstə(r)",
+"phonetic1": "ˈmɪstər",
+"trans": [
+{
+"pos": "n.",
+"cn": "先生"
+}
+]
+},
+{
+"word": "he",
+"phonetic0": "hiː",
+"phonetic1": "hiː",
+"trans": [
+{
+"pos": "n.",
+"cn": "男孩，男人；它（雄性动物）"
+},
+{
+"pos": "pron.",
+"cn": "他"
+}
+]
+},
+{
+"word": "father",
+"phonetic0": "ˈfɑːðə(r)",
+"phonetic1": "ˈfɑːðər",
+"trans": [
+{
+"pos": "n.",
+"cn": "父亲，爸爸；神父；祖先"
+},
+{
+"pos": "vt.",
+"cn": "发明，创立；当…的父亲"
+}
+]
+},
+{
+"word": "woman",
+"phonetic0": "ˈwʊmən",
+"phonetic1": "ˈwʊmən",
+"trans": [
+{
+"pos": "n.",
+"cn": "妇女；女性；成年女子"
+}
+]
+},
+{
+"word": "she",
+"phonetic0": "ʃiː",
+"phonetic1": "ʃiː",
+"trans": [
+{
+"pos": "n.",
+"cn": "女人；雌性动物"
+},
+{
+"pos": "pron.",
+"cn": "她（主格）；它（用来指雌性动物或国家、船舶、地球、月亮等）"
+}
+]
+},
+{
+"word": "mother",
+"phonetic0": "ˈmʌðə(r)",
+"phonetic1": "ˈmʌðər",
+"trans": [
+{
+"pos": "n.",
+"cn": "母亲；大娘；女修道院院长"
+},
+{
+"pos": "vt.",
+"cn": "生下；养育；像母亲般关怀或照管"
+},
+{
+"pos": "adj.",
+"cn": "母亲的；出生地的"
+}
+]
+},
+{
+"word": "girl",
+"phonetic0": "ɡɜːl",
+"phonetic1": "ɡɜːrl",
+"trans": [
+{
+"pos": "n.",
+"cn": "女孩；姑娘，未婚女子；女职员，女演员"
+},
+{
+"pos": "n.",
+"cn": "（捷）吉尔"
+}
+]
+},
+{
+"word": "sister",
+"phonetic0": "ˈsɪstə(r)",
+"phonetic1": "ˈsɪstər",
+"trans": [
+{
+"pos": "n.",
+"cn": "姐妹；（称志同道合者）姐妹；修女"
+},
+{
+"pos": "adj.",
+"cn": "姐妹般的；同类型的"
+}
+]
+},
+{
+"word": "look at",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "na.",
+"cn": "看；考虑"
+}
+]
+},
+{
+"word": "young",
+"phonetic0": "jʌŋ",
+"phonetic1": "jʌŋ",
+"trans": [
+{
+"pos": "n.",
+"cn": "年轻人；（动物的）崽，仔"
+},
+{
+"pos": "adj.",
+"cn": "年轻的；初期的；没有经验的"
+}
+]
+},
+{
+"word": "in",
+"phonetic0": "ɪn",
+"phonetic1": "ɪn",
+"trans": [
+{
+"pos": "prep.",
+"cn": "按照（表示方式）；从事于；在…之内"
+},
+{
+"pos": "n.",
+"cn": "执政者；门路；知情者"
+},
+{
+"pos": "adj.",
+"cn": "在里面的；时髦的"
+}
+]
+},
+{
+"word": "old",
+"phonetic0": "əʊld",
+"phonetic1": "oʊld",
+"trans": [
+{
+"pos": "adj.",
+"cn": "陈旧的，古老的；年老的"
+},
+{
+"pos": "n.",
+"cn": "古时"
+}
+]
+},
+{
+"word": "car",
+"phonetic0": "kɑː(r)",
+"phonetic1": "kɑːr",
+"trans": [
+{
+"pos": "n.",
+"cn": "汽车；车厢"
+}
+]
+},
+{
+"word": "Oh",
+"phonetic0": "əʊ",
+"phonetic1": "oʊ",
+"trans": [
+{
+"pos": "abbr.",
+"cn": "on-Hudson 邻近哈得逊河"
+}
+]
+},
+{
+"word": "cousin",
+"phonetic0": "ˈkʌzn",
+"phonetic1": "ˈkʌzn",
+"trans": [
+{
+"pos": "n.",
+"cn": "堂兄弟姊妹；表兄弟姊妹"
+}
+]
+},
+{
+"word": "so",
+"phonetic0": "səʊ",
+"phonetic1": "soʊ",
+"trans": [
+{
+"pos": "conj.",
+"cn": "所以；因此"
+},
+{
+"pos": "adv.",
+"cn": "如此，这么；确是如此"
+},
+{
+"pos": "pron.",
+"cn": "这样"
+}
+]
+},
+{
+"word": "too",
+"phonetic0": "tuː",
+"phonetic1": "tuː",
+"trans": [
+{
+"pos": "adv.",
+"cn": "太；也；很"
+}
+]
+},
+{
+"word": "brother",
+"phonetic0": "ˈbrʌðə(r)",
+"phonetic1": "ˈbrʌðər",
+"trans": [
+{
+"pos": "n.",
+"cn": "兄弟；同事；战友"
+},
+{
+"pos": "int.",
+"cn": "我的老兄！"
+}
+]
+},
+{
+"word": "their",
+"phonetic0": "ðeə(r)",
+"phonetic1": "ðer",
+"trans": [
+{
+"pos": "pron.",
+"cn": "他们的，她们的；它们的"
+}
+]
+},
+{
+"word": "student",
+"phonetic0": "ˈstjuːd(ə)nt",
+"phonetic1": "ˈstuːdnt",
+"trans": [
+{
+"pos": "n.",
+"cn": "学生；学者"
+}
+]
+},
+{
+"word": "his",
+"phonetic0": "hɪz",
+"phonetic1": "hɪz",
+"trans": [
+{
+"pos": "pron.",
+"cn": "他的"
+}
+]
+},
+{
+"word": "her",
+"phonetic0": "hɜː(r)",
+"phonetic1": "hɜːr",
+"trans": [
+{
+"pos": "pron.",
+"cn": "她（she的宾格）；她的（she的所有格）；她（指某个国家"
+}
+]
+},
+{
+"word": "new",
+"phonetic0": "njuː",
+"phonetic1": "nuː",
+"trans": [
+{
+"pos": "adj.",
+"cn": "新的，新鲜的；更新的；初见的"
+},
+{
+"pos": "adv.",
+"cn": "新近"
+}
+]
+},
+{
+"word": "horse",
+"phonetic0": "hɔːs",
+"phonetic1": "hɔːrs",
+"trans": [
+{
+"pos": "n.",
+"cn": "马；骑兵；脚架"
+},
+{
+"pos": "vt.",
+"cn": "使骑马；系马于；捉弄"
+},
+{
+"pos": "vi.",
+"cn": "骑马；作弄人"
+}
+]
+},
+{
+"word": "Tell me about",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "告诉我那些；告诉我关于；告诉我关于…的事"
+}
+]
+},
+{
+"word": "yellow",
+"phonetic0": "ˈjeləʊ",
+"phonetic1": "ˈjeloʊ",
+"trans": [
+{
+"pos": "n.",
+"cn": "黄色；黄种人；黄色颜料"
+},
+{
+"pos": "adj.",
+"cn": "黄色的；黄皮肤的"
+},
+{
+"pos": "vt.",
+"cn": "使变黄或发黄"
+}
+]
+},
+{
+"word": "taxi",
+"phonetic0": "ˈtæksi",
+"phonetic1": "ˈtæksi",
+"trans": [
+{
+"pos": "n.",
+"cn": "出租汽车"
+},
+{
+"pos": "vt.",
+"cn": "使滑行；用出租车送"
+},
+{
+"pos": "vi.",
+"cn": "乘出租车；滑行"
+}
+]
+},
+{
+"word": "well",
+"phonetic0": "wel",
+"phonetic1": "wel",
+"trans": [
+{
+"pos": "n.",
+"cn": "井；源泉"
+},
+{
+"pos": "adj.",
+"cn": "良好的；健康的；适宜的"
+},
+{
+"pos": "adv.",
+"cn": "很好地；充分地；满意地"
+}
+]
+},
+{
+"word": "How",
+"phonetic0": "haʊ",
+"phonetic1": "haʊ",
+"trans": [
+{
+"pos": "",
+"cn": "how1"
+},
+{
+"pos": "",
+"cn": "[hau]"
+},
+{
+"pos": "",
+"cn": "如何，怎样，怎么；用什么手段(或方法)"
+}
+]
+},
+{
+"word": "How are you",
+"phonetic0": "haʊ ɑr ju",
+"phonetic1": "haʊ ɑr ju",
+"trans": [
+{
+"pos": "",
+"cn": "你身体好吗？"
+}
+]
+},
+{
+"word": "I",
+"phonetic0": "aɪ",
+"phonetic1": "aɪ",
+"trans": [
+{
+"pos": "n.",
+"cn": "碘元素；英语字母I"
+},
+{
+"pos": "pron.",
+"cn": "我"
+}
+]
+},
+{
+"word": "am",
+"phonetic0": "æm",
+"phonetic1": "æm",
+"trans": [
+{
+"pos": "abbr.",
+"cn": "调幅"
+},
+{
+"pos": "v.",
+"cn": "是"
+}
+]
+},
+{
+"word": "fine",
+"phonetic0": "faɪn",
+"phonetic1": "faɪn",
+"trans": [
+{
+"pos": "n.",
+"cn": "罚款"
+},
+{
+"pos": "adj.",
+"cn": "好的；优良的；细小的，精美的"
+},
+{
+"pos": "vt.",
+"cn": "罚款；澄清"
+}
+]
+},
+{
+"word": "but",
+"phonetic0": "bʌt",
+"phonetic1": "bʌt",
+"trans": [
+{
+"pos": "conj.",
+"cn": "但是；而是；然而"
+},
+{
+"pos": "adv.",
+"cn": "仅仅，只"
+},
+{
+"pos": "prep.",
+"cn": "除…以外"
+}
+]
+},
+{
+"word": "very",
+"phonetic0": "ˈveri",
+"phonetic1": "ˈveri",
+"trans": [
+{
+"pos": "adv.",
+"cn": "非常，很；完全"
+},
+{
+"pos": "adj.",
+"cn": "恰好是，正是；甚至；十足的"
+}
+]
+},
+{
+"word": "sorry",
+"phonetic0": "ˈsɒri",
+"phonetic1": "ˈsɑːri",
+"trans": [
+{
+"pos": "adj.",
+"cn": "遗憾的；对不起的，抱歉的"
+},
+{
+"pos": "int.",
+"cn": "对不起，抱歉（表示委婉的拒绝等）"
+}
+]
+},
+{
+"word": "What's the matter with",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "怎么啦；有什么问题；出什么事情了"
+}
+]
+},
+{
+"word": "him",
+"phonetic0": "hɪm",
+"phonetic1": "hɪm",
+"trans": [
+{
+"pos": "pron.",
+"cn": "他（宾格）"
+}
+]
+},
+{
+"word": "sure",
+"phonetic0": "ʃʊə(r)",
+"phonetic1": "ʃʊr",
+"trans": [
+{
+"pos": "adj.",
+"cn": "确信的；可靠的；必定的"
+},
+{
+"pos": "adv.",
+"cn": "当然；的确"
+}
+]
+},
+{
+"word": "hot",
+"phonetic0": "hɒt",
+"phonetic1": "hɑːt",
+"trans": [
+{
+"pos": "adj.",
+"cn": "热的；辣的；热情的"
+},
+{
+"pos": "vt.",
+"cn": "增加；给…加温"
+},
+{
+"pos": "adv.",
+"cn": "热；紧迫地"
+}
+]
+},
+{
+"word": "hungry",
+"phonetic0": "ˈhʌŋɡri",
+"phonetic1": "ˈhʌŋɡri",
+"trans": [
+{
+"pos": "adj.",
+"cn": "饥饿的；渴望的；荒年的"
+}
+]
+},
+{
+"word": "thirsty",
+"phonetic0": "ˈθɜːsti",
+"phonetic1": "ˈθɜːrsti",
+"trans": [
+{
+"pos": "adj.",
+"cn": "口渴的，口干的；渴望的，热望的"
+}
+]
+},
+{
+"word": "poor",
+"phonetic0": "pɔː(r)",
+"phonetic1": "pʊr",
+"trans": [
+{
+"pos": "adj.",
+"cn": "贫穷的；可怜的；贫乏的"
+}
+]
+},
+{
+"word": "What about",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "un.",
+"cn": "不；…怎样"
+}
+]
+},
+{
+"word": "doctor",
+"phonetic0": "ˈdɒktə(r)",
+"phonetic1": "ˈdɑːktər",
+"trans": [
+{
+"pos": "vt.",
+"cn": "修理；篡改，伪造；为…治病"
+},
+{
+"pos": "n.",
+"cn": "医生；博士"
+},
+{
+"pos": "vi.",
+"cn": "就医；行医"
+}
+]
+},
+{
+"word": "busy",
+"phonetic0": "ˈbɪzi",
+"phonetic1": "ˈbɪzi",
+"trans": [
+{
+"pos": "adj.",
+"cn": "忙碌的；热闹的；正被占用的"
+},
+{
+"pos": "vt.",
+"cn": "使忙于"
+}
+]
+},
+{
+"word": "ill",
+"phonetic0": "ɪl",
+"phonetic1": "ɪl",
+"trans": [
+{
+"pos": "n.",
+"cn": "疾病；不幸"
+},
+{
+"pos": "adj.",
+"cn": "生病的；坏的；邪恶的"
+},
+{
+"pos": "adv.",
+"cn": "不利地；恶劣地；几乎不"
+}
+]
+},
+{
+"word": "perhaps",
+"phonetic0": "pəˈhæps",
+"phonetic1": "pərˈhæps",
+"trans": [
+{
+"pos": "n.",
+"cn": "假定；猜想；未定之事"
+},
+{
+"pos": "adv.",
+"cn": "或许；（表示不确定）也许；（用于粗略的估计）或许"
+}
+]
+},
+{
+"word": "are",
+"phonetic0": "ɑː(r)",
+"phonetic1": "ɑːr",
+"trans": [
+{
+"pos": "v.",
+"cn": "是（be的第二人称单复数现在式）"
+},
+{
+"pos": "n.",
+"cn": "公亩"
+}
+]
+},
+{
+"word": "Better safe than sorry",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "小心不出大错；不要事后追悔莫及；安全总比后悔好"
+}
+]
+},
+{
+"word": "cold",
+"phonetic0": "kəʊld",
+"phonetic1": "kəʊld",
+"trans": [
+{
+"pos": "n.",
+"cn": "寒冷；感冒"
+},
+{
+"pos": "adj.",
+"cn": "寒冷的；冷淡的，不热情的；失去知觉的"
+},
+{
+"pos": "adv.",
+"cn": "完全地"
+}
+]
+},
+{
+"word": "or",
+"phonetic0": "ɔː(r)",
+"phonetic1": "ɔːr",
+"trans": [
+{
+"pos": "conj.",
+"cn": "或，或者；还是"
+}
+]
+},
+{
+"word": "clever",
+"phonetic0": "ˈklevə(r)",
+"phonetic1": "ˈklevər",
+"trans": [
+{
+"pos": "adj.",
+"cn": "聪明的；机灵的；熟练的"
+},
+{
+"pos": "",
+"cn": "[ 比较级cleverer 最高级 cleverest ]"
+}
+]
+},
+{
+"word": "stupid",
+"phonetic0": "ˈstjuːpɪd",
+"phonetic1": "ˈstuːpɪd",
+"trans": [
+{
+"pos": "n.",
+"cn": "傻瓜，笨蛋"
+},
+{
+"pos": "adj.",
+"cn": "愚蠢的；麻木的；乏味的"
+}
+]
+},
+{
+"word": "sad",
+"phonetic0": "sæd",
+"phonetic1": "sæd",
+"trans": [
+{
+"pos": "adj.",
+"cn": "难过的；悲哀的，令人悲痛的；凄惨的，阴郁的（形容颜色）"
+}
+]
+},
+{
+"word": "happy",
+"phonetic0": "ˈhæpi",
+"phonetic1": "ˈhæpi",
+"trans": [
+{
+"pos": "adj.",
+"cn": "幸福的；高兴的；巧妙的"
+}
+]
+},
+{
+"word": "story",
+"phonetic0": "ˈstɔːri",
+"phonetic1": "ˈstɔːri",
+"trans": [
+{
+"pos": "n.",
+"cn": "故事；小说；新闻报道"
+},
+{
+"pos": "vt.",
+"cn": "用历史故事画装饰"
+},
+{
+"pos": "vi.",
+"cn": "说谎"
+}
+]
+},
+{
+"word": "funny",
+"phonetic0": "ˈfʌni",
+"phonetic1": "ˈfʌni",
+"trans": [
+{
+"pos": "n.",
+"cn": "滑稽人物；笑话，有趣的故事；滑稽连环漫画栏"
+},
+{
+"pos": "adj.",
+"cn": "有趣的，好笑的，滑稽的；（口）稀奇的，古怪的，奇异的；有病的，不舒服的"
+}
+]
+},
+{
+"word": "silly",
+"phonetic0": "ˈsɪli",
+"phonetic1": "ˈsɪli",
+"trans": [
+{
+"pos": "n.",
+"cn": "傻瓜"
+},
+{
+"pos": "adj.",
+"cn": "愚蠢的；不明事理的；没头脑的"
+}
+]
+},
+{
+"word": "neighbour",
+"phonetic0": "ˈneɪbə(r)",
+"phonetic1": "ˈneɪbər",
+"trans": [
+{
+"pos": "n.",
+"cn": "n. 邻居；同胞；仁慈的人"
+},
+{
+"pos": "vt.",
+"cn": "邻接"
+},
+{
+"pos": "vi.",
+"cn": "住在邻近；毗邻；友善，和睦"
+}
+]
+},
+{
+"word": "nice",
+"phonetic0": "naɪs",
+"phonetic1": "naɪs",
+"trans": [
+{
+"pos": "adj.",
+"cn": "精密的；美好的；细微的"
+}
+]
+},
+{
+"word": "What do you do",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "你是做什么的；你做什么工作；你是做什么工作的"
+}
+]
+},
+{
+"word": "at",
+"phonetic0": "æt",
+"phonetic1": "æt",
+"trans": [
+{
+"pos": "prep.",
+"cn": "在（表示存在或出现的地点、场所、位置、空间）；以（某种价格、速度等）；向"
+},
+{
+"pos": "n.",
+"cn": "阿特（老挝货币基本单位att）；[化]砹（极不稳定放射性元素）"
+},
+{
+"pos": "abbr.",
+"cn": "密封的（airtight）；气温（air temperature）"
+}
+]
+},
+{
+"word": "sports academy",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "无"
+}
+]
+},
+{
+"word": "art college",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "un.",
+"cn": "艺术学校"
+}
+]
+},
+{
+"word": "come",
+"phonetic0": "kʌm",
+"phonetic1": "kʌm",
+"trans": [
+{
+"pos": "vi.",
+"cn": "来；开始；出现"
+},
+{
+"pos": "vt.",
+"cn": "做；假装；将满（…岁）"
+},
+{
+"pos": "int.",
+"cn": "嗨！"
+}
+]
+},
+{
+"word": "aunt",
+"phonetic0": "ɑːnt",
+"phonetic1": "ænt",
+"trans": [
+{
+"pos": "n.",
+"cn": "阿姨；姑妈；伯母"
+}
+]
+},
+{
+"word": "writer",
+"phonetic0": "ˈraɪtə(r)",
+"phonetic1": "ˈraɪtər",
+"trans": [
+{
+"pos": "n.",
+"cn": "作家；作者"
+}
+]
+},
+{
+"word": "our",
+"phonetic0": "ɑː(r)",
+"phonetic1": "ɑːr",
+"trans": [
+{
+"pos": "pron.",
+"cn": "我们的"
+}
+]
+},
+{
+"word": "husband",
+"phonetic0": "ˈhʌzbənd",
+"phonetic1": "ˈhʌzbənd",
+"trans": [
+{
+"pos": "n.",
+"cn": "丈夫"
+},
+{
+"pos": "vt.",
+"cn": "节约地使用（或管理）"
+}
+]
+},
+{
+"word": "everybody",
+"phonetic0": "ˈevribɒdi",
+"phonetic1": "ˈevribɑːdi",
+"trans": [
+{
+"pos": "pron.",
+"cn": "每个人；人人"
+}
+]
+},
+{
+"word": "Thank you",
+"phonetic0": "ˈθæŋk juː",
+"phonetic1": "ˈθæŋk juː",
+"trans": [
+{
+"pos": "int.",
+"cn": "（表示感激）谢谢你；（接受好意）好；（婉言谢绝）不用了"
+},
+{
+"pos": "n.",
+"cn": "感谢；谢意；酬谢"
+}
+]
+},
+{
+"word": "for",
+"phonetic0": "fɔː(r)",
+"phonetic1": "fɔːr",
+"trans": [
+{
+"pos": "prep.",
+"cn": "为，为了；因为；给"
+},
+{
+"pos": "conj.",
+"cn": "因为"
+}
+]
+},
+{
+"word": "welcome",
+"phonetic0": "ˈwelkəm",
+"phonetic1": "ˈwelkəm",
+"trans": [
+{
+"pos": "n.",
+"cn": "欢迎"
+},
+{
+"pos": "vt.",
+"cn": "欢迎"
+},
+{
+"pos": "adj.",
+"cn": "受欢迎的"
+}
+]
+},
+{
+"word": "job",
+"phonetic0": "dʒɒb",
+"phonetic1": "dʒɑːb",
+"trans": [
+{
+"pos": "n.",
+"cn": "工作；职业"
+},
+{
+"pos": "vt.",
+"cn": "承包；代客买卖"
+},
+{
+"pos": "vi.",
+"cn": "做零工"
+}
+]
+},
+{
+"word": "housewife",
+"phonetic0": "ˈhaʊswaɪf",
+"phonetic1": "ˈhaʊswaɪf",
+"trans": [
+{
+"pos": "n.",
+"cn": "家庭主妇"
+}
+]
+},
+{
+"word": "photographer",
+"phonetic0": "fəˈtɒɡrəfə(r)",
+"phonetic1": "fəˈtɑːɡrəfər",
+"trans": [
+{
+"pos": "n.",
+"cn": "摄影师；照相师"
+}
+]
+},
+{
+"word": "policeman",
+"phonetic0": "pəˈliːsmən",
+"phonetic1": "pəˈliːsmən",
+"trans": [
+{
+"pos": "n.",
+"cn": "警察，警员；[分化] 淀帚（橡皮头玻璃搅棒）"
+}
+]
+},
+{
+"word": "postman",
+"phonetic0": "ˈpəʊstmən",
+"phonetic1": "ˈpoʊstmən",
+"trans": [
+{
+"pos": "n.",
+"cn": "邮递员；邮差"
+}
+]
+},
+{
+"word": "actor",
+"phonetic0": "ˈæktə(r)",
+"phonetic1": "ˈæktər",
+"trans": [
+{
+"pos": "n.",
+"cn": "男演员；行动者；作用物"
+}
+]
+},
+{
+"word": "accountant",
+"phonetic0": "əˈkaʊntənt",
+"phonetic1": "əˈkaʊntənt",
+"trans": [
+{
+"pos": "n.",
+"cn": "会计师；会计人员"
+}
+]
+},
+{
+"word": "gossip",
+"phonetic0": "ˈɡɒsɪp",
+"phonetic1": "ˈɡɑːsɪp",
+"trans": [
+{
+"pos": "n.",
+"cn": "小道传闻；随笔；爱说长道短的人"
+},
+{
+"pos": "vi.",
+"cn": "闲聊；传播流言蜚语"
+}
+]
+},
+{
+"word": "over there",
+"phonetic0": "'əʊvə(r) ðeə(r)",
+"phonetic1": "ˈəʊvər ðer",
+"trans": [
+{
+"pos": "na.",
+"cn": "在那边；〔美国〕在欧洲；〔大战用语〕在战地"
+}
+]
+},
+{
+"word": "tall",
+"phonetic0": "tɔːl",
+"phonetic1": "tɔːl",
+"trans": [
+{
+"pos": "adj.",
+"cn": "高的；长的；过分的"
+},
+{
+"pos": "adv.",
+"cn": "夸大地"
+}
+]
+},
+{
+"word": "pretty",
+"phonetic0": "ˈprɪti",
+"phonetic1": "ˈprɪti",
+"trans": [
+{
+"pos": "n.",
+"cn": "有吸引力的事物（尤指饰品）；漂亮的人"
+},
+{
+"pos": "adj.",
+"cn": "漂亮的；可爱的；优美的"
+},
+{
+"pos": "adv.",
+"cn": "相当地；颇"
+}
+]
+},
+{
+"word": "Where",
+"phonetic0": "weə(r)",
+"phonetic1": "wer",
+"trans": [
+{
+"pos": "conj.",
+"cn": "在…的地方"
+},
+{
+"pos": "n.",
+"cn": "地点"
+},
+{
+"pos": "adv.",
+"cn": "在哪里"
+}
+]
+},
+{
+"word": "from",
+"phonetic0": "frɒm",
+"phonetic1": "frʌm",
+"trans": [
+{
+"pos": "prep.",
+"cn": "来自，从；由于；今后"
+}
+]
+},
+{
+"word": "English",
+"phonetic0": "ˈɪŋɡlɪʃ",
+"phonetic1": "ˈɪŋɡlɪʃ",
+"trans": [
+{
+"pos": "n.",
+"cn": "英语；英国人；英文"
+},
+{
+"pos": "adj.",
+"cn": "英国人的；英国的；英文的"
+},
+{
+"pos": "vt.",
+"cn": "把…译成英语"
+}
+]
+},
+{
+"word": "American",
+"phonetic0": "əˈmerɪkən",
+"phonetic1": "əˈmerɪkən",
+"trans": [
+{
+"pos": "n.",
+"cn": "美国人，美洲人；美国英语"
+},
+{
+"pos": "adj.",
+"cn": "美国的，美洲的；地道美国式的"
+}
+]
+},
+{
+"word": "Washington",
+"phonetic0": "ˈwɒʃɪŋtən",
+"phonetic1": "ˈwɔʃɪŋtən",
+"trans": [
+{
+"pos": "n.",
+"cn": "华盛顿（美国州名，美国城市名，美国第一任总统，姓氏）"
+}
+]
+},
+{
+"word": "here",
+"phonetic0": "hɪə(r)",
+"phonetic1": "hɪr",
+"trans": [
+{
+"pos": "n.",
+"cn": "这里"
+},
+{
+"pos": "adv.",
+"cn": "在这里；此时"
+},
+{
+"pos": "int.",
+"cn": "嘿！；喂！"
+}
+]
+},
+{
+"word": "famous",
+"phonetic0": "ˈfeɪməs",
+"phonetic1": "ˈfeɪməs",
+"trans": [
+{
+"pos": "adj.",
+"cn": "著名的；极好的，非常令人满意的"
+}
+]
+},
+{
+"word": "expensive",
+"phonetic0": "ɪkˈspensɪv",
+"phonetic1": "ɪkˈspensɪv",
+"trans": [
+{
+"pos": "adj.",
+"cn": "昂贵的；花钱的"
+}
+]
+},
+{
+"word": "beautiful",
+"phonetic0": "ˈbjuːtɪf(ə)l",
+"phonetic1": "ˈbjuːtɪf(ə)l",
+"trans": [
+{
+"pos": "adj.",
+"cn": "美丽的"
+},
+{
+"pos": "",
+"cn": "出色地"
+},
+{
+"pos": "",
+"cn": "出色的"
+}
+]
+},
+{
+"word": "handsome",
+"phonetic0": "ˈhænsəm",
+"phonetic1": "ˈhænsəm",
+"trans": [
+{
+"pos": "adj.",
+"cn": "（男子）英俊的；可观的；大方的，慷慨的"
+}
+]
+},
+{
+"word": "wait",
+"phonetic0": "weɪt",
+"phonetic1": "weɪt",
+"trans": [
+{
+"pos": "n.",
+"cn": "等待；等候"
+},
+{
+"pos": "vi.",
+"cn": "等待；耽搁；伺候用餐"
+},
+{
+"pos": "vt.",
+"cn": "等候；推迟；延缓"
+}
+]
+},
+{
+"word": "see",
+"phonetic0": "siː",
+"phonetic1": "siː",
+"trans": [
+{
+"pos": "vi.",
+"cn": "看；看见；领会"
+},
+{
+"pos": "vt.",
+"cn": "看见；理解；领会"
+}
+]
+},
+{
+"word": "London",
+"phonetic0": "ˈlʌndən",
+"phonetic1": "ˈlʌndən",
+"trans": [
+{
+"pos": "n.",
+"cn": "伦敦"
+}
+]
+},
+{
+"word": "nationality",
+"phonetic0": "ˌnæʃəˈnæləti",
+"phonetic1": "ˌnæʃəˈnæləti",
+"trans": [
+{
+"pos": "n.",
+"cn": "国籍，国家；民族；部落"
+}
+]
+},
+{
+"word": "describe",
+"phonetic0": "dɪˈskraɪb",
+"phonetic1": "dɪˈskraɪb",
+"trans": [
+{
+"pos": "vt.",
+"cn": "描述，形容；描绘"
+}
+]
+},
+{
+"word": "short",
+"phonetic0": "ʃɔːt",
+"phonetic1": "ʃɔːrt",
+"trans": [
+{
+"pos": "n.",
+"cn": "短；缺乏；短路"
+},
+{
+"pos": "adj.",
+"cn": "短的；不足的；矮的，低的"
+},
+{
+"pos": "adv.",
+"cn": "不足；突然；唐突地"
+}
+]
+},
+{
+"word": "Chinese",
+"phonetic0": "ˌtʃaɪˈniːz",
+"phonetic1": "ˌtʃaɪˈniːz",
+"trans": [
+{
+"pos": "n.",
+"cn": "中文，汉语；中国人"
+},
+{
+"pos": "adj.",
+"cn": "中国的，中国人的；中国话的"
+}
+]
+},
+{
+"word": "French",
+"phonetic0": "frentʃ",
+"phonetic1": "frentʃ",
+"trans": [
+{
+"pos": "n.",
+"cn": "法国人；法语"
+},
+{
+"pos": "adj.",
+"cn": "法国的；法语的；法国人的"
+}
+]
+},
+{
+"word": "fat",
+"phonetic0": "fæt",
+"phonetic1": "fæt",
+"trans": [
+{
+"pos": "n.",
+"cn": "脂肪，肥肉"
+},
+{
+"pos": "adj.",
+"cn": "肥的，胖的；油腻的；丰满的"
+},
+{
+"pos": "vt.",
+"cn": "养肥；在…中加入脂肪"
+}
+]
+},
+{
+"word": "thin",
+"phonetic0": "θɪn",
+"phonetic1": "θɪn",
+"trans": [
+{
+"pos": "n.",
+"cn": "细小部分"
+},
+{
+"pos": "adj.",
+"cn": "薄的；瘦的；稀薄的"
+},
+{
+"pos": "vt.",
+"cn": "使瘦；使淡；使稀疏"
+}
+]
+},
+{
+"word": "actress",
+"phonetic0": "ˈæktrəs",
+"phonetic1": "ˈæktrəs",
+"trans": [
+{
+"pos": "n.",
+"cn": "女演员"
+}
+]
+},
+{
+"word": "Mum",
+"phonetic0": "mʌm",
+"phonetic1": "mʌm",
+"trans": [
+{
+"pos": "adj.",
+"cn": "沉默的"
+},
+{
+"pos": "n.",
+"cn": "妈妈（口语）；沉默；菊花"
+},
+{
+"pos": "vi.",
+"cn": "演哑剧"
+}
+]
+},
+{
+"word": "one",
+"phonetic0": "wʌn",
+"phonetic1": "wʌn",
+"trans": [
+{
+"pos": "pron.",
+"cn": "一个人；任何人"
+},
+{
+"pos": "adj.",
+"cn": "一的；唯一的"
+},
+{
+"pos": "n.",
+"cn": "一"
+}
+]
+},
+{
+"word": "favourite",
+"phonetic0": "ˈfeɪvərɪt",
+"phonetic1": "ˈfeɪvərɪt",
+"trans": [
+{
+"pos": "n.",
+"cn": "特别喜爱的人（或物）"
+},
+{
+"pos": "adj.",
+"cn": "特别受喜爱的"
+}
+]
+},
+{
+"word": "long",
+"phonetic0": "lɒŋ",
+"phonetic1": "lɔːŋ",
+"trans": [
+{
+"pos": "n.",
+"cn": "长时间；[语] 长音节；（服装的）长尺寸"
+},
+{
+"pos": "adj.",
+"cn": "长的；过长的；做多头的"
+},
+{
+"pos": "vi.",
+"cn": "渴望；热望"
+}
+]
+},
+{
+"word": "schoolbag",
+"phonetic0": "ˈskuːlbæɡ",
+"phonetic1": "ˈskuːlˌbæɡ",
+"trans": [
+{
+"pos": "n.",
+"cn": "书包"
+}
+]
+},
+{
+"word": "give",
+"phonetic0": "ɡɪv",
+"phonetic1": "ɡɪv",
+"trans": [
+{
+"pos": "n.",
+"cn": "弹性；弯曲；伸展性"
+},
+{
+"pos": "vi.",
+"cn": "捐赠；面向；有弹性"
+},
+{
+"pos": "vt.",
+"cn": "给；产生；让步"
+}
+]
+},
+{
+"word": "me",
+"phonetic0": "miː",
+"phonetic1": "miː",
+"trans": [
+{
+"pos": "pron.",
+"cn": "我（宾格）"
+},
+{
+"pos": "n.",
+"cn": "自我；极端自私的人；自我的一部分"
+}
+]
+},
+{
+"word": "please",
+"phonetic0": "pliːz",
+"phonetic1": "pliːz",
+"trans": [
+{
+"pos": "int.",
+"cn": "请（礼貌用语）"
+},
+{
+"pos": "vt.",
+"cn": "使喜欢；使高兴，使满意"
+},
+{
+"pos": "vi.",
+"cn": "讨人喜欢；令人高兴"
+}
+]
+},
+{
+"word": "Here you are.",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "[口语]；我们(或你，你们)到了!；这就是我们(或你，你们)所要的东西。"
+}
+]
+},
+{
+"word": "pencil-case",
+"phonetic0": "ˈpensl keɪs",
+"phonetic1": "ˈpensl keɪs",
+"trans": [
+{
+"pos": "n.",
+"cn": "铅笔盒"
+}
+]
+},
+{
+"word": "thing",
+"phonetic0": "θɪŋ",
+"phonetic1": "θɪŋ",
+"trans": [
+{
+"pos": "n.",
+"cn": "事情；东西；事物"
+}
+]
+},
+{
+"word": "Oh, well",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "算了；哦好的；好吧"
+}
+]
+},
+{
+"word": "put",
+"phonetic0": "pʊt",
+"phonetic1": "pʊt",
+"trans": [
+{
+"pos": "n.",
+"cn": "掷；笨蛋；投击"
+},
+{
+"pos": "adj.",
+"cn": "固定不动的"
+},
+{
+"pos": "vi.",
+"cn": "出发；击；航行"
+}
+]
+},
+{
+"word": "No harm done",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "na.",
+"cn": "没有人受伤"
+}
+]
+},
+{
+"word": "Thanks",
+"phonetic0": "θæŋks",
+"phonetic1": "θæŋks",
+"trans": [
+{
+"pos": "",
+"cn": "多谢；感谢的"
+}
+]
+},
+{
+"word": "Dad",
+"phonetic0": "dæd",
+"phonetic1": "dæd",
+"trans": [
+{
+"pos": "n.",
+"cn": "爸爸；爹爹"
+}
+]
+},
+{
+"word": "case",
+"phonetic0": "keɪs",
+"phonetic1": "keɪs",
+"trans": [
+{
+"pos": "n.",
+"cn": "情况；实例；箱"
+},
+{
+"pos": "vt.",
+"cn": "包围；把…装于容器中"
+}
+]
+},
+{
+"word": "small",
+"phonetic0": "smɔːl",
+"phonetic1": "smɔːl",
+"trans": [
+{
+"pos": "n.",
+"cn": "小件物品；矮小的人"
+},
+{
+"pos": "adj.",
+"cn": "少的，小的；微弱的；几乎没有的"
+},
+{
+"pos": "adv.",
+"cn": "小小地；卑鄙地"
+}
+]
+},
+{
+"word": "ball",
+"phonetic0": "bɔːl",
+"phonetic1": "bɔːl",
+"trans": [
+{
+"pos": "n.",
+"cn": "球；舞会"
+},
+{
+"pos": "vt.",
+"cn": "捏成球形"
+},
+{
+"pos": "vi.",
+"cn": "成团块"
+}
+]
+},
+{
+"word": "box",
+"phonetic0": "bɒks",
+"phonetic1": "bɑːks",
+"trans": [
+{
+"pos": "n.",
+"cn": "箱，盒子；包厢；一拳"
+},
+{
+"pos": "vt.",
+"cn": "拳击；装…入盒中；打耳光"
+},
+{
+"pos": "vi.",
+"cn": "拳击"
+}
+]
+},
+{
+"word": "big",
+"phonetic0": "bɪɡ",
+"phonetic1": "bɪɡ",
+"trans": [
+{
+"pos": "adj.",
+"cn": "大的；重要的；量大的"
+},
+{
+"pos": "adv.",
+"cn": "大量地；顺利；夸大地"
+}
+]
+},
+{
+"word": "clean",
+"phonetic0": "kliːn",
+"phonetic1": "kliːn",
+"trans": [
+{
+"pos": "n.",
+"cn": "打扫"
+},
+{
+"pos": "adj.",
+"cn": "清洁的，干净的；清白的"
+},
+{
+"pos": "vt.",
+"cn": "使干净"
+}
+]
+},
+{
+"word": "cup",
+"phonetic0": "kʌp",
+"phonetic1": "kʌp",
+"trans": [
+{
+"pos": "n.",
+"cn": "杯子；奖杯；酒杯"
+},
+{
+"pos": "vt.",
+"cn": "使成杯状；为…拔火罐"
+}
+]
+},
+{
+"word": "dirty",
+"phonetic0": "ˈdɜːti",
+"phonetic1": "ˈdɜːrti",
+"trans": [
+{
+"pos": "adj.",
+"cn": "下流的，卑鄙的；肮脏的；恶劣的"
+},
+{
+"pos": "vt.",
+"cn": "弄脏"
+},
+{
+"pos": "vi.",
+"cn": "变脏"
+}
+]
+},
+{
+"word": "floor",
+"phonetic0": "flɔː(r)",
+"phonetic1": "flɔːr",
+"trans": [
+{
+"pos": "n.",
+"cn": "地板，地面；楼层；基底"
+},
+{
+"pos": "vt.",
+"cn": "铺地板；打倒，击倒；（被困难）难倒"
+}
+]
+},
+{
+"word": "thick",
+"phonetic0": "θɪk",
+"phonetic1": "θɪk",
+"trans": [
+{
+"pos": "n.",
+"cn": "最拥挤部分；活动最多部分；事物的粗大浓密部分"
+},
+{
+"pos": "adj.",
+"cn": "厚的；浓的；粗大的"
+},
+{
+"pos": "adv.",
+"cn": "密集地；浓浓地，厚厚地"
+}
+]
+},
+{
+"word": "under",
+"phonetic0": "ˈʌndə(r)",
+"phonetic1": "ˈʌndər",
+"trans": [
+{
+"pos": "prep.",
+"cn": "低于，少于；在...之下"
+},
+{
+"pos": "adj.",
+"cn": "下面的；从属的"
+},
+{
+"pos": "adv.",
+"cn": "在下面；在下方"
+}
+]
+},
+{
+"word": "bed",
+"phonetic0": "bed",
+"phonetic1": "bed",
+"trans": [
+{
+"pos": "n.",
+"cn": "床；基础；河底， 海底"
+},
+{
+"pos": "vt.",
+"cn": "使睡觉；安置，嵌入；栽种"
+},
+{
+"pos": "vi.",
+"cn": "上床；分层"
+}
+]
+},
+{
+"word": "light",
+"phonetic0": "laɪt",
+"phonetic1": "laɪt",
+"trans": [
+{
+"pos": "n.",
+"cn": "光；光线；灯"
+},
+{
+"pos": "adj.",
+"cn": "轻的；浅色的；明亮的"
+},
+{
+"pos": "vi.",
+"cn": "点着；变亮；着火"
+}
+]
+},
+{
+"word": "plate",
+"phonetic0": "pleɪt",
+"phonetic1": "pleɪt",
+"trans": [
+{
+"pos": "n.",
+"cn": "碟；金属板；金属牌"
+},
+{
+"pos": "vt.",
+"cn": "电镀；给…装甲"
+}
+]
+},
+{
+"word": "heavy",
+"phonetic0": "ˈhevi",
+"phonetic1": "ˈhevi",
+"trans": [
+{
+"pos": "n.",
+"cn": "重物；严肃角色"
+},
+{
+"pos": "adj.",
+"cn": "沉重的；繁重的，巨大的；拥挤的"
+},
+{
+"pos": "adv.",
+"cn": "大量地；笨重地"
+}
+]
+},
+{
+"word": "shelf",
+"phonetic0": "ʃelf",
+"phonetic1": "ʃelf",
+"trans": [
+{
+"pos": "n.",
+"cn": "架子；搁板；搁板状物"
+}
+]
+},
+{
+"word": "cupboard",
+"phonetic0": "ˈkʌbəd",
+"phonetic1": "ˈkʌbərd",
+"trans": [
+{
+"pos": "n.",
+"cn": "碗柜；食橱"
+}
+]
+},
+{
+"word": "bump",
+"phonetic0": "bʌmp",
+"phonetic1": "bʌmp",
+"trans": [
+{
+"pos": "n.",
+"cn": "肿块，隆起物；撞击"
+},
+{
+"pos": "vi.",
+"cn": "碰撞，撞击；颠簸而行"
+},
+{
+"pos": "vt.",
+"cn": "碰，撞；颠簸"
+}
+]
+},
+{
+"word": "night",
+"phonetic0": "naɪt",
+"phonetic1": "naɪt",
+"trans": [
+{
+"pos": "n.",
+"cn": "夜晚，晚上；黑暗，黑夜"
+},
+{
+"pos": "adj.",
+"cn": "夜晚的，夜间的"
+}
+]
+},
+{
+"word": "wake up",
+"phonetic0": "ˈweɪk ˌʌp",
+"phonetic1": "ˈweɪk ˌʌp",
+"trans": [
+{
+"pos": "na.",
+"cn": "同“wake”；叫醒；醒来"
+}
+]
+},
+{
+"word": "listen",
+"phonetic0": "ˈlɪs(ə)n",
+"phonetic1": "ˈlɪsn",
+"trans": [
+{
+"pos": "vi.",
+"cn": "听，倾听；听从，听信"
+},
+{
+"pos": "n.",
+"cn": "听，倾听"
+}
+]
+},
+{
+"word": "there",
+"phonetic0": "ðeə(r)",
+"phonetic1": "ðer",
+"trans": [
+{
+"pos": "n.",
+"cn": "那个地方"
+},
+{
+"pos": "adv.",
+"cn": "在那里；在那边；在那点上"
+},
+{
+"pos": "int.",
+"cn": "你瞧"
+}
+]
+},
+{
+"word": "noise",
+"phonetic0": "nɔɪz",
+"phonetic1": "nɔɪz",
+"trans": [
+{
+"pos": "n.",
+"cn": "[环境] 噪音；响声；杂音"
+},
+{
+"pos": "vt.",
+"cn": "谣传"
+},
+{
+"pos": "vi.",
+"cn": "发出声音；大声议论"
+}
+]
+},
+{
+"word": "living-room",
+"phonetic0": "ˈlɪvɪŋ ruːm",
+"phonetic1": "ˈlɪvɪŋ ruːmˌˈlɪvɪŋ rʊm",
+"trans": [
+{
+"pos": "n.",
+"cn": "起居室；客厅"
+}
+]
+},
+{
+"word": "burglar",
+"phonetic0": "ˈbɜːɡlə(r)",
+"phonetic1": "ˈbɜːrɡlər",
+"trans": [
+{
+"pos": "n.",
+"cn": "夜贼，窃贼"
+}
+]
+},
+{
+"word": "Nonsense",
+"phonetic0": "ˈnɒns(ə)ns",
+"phonetic1": "ˈnɑːnsens",
+"trans": [
+{
+"pos": "n.",
+"cn": "胡说；废话"
+},
+{
+"pos": "a.",
+"cn": "荒谬的"
+},
+{
+"pos": "int.",
+"cn": "胡说！"
+}
+]
+},
+{
+"word": "kitchen",
+"phonetic0": "ˈkɪtʃɪn",
+"phonetic1": "ˈkɪtʃɪn",
+"trans": [
+{
+"pos": "n.",
+"cn": "厨房；炊具；炊事人员"
+}
+]
+},
+{
+"word": "torch",
+"phonetic0": "tɔːtʃ",
+"phonetic1": "tɔːrtʃ",
+"trans": [
+{
+"pos": "n.",
+"cn": "火把，火炬；手电筒；启发之物"
+},
+{
+"pos": "vt.",
+"cn": "用火炬点燃"
+},
+{
+"pos": "vi.",
+"cn": "像火炬一样燃烧"
+}
+]
+},
+{
+"word": "Here it is.",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "这就是那件东西"
+}
+]
+},
+{
+"word": "Be careful",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "小心；当心；注意"
+}
+]
+},
+{
+"word": "someone",
+"phonetic0": "ˈsʌmwʌn",
+"phonetic1": "ˈsʌmwʌn",
+"trans": [
+{
+"pos": "pron.",
+"cn": "有人，某人"
+}
+]
+},
+{
+"word": "downstairs",
+"phonetic0": "ˌdaʊnˈsteəz",
+"phonetic1": "ˌdaʊnˈsterz",
+"trans": [
+{
+"pos": "n.",
+"cn": "楼下"
+},
+{
+"pos": "adj.",
+"cn": "楼下的"
+},
+{
+"pos": "adv.",
+"cn": "在楼下"
+}
+]
+},
+{
+"word": "wide-awake",
+"phonetic0": "waɪd əˈweɪk",
+"phonetic1": "waɪd əˈweɪk",
+"trans": [
+{
+"pos": "n.",
+"cn": "低顶宽边软毡帽"
+},
+{
+"pos": "adj.",
+"cn": "机警的；精明的；完全清醒的"
+}
+]
+},
+{
+"word": "we",
+"phonetic0": "wiː",
+"phonetic1": "wiː",
+"trans": [
+{
+"pos": "pron.",
+"cn": "我们（主格）；笔者，本人（作者或演讲人使用）；朕，寡人"
+}
+]
+},
+{
+"word": "all",
+"phonetic0": "ɔːl",
+"phonetic1": "ɔːl",
+"trans": [
+{
+"pos": "n.",
+"cn": "全部"
+},
+{
+"pos": "adj.",
+"cn": "全部的"
+},
+{
+"pos": "adv.",
+"cn": "全然地；越发"
+}
+]
+},
+{
+"word": "bedroom",
+"phonetic0": "ˈbedruːm",
+"phonetic1": "ˈbedruːm",
+"trans": [
+{
+"pos": "n.",
+"cn": "卧室"
+},
+{
+"pos": "adj.",
+"cn": "两性关系的；城郊住宅区的"
+}
+]
+},
+{
+"word": "garden",
+"phonetic0": "ˈɡɑːdn",
+"phonetic1": "ˈɡɑːrdn",
+"trans": [
+{
+"pos": "n.",
+"cn": "花园；菜园"
+},
+{
+"pos": "vt.",
+"cn": "栽培花木"
+},
+{
+"pos": "vi.",
+"cn": "从事园艺；在园中种植"
+}
+]
+},
+{
+"word": "door",
+"phonetic0": "dɔː(r)",
+"phonetic1": "dɔːr",
+"trans": [
+{
+"pos": "n.",
+"cn": "门；家，户；门口"
+}
+]
+},
+{
+"word": "secretary",
+"phonetic0": "ˈsekrət(ə)ri",
+"phonetic1": "ˈsekrəteri",
+"trans": [
+{
+"pos": "n.",
+"cn": "秘书；书记；部长"
+}
+]
+},
+{
+"word": "basket",
+"phonetic0": "ˈbɑːskɪt",
+"phonetic1": "ˈbæskɪt",
+"trans": [
+{
+"pos": "n.",
+"cn": "篮子；（篮球比赛的）得分；一篮之量"
+},
+{
+"pos": "vt.",
+"cn": "装入篮"
+}
+]
+},
+{
+"word": "bowl",
+"phonetic0": "bəʊl",
+"phonetic1": "boʊl",
+"trans": [
+{
+"pos": "n.",
+"cn": "碗；木球；大酒杯"
+},
+{
+"pos": "vt.",
+"cn": "投球；旋转；平稳快速移动"
+},
+{
+"pos": "vi.",
+"cn": "玩保龄球；滑动；平稳快速移动"
+}
+]
+},
+{
+"word": "apple",
+"phonetic0": "ˈæp(ə)l",
+"phonetic1": "ˈæpl",
+"trans": [
+{
+"pos": "n.",
+"cn": "苹果，苹果树，苹果似的东西；[美俚]炸弹，手榴弹，（棒球的）球；[美俚]人，家伙。"
+}
+]
+},
+{
+"word": "orange",
+"phonetic0": "ˈɒrɪndʒ",
+"phonetic1": "ˈɔrɪndʒ",
+"trans": [
+{
+"pos": "adj.",
+"cn": "橙色的；橘色的"
+},
+{
+"pos": "n.",
+"cn": "橙；橙色；桔子"
+}
+]
+},
+{
+"word": "house",
+"phonetic0": "haʊs",
+"phonetic1": "haʊs",
+"trans": [
+{
+"pos": "n.",
+"cn": "住宅；家庭；机构"
+},
+{
+"pos": "vt.",
+"cn": "覆盖；给…房子住；把…储藏在房内"
+},
+{
+"pos": "vi.",
+"cn": "住"
+}
+]
+},
+{
+"word": "near",
+"phonetic0": "nɪə(r)",
+"phonetic1": "nɪr",
+"trans": [
+{
+"pos": "adj.",
+"cn": "近的；亲近的；近似的"
+},
+{
+"pos": "adv.",
+"cn": "近；接近"
+},
+{
+"pos": "prep.",
+"cn": "靠近；近似于"
+}
+]
+},
+{
+"word": "river",
+"phonetic0": "ˈrɪvə(r)",
+"phonetic1": "ˈrɪvər",
+"trans": [
+{
+"pos": "n.",
+"cn": "河，江"
+}
+]
+},
+{
+"word": "tree",
+"phonetic0": "triː",
+"phonetic1": "triː",
+"trans": [
+{
+"pos": "n.",
+"cn": "树；木料；树状物"
+},
+{
+"pos": "vt.",
+"cn": "把...赶上树"
+},
+{
+"pos": "vi.",
+"cn": "爬上树；逃上树"
+}
+]
+},
+{
+"word": "pink",
+"phonetic0": "pɪŋk",
+"phonetic1": "pɪŋk",
+"trans": [
+{
+"pos": "n.",
+"cn": "粉红色；化身，典范；石竹花"
+},
+{
+"pos": "adj.",
+"cn": "粉红的；比较激进的；石竹科的"
+},
+{
+"pos": "vt.",
+"cn": "扎，刺，戳；使…变粉红色；使…面红耳赤"
+}
+]
+},
+{
+"word": "Here are",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "这些是；这里是；有一些"
+}
+]
+},
+{
+"word": "pyjamas",
+"phonetic0": "pəˈdʒɑːməz",
+"phonetic1": "pəˈdʒæməz",
+"trans": [
+{
+"pos": "n.",
+"cn": "睡衣；宽长裤"
+}
+]
+},
+{
+"word": "them",
+"phonetic0": "ðem",
+"phonetic1": "ðem",
+"trans": [
+{
+"pos": "pron.",
+"cn": "他们；它们；她们"
+}
+]
+},
+{
+"word": "they",
+"phonetic0": "ðeɪ",
+"phonetic1": "ðeɪ",
+"trans": [
+{
+"pos": "pron.",
+"cn": "他们；它们；她们"
+}
+]
+},
+{
+"word": "bright red",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "n.",
+"cn": "鲜红"
+}
+]
+},
+{
+"word": "a bit",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "na.",
+"cn": "有点儿〔作副词用〕"
+}
+]
+},
+{
+"word": "shirt",
+"phonetic0": "ʃɜːt",
+"phonetic1": "ʃɜːrt",
+"trans": [
+{
+"pos": "n.",
+"cn": "衬衫；汗衫，内衣"
+}
+]
+},
+{
+"word": "pure white",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "na.",
+"cn": "纯白"
+}
+]
+},
+{
+"word": "washing machine",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "n.",
+"cn": "洗衣机"
+}
+]
+},
+{
+"word": "lovely",
+"phonetic0": "ˈlʌvli",
+"phonetic1": "ˈlʌvli",
+"trans": [
+{
+"pos": "adj.",
+"cn": "可爱的；令人愉快的；爱恋的"
+},
+{
+"pos": "n.",
+"cn": "美女；可爱的东西"
+}
+]
+},
+{
+"word": "those",
+"phonetic0": "ðəʊz",
+"phonetic1": "ðoʊz",
+"trans": [
+{
+"pos": "adj.",
+"cn": "那些的"
+},
+{
+"pos": "pron.",
+"cn": "那些（that的复数）"
+}
+]
+},
+{
+"word": "dog",
+"phonetic0": "dɒɡ",
+"phonetic1": "dɔːɡ",
+"trans": [
+{
+"pos": "n.",
+"cn": "狗；丑女人；卑鄙的人"
+},
+{
+"pos": "vt.",
+"cn": "跟踪；尾随"
+}
+]
+},
+{
+"word": "cat",
+"phonetic0": "kæt",
+"phonetic1": "kæt",
+"trans": [
+{
+"pos": "n.",
+"cn": "猫，猫科动物"
+}
+]
+},
+{
+"word": "sock",
+"phonetic0": "sɒk",
+"phonetic1": "sɑːk",
+"trans": [
+{
+"pos": "vt.",
+"cn": "重击；给……穿袜"
+},
+{
+"pos": "n.",
+"cn": "短袜；一击"
+},
+{
+"pos": "adv.",
+"cn": "正着地；不偏不倚地"
+}
+]
+},
+{
+"word": "jump",
+"phonetic0": "dʒʌmp",
+"phonetic1": "dʒʌmp",
+"trans": [
+{
+"pos": "n.",
+"cn": "跳跃；暴涨；惊跳"
+},
+{
+"pos": "vt.",
+"cn": "跳跃；使跳跃；跳过"
+},
+{
+"pos": "vi.",
+"cn": "跳跃；暴涨；猛增"
+}
+]
+},
+{
+"word": "hurry up",
+"phonetic0": "'hʌrɪ ʌp",
+"phonetic1": "'hɜːrɪ ʌp",
+"trans": [
+{
+"pos": "na.",
+"cn": "催促；赶快"
+}
+]
+},
+{
+"word": "bus",
+"phonetic0": "bʌs",
+"phonetic1": "bʌs",
+"trans": [
+{
+"pos": "n.",
+"cn": "公共汽车"
+},
+{
+"pos": "",
+"cn": "乘公共汽车"
+}
+]
+},
+{
+"word": "Wait a minute",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "稍等一下；等一会儿!；慢着!别忙(我还有话说)!"
+}
+]
+},
+{
+"word": "Come on",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "na.",
+"cn": "(演员)出台；进行(很好)；(暴风雨等)起"
+}
+]
+},
+{
+"word": "full",
+"phonetic0": "fʊl",
+"phonetic1": "fʊl",
+"trans": [
+{
+"pos": "n.",
+"cn": "全部；完整"
+},
+{
+"pos": "adj.",
+"cn": "完全的，完整的；满的，充满的；丰富的"
+},
+{
+"pos": "vt.",
+"cn": "把衣服缝得宽大"
+}
+]
+},
+{
+"word": "Oh, dear",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "哎呀；天呐；天啊"
+}
+]
+},
+{
+"word": "school",
+"phonetic0": "skuːl",
+"phonetic1": "skuːl",
+"trans": [
+{
+"pos": "n.",
+"cn": "学校；学院；学派"
+},
+{
+"pos": "vt.",
+"cn": "教育"
+}
+]
+},
+{
+"word": "of course",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "na.",
+"cn": "当然"
+}
+]
+},
+{
+"word": "Gee",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "n.",
+"cn": "马；字母G；一千美元（美俚）"
+},
+{
+"pos": "v.",
+"cn": "向右转"
+},
+{
+"pos": "int.",
+"cn": "向右！前进！快！（驾驭马牛等的吆喝声）"
+}
+]
+},
+{
+"word": "people",
+"phonetic0": "ˈpiːp(ə)l",
+"phonetic1": "ˈpiːpl",
+"trans": [
+{
+"pos": "n.",
+"cn": "人；人类；民族"
+},
+{
+"pos": "vt.",
+"cn": "居住于；使住满人"
+}
+]
+},
+{
+"word": "Never mind",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "un.",
+"cn": "没关系；不要紧；开诚布公地谈"
+}
+]
+},
+{
+"word": "Mom",
+"phonetic0": "mɒm",
+"phonetic1": "mɑːm",
+"trans": [
+{
+"pos": "n.",
+"cn": "妈妈"
+}
+]
+},
+{
+"word": "empty",
+"phonetic0": "ˈempti",
+"phonetic1": "ˈempti",
+"trans": [
+{
+"pos": "n.",
+"cn": "空车；空的东西"
+},
+{
+"pos": "adj.",
+"cn": "空的；无意义的；无知的"
+},
+{
+"pos": "vt.",
+"cn": "使失去；使…成为空的"
+}
+]
+},
+{
+"word": "smart",
+"phonetic0": "smɑːt",
+"phonetic1": "smɑːrt",
+"trans": [
+{
+"pos": "adj.",
+"cn": "聪明的；巧妙的；敏捷的"
+}
+]
+},
+{
+"word": "these",
+"phonetic0": "ðiːz",
+"phonetic1": "ðiːz",
+"trans": [
+{
+"pos": "adj.",
+"cn": "这些的"
+},
+{
+"pos": "pron.",
+"cn": "这些"
+}
+]
+},
+{
+"word": "outfit",
+"phonetic0": "ˈaʊtfɪt",
+"phonetic1": "ˈaʊtfɪt",
+"trans": [
+{
+"pos": "n.",
+"cn": "机构；用具；全套装备"
+},
+{
+"pos": "vi.",
+"cn": "得到装备"
+},
+{
+"pos": "vt.",
+"cn": "配备；供应"
+}
+]
+},
+{
+"word": "play",
+"phonetic0": "pleɪ",
+"phonetic1": "pleɪ",
+"trans": [
+{
+"pos": "n.",
+"cn": "游戏；比赛；剧本"
+},
+{
+"pos": "vt.",
+"cn": "游戏；扮演；演奏"
+},
+{
+"pos": "vi.",
+"cn": "演奏；玩耍；上演"
+}
+]
+},
+{
+"word": "both",
+"phonetic0": "bəʊθ",
+"phonetic1": "boʊθ",
+"trans": [
+{
+"pos": "conj.",
+"cn": "既…且…"
+},
+{
+"pos": "adj.",
+"cn": "两个的；两者的"
+},
+{
+"pos": "pron.",
+"cn": "双方都；两者都"
+}
+]
+},
+{
+"word": "elegant",
+"phonetic0": "ˈelɪɡənt",
+"phonetic1": "ˈelɪɡənt",
+"trans": [
+{
+"pos": "adj.",
+"cn": "高雅的，优雅的；讲究的；简炼的"
+}
+]
+},
+{
+"word": "interesting",
+"phonetic0": "ˈɪntrəstɪŋ",
+"phonetic1": "ˈɪntrəstɪŋ",
+"trans": [
+{
+"pos": "adj.",
+"cn": "有趣的；引起兴趣的，令人关注的"
+}
+]
+},
+{
+"word": "tie",
+"phonetic0": "taɪ",
+"phonetic1": "taɪ",
+"trans": [
+{
+"pos": "n.",
+"cn": "领带；平局；鞋带"
+},
+{
+"pos": "vi.",
+"cn": "打结；不分胜负；被用带（或绳子等）系住"
+},
+{
+"pos": "vt.",
+"cn": "系；约束；打结"
+}
+]
+},
+{
+"word": "um ...",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "int.",
+"cn": "呃"
+}
+]
+},
+{
+"word": "colourful",
+"phonetic0": "ˈkʌləf(ə)l",
+"phonetic1": "ˈkʌlərfl",
+"trans": [
+{
+"pos": "adj.",
+"cn": "鲜艳的；生动的；色彩丰富的"
+}
+]
+},
+{
+"word": "unusual",
+"phonetic0": "ʌnˈjuːʒuəl",
+"phonetic1": "ʌnˈjuːʒuəl",
+"trans": [
+{
+"pos": "adj.",
+"cn": "不寻常的；与众不同的；不平常的"
+}
+]
+},
+{
+"word": "shoe",
+"phonetic0": "ʃuː",
+"phonetic1": "ʃuː",
+"trans": [
+{
+"pos": "n.",
+"cn": "鞋；蹄铁；外胎"
+},
+{
+"pos": "vt.",
+"cn": "给……穿上鞋；穿……鞋"
+}
+]
+},
+{
+"word": "all right",
+"phonetic0": "ˌɔːl ˈraɪt",
+"phonetic1": "ɔːl raɪt",
+"trans": [
+{
+"pos": "adj.",
+"cn": "可接受（的）；满意（的）；安全健康（的）"
+},
+{
+"pos": "int.",
+"cn": "是不是；（表示同意）好；没什么"
+}
+]
+},
+{
+"word": "part",
+"phonetic0": "pɑːt",
+"phonetic1": "pɑːrt",
+"trans": [
+{
+"pos": "n.",
+"cn": "部分；角色；零件"
+},
+{
+"pos": "adj.",
+"cn": "部分的"
+},
+{
+"pos": "vt.",
+"cn": "分离；分配；分开"
+}
+]
+},
+{
+"word": "just",
+"phonetic0": "dʒʌst",
+"phonetic1": "dʒʌst",
+"trans": [
+{
+"pos": "adv.",
+"cn": "只是，仅仅；刚才，刚刚；正好，恰好"
+},
+{
+"pos": "adj.",
+"cn": "公正的，合理的；正直的，正义的；正确的"
+}
+]
+},
+{
+"word": "like",
+"phonetic0": "laɪk",
+"phonetic1": "laɪk",
+"trans": [
+{
+"pos": "vt.",
+"cn": "喜欢；想；愿意"
+},
+{
+"pos": "vi.",
+"cn": "喜欢；希望"
+},
+{
+"pos": "prep.",
+"cn": "像；如同"
+}
+]
+},
+{
+"word": "Daddy",
+"phonetic0": "ˈdædi",
+"phonetic1": "ˈdædi",
+"trans": [
+{
+"pos": "n.",
+"cn": "爸爸"
+}
+]
+},
+{
+"word": "show",
+"phonetic0": "ʃəʊ",
+"phonetic1": "ʃoʊ",
+"trans": [
+{
+"pos": "n.",
+"cn": "显示；表演；炫耀"
+},
+{
+"pos": "vt.",
+"cn": "显示；说明；演出"
+},
+{
+"pos": "vi.",
+"cn": "显示；说明；指示"
+}
+]
+},
+{
+"word": "drawing",
+"phonetic0": "ˈdrɔːɪŋ",
+"phonetic1": "ˈdrɔːɪŋ",
+"trans": [
+{
+"pos": "n.",
+"cn": "图画；牵引；素描术"
+},
+{
+"pos": "v.",
+"cn": "绘画；吸引（draw的ing形式）；拖曳"
+}
+]
+},
+{
+"word": "honey",
+"phonetic0": "ˈhʌni",
+"phonetic1": "ˈhʌni",
+"trans": [
+{
+"pos": "n.",
+"cn": "蜂蜜；宝贝；甜蜜"
+},
+{
+"pos": "adj.",
+"cn": "甘美的；蜂蜜似的"
+},
+{
+"pos": "vt.",
+"cn": "对…说甜言蜜语；加蜜使甜"
+}
+]
+},
+{
+"word": "muscle",
+"phonetic0": "ˈmʌsl",
+"phonetic1": "ˈmʌsl",
+"trans": [
+{
+"pos": "n.",
+"cn": "肌肉；力量"
+},
+{
+"pos": "vt.",
+"cn": "加强；使劲搬动；使劲挤出"
+},
+{
+"pos": "vi.",
+"cn": "使劲行进"
+}
+]
+},
+{
+"word": "strong",
+"phonetic0": "strɒŋ",
+"phonetic1": "strɔːŋ",
+"trans": [
+{
+"pos": "adj.",
+"cn": "坚强的；强壮的；牢固的"
+},
+{
+"pos": "adv.",
+"cn": "强劲地；猛烈地"
+}
+]
+},
+{
+"word": "little",
+"phonetic0": "ˈlɪt(ə)l",
+"phonetic1": "ˈlɪtl",
+"trans": [
+{
+"pos": "adj.",
+"cn": "小的；很少的；短暂的"
+},
+{
+"pos": "adv.",
+"cn": "完全不"
+},
+{
+"pos": "n.",
+"cn": "少许；没有多少；短时间"
+}
+]
+},
+{
+"word": "gymnast",
+"phonetic0": "ˈdʒɪmnæst",
+"phonetic1": "ˈdʒɪmnæst",
+"trans": [
+{
+"pos": "n.",
+"cn": "体操运动员"
+}
+]
+},
+{
+"word": "maybe",
+"phonetic0": "ˈmeɪbi",
+"phonetic1": "ˈmeɪbi",
+"trans": [
+{
+"pos": "adv.",
+"cn": "也许；可能；大概"
+},
+{
+"pos": "n.",
+"cn": "可能性；不确定性"
+}
+]
+},
+{
+"word": "bad",
+"phonetic0": "bæd",
+"phonetic1": "bæd",
+"trans": [
+{
+"pos": "n.",
+"cn": "坏事；坏人"
+},
+{
+"pos": "adj.",
+"cn": "坏的；严重的；劣质的"
+},
+{
+"pos": "adv.",
+"cn": "很，非常；坏地；邪恶地"
+}
+]
+},
+{
+"word": "great",
+"phonetic0": "ɡreɪt",
+"phonetic1": "ɡreɪt",
+"trans": [
+{
+"pos": "n.",
+"cn": "大师；大人物；伟人们"
+},
+{
+"pos": "adj.",
+"cn": "伟大的，重大的；极好的，好的；主要的"
+}
+]
+},
+{
+"word": "again",
+"phonetic0": "əˈɡen",
+"phonetic1": "əˈɡen",
+"trans": [
+{
+"pos": "adv.",
+"cn": "又，此外；再一次；再说"
+},
+{
+"pos": "n.",
+"cn": "（英、保）阿盖恩"
+}
+]
+},
+{
+"word": "weak",
+"phonetic0": "wiːk",
+"phonetic1": "wiːk",
+"trans": [
+{
+"pos": "adj.",
+"cn": "[经] 疲软的；虚弱的；无力的"
+}
+]
+},
+{
+"word": "workman",
+"phonetic0": "ˈwɜːkmən",
+"phonetic1": "ˈwɜːrkmən",
+"trans": [
+{
+"pos": "n.",
+"cn": "工匠；技工；男工"
+}
+]
+},
+{
+"word": "ugly",
+"phonetic0": "ˈʌɡli",
+"phonetic1": "ˈʌɡli",
+"trans": [
+{
+"pos": "adj.",
+"cn": "丑陋的；邪恶的；令人厌恶的"
+}
+]
+},
+{
+"word": "dark",
+"phonetic0": "dɑːk",
+"phonetic1": "dɑːrk",
+"trans": [
+{
+"pos": "n.",
+"cn": "黑暗；夜；黄昏"
+},
+{
+"pos": "adj.",
+"cn": "黑暗的，深色的；模糊的；无知的"
+}
+]
+},
+{
+"word": "blonde",
+"phonetic0": "blɒnd",
+"phonetic1": "blɑːnd",
+"trans": [
+{
+"pos": "n.",
+"cn": "白肤金发碧眼的女人"
+},
+{
+"pos": "adj.",
+"cn": "亚麻色的；金色的；白皙的"
+}
+]
+},
+{
+"word": "child",
+"phonetic0": "tʃaɪld",
+"phonetic1": "tʃaɪld",
+"trans": [
+{
+"pos": "n.",
+"cn": "儿童，小孩，孩子；产物；子孙"
+}
+]
+},
+{
+"word": "schoolboy",
+"phonetic0": "ˈskuːlbɔɪ",
+"phonetic1": "ˈskuːlbɔɪ",
+"trans": [
+{
+"pos": "n.",
+"cn": "男学生；学童"
+}
+]
+},
+{
+"word": "schoolchild",
+"phonetic0": "ˈskuːltʃaɪld",
+"phonetic1": "ˈskuːltʃaɪld",
+"trans": [
+{
+"pos": "n.",
+"cn": "学童"
+}
+]
+},
+{
+"word": "office worker",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "n.",
+"cn": "（公司、企业的）办事人员；公司职员；上班族"
+}
+]
+},
+{
+"word": "late",
+"phonetic0": "leɪt",
+"phonetic1": "leɪt",
+"trans": [
+{
+"pos": "adj.",
+"cn": "晚的；迟的；已故的"
+},
+{
+"pos": "adv.",
+"cn": "晚；迟；最近"
+}
+]
+},
+{
+"word": "early",
+"phonetic0": "ˈɜːli",
+"phonetic1": "ˈɜːrli",
+"trans": [
+{
+"pos": "adj.",
+"cn": "早期的；早熟的"
+},
+{
+"pos": "adv.",
+"cn": "提早；在初期"
+}
+]
+},
+{
+"word": "time",
+"phonetic0": "taɪm",
+"phonetic1": "taɪm",
+"trans": [
+{
+"pos": "n.",
+"cn": "时间；时代；次数"
+},
+{
+"pos": "adj.",
+"cn": "定时的；定期的；分期的"
+},
+{
+"pos": "vt.",
+"cn": "计时；测定…的时间；安排…的速度"
+}
+]
+},
+{
+"word": "What time is it",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "na.",
+"cn": "现在几点钟?"
+}
+]
+},
+{
+"word": "o'clock",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "abbr.",
+"cn": "…点钟（等于of the clock）"
+}
+]
+},
+{
+"word": "kid",
+"phonetic0": "kɪd",
+"phonetic1": "kɪd",
+"trans": [
+{
+"pos": "n.",
+"cn": "小孩；小山羊"
+},
+{
+"pos": "vt.",
+"cn": "欺骗；取笑；戏弄"
+},
+{
+"pos": "vi.",
+"cn": "欺骗；取笑；戏弄"
+}
+]
+},
+{
+"word": "in a hurry",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "na.",
+"cn": "匆忙；〈口〉容易地；急于要"
+}
+]
+},
+{
+"word": "late for school",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "无"
+}
+]
+},
+{
+"word": "You're welcome.",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "不客气；别客气；不用谢"
+}
+]
+},
+{
+"word": "call",
+"phonetic0": "kɔːl",
+"phonetic1": "kɔːl",
+"trans": [
+{
+"pos": "n.",
+"cn": "电话；呼叫；要求"
+},
+{
+"pos": "vi.",
+"cn": "呼叫；拜访；叫牌"
+},
+{
+"pos": "vt.",
+"cn": "呼叫；称呼；召集"
+}
+]
+},
+{
+"word": "go",
+"phonetic0": "ɡəʊ",
+"phonetic1": "ɡoʊ",
+"trans": [
+{
+"pos": "n.",
+"cn": "去；进行；尝试"
+},
+{
+"pos": "vi.",
+"cn": "走；达到；运转"
+},
+{
+"pos": "vt.",
+"cn": "忍受；出产；以…打赌"
+}
+]
+},
+{
+"word": "let's",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "让我们（let us的简写）"
+}
+]
+},
+{
+"word": "Wow",
+"phonetic0": "waʊ",
+"phonetic1": "waʊ",
+"trans": [
+{
+"pos": "",
+"cn": "[计] Grave Composer音乐模块（MOD）文件"
+}
+]
+},
+{
+"word": "speed",
+"phonetic0": "spiːd",
+"phonetic1": "spiːd",
+"trans": [
+{
+"pos": "n.",
+"cn": "速度，速率；迅速，快速；昌盛，繁荣"
+},
+{
+"pos": "vt.",
+"cn": "加快…的速度；使成功，使繁荣"
+},
+{
+"pos": "vi.",
+"cn": "超速，加速；加速，迅速前行；兴隆"
+}
+]
+},
+{
+"word": "gate",
+"phonetic0": "ɡeɪt",
+"phonetic1": "ɡeɪt",
+"trans": [
+{
+"pos": "n.",
+"cn": "大门；出入口；门道"
+},
+{
+"pos": "vt.",
+"cn": "给…装大门"
+}
+]
+},
+{
+"word": "shut",
+"phonetic0": "ʃʌt",
+"phonetic1": "ʃʌt",
+"trans": [
+{
+"pos": "n.",
+"cn": "关闭"
+},
+{
+"pos": "adj.",
+"cn": "关闭的；围绕的"
+},
+{
+"pos": "vi.",
+"cn": "关上；停止营业"
+}
+]
+},
+{
+"word": "slow",
+"phonetic0": "sləʊ",
+"phonetic1": "sloʊ",
+"trans": [
+{
+"pos": "adj.",
+"cn": "慢的；减速的；迟钝的"
+},
+{
+"pos": "vt.",
+"cn": "放慢；阻碍"
+},
+{
+"pos": "vi.",
+"cn": "变慢；变萧条"
+}
+]
+},
+{
+"word": "fast",
+"phonetic0": "fɑːst",
+"phonetic1": "fæst",
+"trans": [
+{
+"pos": "n.",
+"cn": "斋戒；绝食"
+},
+{
+"pos": "adj.",
+"cn": "快速的，迅速的；紧的，稳固的"
+},
+{
+"pos": "adv.",
+"cn": "迅速地；紧紧地；彻底地"
+}
+]
+},
+{
+"word": "What's the time",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "几点钟；几点了；现在几点了"
+}
+]
+},
+{
+"word": "open",
+"phonetic0": "ˈəʊpən",
+"phonetic1": "ˈoʊpən",
+"trans": [
+{
+"pos": "adj.",
+"cn": "公开的；敞开的；空旷的"
+},
+{
+"pos": "vi.",
+"cn": "开始；展现"
+},
+{
+"pos": "vt.",
+"cn": "公开；打开"
+}
+]
+},
+{
+"word": "catch",
+"phonetic0": "kætʃ",
+"phonetic1": "kætʃ",
+"trans": [
+{
+"pos": "n.",
+"cn": "捕捉；捕获物；窗钩"
+},
+{
+"pos": "vt.",
+"cn": "赶上；抓住；感染"
+},
+{
+"pos": "vi.",
+"cn": "赶上；抓住"
+}
+]
+},
+{
+"word": "jar",
+"phonetic0": "dʒɑː(r)",
+"phonetic1": "dʒɑːr",
+"trans": [
+{
+"pos": "n.",
+"cn": "罐；广口瓶；震动"
+},
+{
+"pos": "vi.",
+"cn": "冲突；不一致；震惊"
+},
+{
+"pos": "vt.",
+"cn": "震动；刺激；使震动"
+}
+]
+},
+{
+"word": "ready",
+"phonetic0": "ˈredi",
+"phonetic1": "ˈredi",
+"trans": [
+{
+"pos": "n.",
+"cn": "现款；预备好的状态"
+},
+{
+"pos": "adj.",
+"cn": "准备好；现成的；迅速的"
+},
+{
+"pos": "vt.",
+"cn": "使准备好"
+}
+]
+},
+{
+"word": "stop",
+"phonetic0": "stɒp",
+"phonetic1": "stɑːp",
+"trans": [
+{
+"pos": "n.",
+"cn": "停止；车站；障碍"
+},
+{
+"pos": "vi.",
+"cn": "停止；中止；逗留"
+},
+{
+"pos": "vt.",
+"cn": "停止；堵塞；断绝"
+}
+]
+},
+{
+"word": "can't",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "abbr.",
+"cn": "不能（can not）"
+}
+]
+},
+{
+"word": "bring",
+"phonetic0": "brɪŋ",
+"phonetic1": "brɪŋ",
+"trans": [
+{
+"pos": "vt.",
+"cn": "带来；促使；引起"
+}
+]
+},
+{
+"word": "can",
+"phonetic0": "kæn",
+"phonetic1": "kæn",
+"trans": [
+{
+"pos": "aux.",
+"cn": "能；能够；可以"
+},
+{
+"pos": "n.",
+"cn": "罐头；（用金属或塑料制作的）容器；（马口铁或其他金属制作的）食品罐头"
+},
+{
+"pos": "vt.",
+"cn": "将…装入密封罐中保存"
+}
+]
+},
+{
+"word": "room",
+"phonetic0": "ruːm",
+"phonetic1": "ruːm",
+"trans": [
+{
+"pos": "n.",
+"cn": "房间；空间；余地"
+},
+{
+"pos": "vt.",
+"cn": "为…提供住处；租房，合住；投宿，住宿"
+},
+{
+"pos": "vi.",
+"cn": "居住；住宿"
+}
+]
+},
+{
+"word": "football",
+"phonetic0": "ˈfʊtbɔːl",
+"phonetic1": "ˈfʊtbɔːl",
+"trans": [
+{
+"pos": "n.",
+"cn": "足球，橄榄球"
+},
+{
+"pos": "vi.",
+"cn": "踢足球；打橄榄球"
+}
+]
+},
+{
+"word": "glass",
+"phonetic0": "ɡlɑːs",
+"phonetic1": "ɡlæs",
+"trans": [
+{
+"pos": "n.",
+"cn": "玻璃；玻璃制品；镜子"
+},
+{
+"pos": "vt.",
+"cn": "反映；给某物加玻璃"
+},
+{
+"pos": "vi.",
+"cn": "成玻璃状"
+}
+]
+},
+{
+"word": "beside",
+"phonetic0": "bɪˈsaɪd",
+"phonetic1": "bɪˈsaɪd",
+"trans": [
+{
+"pos": "prep.",
+"cn": "在旁边；与…相比；和…无关"
+}
+]
+},
+{
+"word": "us",
+"phonetic0": "ʌs",
+"phonetic1": "ʌs",
+"trans": [
+{
+"pos": "pron.",
+"cn": "我们"
+}
+]
+},
+{
+"word": "cheap",
+"phonetic0": "tʃiːp",
+"phonetic1": "tʃiːp",
+"trans": [
+{
+"pos": "adj.",
+"cn": "便宜的；小气的；不值钱的"
+},
+{
+"pos": "adv.",
+"cn": "便宜地"
+}
+]
+},
+{
+"word": "window",
+"phonetic0": "ˈwɪndəʊ",
+"phonetic1": "ˈwɪndoʊ",
+"trans": [
+{
+"pos": "n.",
+"cn": "窗；窗口；窗户"
+}
+]
+},
+{
+"word": "knife",
+"phonetic0": "naɪf",
+"phonetic1": "naɪf",
+"trans": [
+{
+"pos": "n.",
+"cn": "刀；匕首"
+},
+{
+"pos": "vt.",
+"cn": "用刀切；（口）伤害"
+},
+{
+"pos": "vi.",
+"cn": "劈开；划过"
+}
+]
+},
+{
+"word": "in front of",
+"phonetic0": "ɪn frʌnt əv",
+"phonetic1": "ɪn frʌnt ʌv",
+"trans": [
+{
+"pos": "na.",
+"cn": "在…的前面"
+}
+]
+},
+{
+"word": "behind",
+"phonetic0": "bɪˈhaɪnd",
+"phonetic1": "bɪˈhaɪnd",
+"trans": [
+{
+"pos": "prep.",
+"cn": "落后于；支持；晚于"
+},
+{
+"pos": "n.",
+"cn": "屁股"
+},
+{
+"pos": "adv.",
+"cn": "在后地；在原处"
+}
+]
+},
+{
+"word": "bone",
+"phonetic0": "bəʊn",
+"phonetic1": "boʊn",
+"trans": [
+{
+"pos": "n.",
+"cn": "骨；骨骼"
+},
+{
+"pos": "vt.",
+"cn": "剔去...的骨；施骨肥于"
+},
+{
+"pos": "vi.",
+"cn": "苦学；专心致志"
+}
+]
+},
+{
+"word": "fresh",
+"phonetic0": "freʃ",
+"phonetic1": "freʃ",
+"trans": [
+{
+"pos": "n.",
+"cn": "开始；新生；泛滥"
+},
+{
+"pos": "adj.",
+"cn": "新鲜的；清新的；淡水的"
+},
+{
+"pos": "adv.",
+"cn": "刚刚，才；最新地"
+}
+]
+},
+{
+"word": "dish",
+"phonetic0": "dɪʃ",
+"phonetic1": "dɪʃ",
+"trans": [
+{
+"pos": "n.",
+"cn": "盘；餐具；一盘食物"
+},
+{
+"pos": "vt.",
+"cn": "盛于碟盘中；分发；使某人的希望破灭"
+},
+{
+"pos": "vi.",
+"cn": "成碟状；闲谈"
+}
+]
+},
+{
+"word": "fair",
+"phonetic0": "feə(r)",
+"phonetic1": "fer",
+"trans": [
+{
+"pos": "n.",
+"cn": "展览会；市集；美人"
+},
+{
+"pos": "adj.",
+"cn": "公平的；美丽的，白皙的；[气象] 晴朗的"
+},
+{
+"pos": "vi.",
+"cn": "转晴"
+}
+]
+},
+{
+"word": "field",
+"phonetic0": "fiːld",
+"phonetic1": "fiːld",
+"trans": [
+{
+"pos": "n.",
+"cn": "领域；牧场；旷野"
+},
+{
+"pos": "adj.",
+"cn": "扫描场；田赛的；野生的"
+},
+{
+"pos": "vt.",
+"cn": "把暴晒于场上；使上场"
+}
+]
+},
+{
+"word": "idea",
+"phonetic0": "aɪˈdɪə",
+"phonetic1": "aɪˈdiːə",
+"trans": [
+{
+"pos": "n.",
+"cn": "想法；主意；概念"
+}
+]
+},
+{
+"word": "captain",
+"phonetic0": "ˈkæptɪn",
+"phonetic1": "ˈkæptɪn",
+"trans": [
+{
+"pos": "n.",
+"cn": "队长，首领；船长；上尉"
+},
+{
+"pos": "vt.",
+"cn": "指挥；率领"
+}
+]
+},
+{
+"word": "side",
+"phonetic0": "saɪd",
+"phonetic1": "saɪd",
+"trans": [
+{
+"pos": "n.",
+"cn": "方面；侧面；旁边"
+},
+{
+"pos": "adj.",
+"cn": "旁的，侧的"
+},
+{
+"pos": "vt.",
+"cn": "同意，支持"
+}
+]
+},
+{
+"word": "other",
+"phonetic0": "ˈʌðə(r)",
+"phonetic1": "ˈʌðər",
+"trans": [
+{
+"pos": "adj.",
+"cn": "其他的，另外的"
+},
+{
+"pos": "pron.",
+"cn": "另外一个"
+}
+]
+},
+{
+"word": "referee",
+"phonetic0": "ˌrefəˈriː",
+"phonetic1": "ˌrefəˈriː",
+"trans": [
+{
+"pos": "n.",
+"cn": "裁判员；调解人；介绍人"
+},
+{
+"pos": "vt.",
+"cn": "为…当裁判；调停"
+},
+{
+"pos": "vi.",
+"cn": "仲裁；担任裁判"
+}
+]
+},
+{
+"word": "How many",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "na.",
+"cn": "多少"
+}
+]
+},
+{
+"word": "player",
+"phonetic0": "ˈpleɪə(r)",
+"phonetic1": "ˈpleɪər",
+"trans": [
+{
+"pos": "n.",
+"cn": "运动员，比赛者；游戏者，做游戏的人；演奏者，表演者"
+}
+]
+},
+{
+"word": "shop",
+"phonetic0": "ʃɒp",
+"phonetic1": "ʃɑːp",
+"trans": [
+{
+"pos": "n.",
+"cn": "商店；店铺"
+},
+{
+"pos": "vt.",
+"cn": "购物"
+},
+{
+"pos": "vi.",
+"cn": "购物；买东西"
+}
+]
+},
+{
+"word": "street",
+"phonetic0": "striːt",
+"phonetic1": "striːt",
+"trans": [
+{
+"pos": "n.",
+"cn": "街道"
+},
+{
+"pos": "adj.",
+"cn": "街道的"
+}
+]
+},
+{
+"word": "boat",
+"phonetic0": "bəʊt",
+"phonetic1": "boʊt",
+"trans": [
+{
+"pos": "n.",
+"cn": "小船；轮船"
+},
+{
+"pos": "vi.",
+"cn": "划船"
+}
+]
+},
+{
+"word": "beach",
+"phonetic0": "biːtʃ",
+"phonetic1": "biːtʃ",
+"trans": [
+{
+"pos": "n.",
+"cn": "海滩；湖滨"
+},
+{
+"pos": "vt.",
+"cn": "将…拖上岸"
+},
+{
+"pos": "vi.",
+"cn": "搁浅；定居"
+}
+]
+},
+{
+"word": "animal",
+"phonetic0": "ˈænɪm(ə)l",
+"phonetic1": "ˈænɪm(ə)l",
+"trans": [
+{
+"pos": "n.",
+"cn": "动物"
+},
+{
+"pos": "",
+"cn": "动物的"
+}
+]
+},
+{
+"word": "cow",
+"phonetic0": "kaʊ",
+"phonetic1": "kaʊ",
+"trans": [
+{
+"pos": "n.",
+"cn": "奶牛，母牛；母兽"
+},
+{
+"pos": "vt.",
+"cn": "威胁，恐吓"
+}
+]
+},
+{
+"word": "bench",
+"phonetic0": "bentʃ",
+"phonetic1": "bentʃ",
+"trans": [
+{
+"pos": "n.",
+"cn": "长凳；工作台；替补队员"
+},
+{
+"pos": "vt.",
+"cn": "给…以席位；为…设置条凳"
+}
+]
+}
+]
+}

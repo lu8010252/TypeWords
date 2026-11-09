@@ -1,0 +1,2710 @@
+{
+"meet": [
+"Nice to meet you.",
+"很高兴认识你。"
+],
+"the": [
+"The book is on the desk.",
+"书在书桌上。"
+],
+"family": [
+"This is my family.",
+"这是我的家人。"
+],
+"hello": [
+"Hello! I am Lucy.",
+"你好！我是露西。"
+],
+"my": [
+"This is my bag.",
+"这是我的书包。"
+],
+"name": [
+"What is your name?",
+"你叫什么名字？"
+],
+"is": [
+"She is my friend.",
+"她是我的朋友。"
+],
+"this": [
+"This is my son.",
+"这是我儿子。"
+],
+"wife": [
+"This is my wife.",
+"这是我妻子。"
+],
+"how do you do": [
+"How do you do? I am Tom.",
+"你好！我是汤姆。"
+],
+"daughter": [
+"This is my daughter, Lucy.",
+"这是我的女儿露西。"
+],
+"son": [
+"This is my son, Tom.",
+"这是我的儿子汤姆。"
+],
+"hi": [
+"Hi! I am Lily.",
+"嗨！我是莉莉。"
+],
+"and": [
+"Tom and Lucy are my friends.",
+"汤姆和露西是我的朋友。"
+],
+"nephew": [
+"This is my nephew.",
+"这是我的侄子。"
+],
+"nice to meet you": [
+"Nice to meet you, too.",
+"我也很高兴认识你。"
+],
+"friend": [
+"He is my good friend.",
+"他是我的好朋友。"
+],
+"teacher": [
+"Mr Smith is our teacher.",
+"史密斯先生是我们的老师。"
+],
+"mrs.": [
+"This is Mrs Brown.",
+"这位是布朗太太。"
+],
+"one": [
+"I have one sister.",
+"我有一个姐姐。"
+],
+"two": [
+"I have two books.",
+"我有两本书。"
+],
+"three": [
+"There are three birds.",
+"有三只鸟。"
+],
+"four": [
+"He has four pens.",
+"他有四支钢笔。"
+],
+"five": [
+"I am five years old.",
+"我五岁了。"
+],
+"six": [
+"There are six boys.",
+"有六个男孩。"
+],
+"seven": [
+"It is seven o'clock.",
+"现在是七点钟。"
+],
+"eight": [
+"She has eight dolls.",
+"她有八个玩偶。"
+],
+"nine": [
+"I get up at nine.",
+"我九点起床。"
+],
+"ten": [
+"I have ten fingers.",
+"我有十个手指。"
+],
+"eleven": [
+"There are eleven players.",
+"有十一名球员。"
+],
+"twelve": [
+"There are twelve months in a year.",
+"一年有十二个月。"
+],
+"your": [
+"Is this your pen?",
+"这是你的钢笔吗？"
+],
+"hey": [
+"Hey! Look at that!",
+"嘿！看那个！"
+],
+"good": [
+"This is a good book.",
+"这是一本好书。"
+],
+"look": [
+"Look! It is a bird.",
+"看！那是一只鸟。"
+],
+"a": [
+"It is a cat.",
+"它是一只猫。"
+],
+"wheel": [
+"The bicycle has two wheels.",
+"自行车有两个轮子。"
+],
+"green": [
+"The grass is green.",
+"草是绿色的。"
+],
+"ok": [
+"OK, let's go.",
+"好的，我们走吧。"
+],
+"now": [
+"I am busy now.",
+"我现在很忙。"
+],
+"flower": [
+"This is a red flower.",
+"这是一朵红花。"
+],
+"red": [
+"My bag is red.",
+"我的书包是红色的。"
+],
+"umbrella": [
+"That is my umbrella.",
+"那是我的伞。"
+],
+"that": [
+"That is a bird.",
+"那是一只鸟。"
+],
+"grey": [
+"The cat is grey.",
+"这只猫是灰色的。"
+],
+"bird": [
+"The bird is in the tree.",
+"鸟在树上。"
+],
+"key": [
+"Here is the key.",
+"钥匙在这儿。"
+],
+"right": [
+"Yes, that is right.",
+"是的，那是对的。"
+],
+"silver": [
+"She has a silver ring.",
+"她有一枚银戒指。"
+],
+"chair": [
+"Sit on the chair.",
+"坐在椅子上。"
+],
+"table": [
+"The book is on the table.",
+"书在桌子上。"
+],
+"bicycle": [
+"He has a new bicycle.",
+"他有一辆新自行车。"
+],
+"colour": [
+"What colour is it?",
+"它是什么颜色？"
+],
+"what": [
+"What is this?",
+"这是什么？"
+],
+"white": [
+"The cat is white.",
+"这只猫是白色的。"
+],
+"an": [
+"It is an apple.",
+"这是一个苹果。"
+],
+"black": [
+"My dog is black.",
+"我的狗是黑色的。"
+],
+"dress": [
+"She has a new dress.",
+"她有一条新连衣裙。"
+],
+"camera": [
+"This is my camera.",
+"这是我的照相机。"
+],
+"blue": [
+"The sky is blue.",
+"天空是蓝色的。"
+],
+"desk": [
+"My bag is on the desk.",
+"我的书包在书桌上。"
+],
+"brown": [
+"The horse is brown.",
+"这匹马是棕色的。"
+],
+"who": [
+"Who is he?",
+"他是谁？"
+],
+"boy": [
+"The boy is my brother.",
+"这个男孩是我的弟弟。"
+],
+"which": [
+"Which is your bag?",
+"哪个是你的书包？"
+],
+"on": [
+"The pen is on the desk.",
+"钢笔在书桌上。"
+],
+"man": [
+"The man is a doctor.",
+"这个男人是医生。"
+],
+"with": [
+"I go to school with my friend.",
+"我和朋友一起去上学。"
+],
+"mr.": [
+"Mr Green is a teacher.",
+"格林先生是老师。"
+],
+"he": [
+"He is my father.",
+"他是我的爸爸。"
+],
+"father": [
+"My father is a driver.",
+"我的爸爸是司机。"
+],
+"woman": [
+"The woman is my teacher.",
+"这位女士是我的老师。"
+],
+"she": [
+"She is my mother.",
+"她是我的妈妈。"
+],
+"mother": [
+"My mother is a nurse.",
+"我的妈妈是护士。"
+],
+"girl": [
+"The girl is my sister.",
+"这个女孩是我的姐姐。"
+],
+"sister": [
+"She is my sister.",
+"她是我的姐姐（妹妹）。"
+],
+"look at": [
+"Look at the picture.",
+"看这幅画。"
+],
+"young": [
+"The teacher is young.",
+"这位老师很年轻。"
+],
+"in": [
+"The cat is in the box.",
+"猫在盒子里。"
+],
+"old": [
+"My grandfather is old.",
+"我的爷爷年纪大了。"
+],
+"car": [
+"My father has a new car.",
+"我爸爸有一辆新车。"
+],
+"oh": [
+"Oh, I see.",
+"哦，我明白了。"
+],
+"cousin": [
+"He is my cousin.",
+"他是我的表哥。"
+],
+"so": [
+"I am so happy.",
+"我非常高兴。"
+],
+"too": [
+"I like it, too.",
+"我也喜欢它。"
+],
+"brother": [
+"My brother is ten.",
+"我的弟弟十岁了。"
+],
+"their": [
+"Their house is big.",
+"他们的房子很大。"
+],
+"student": [
+"I am a student.",
+"我是一名学生。"
+],
+"his": [
+"His name is Tom.",
+"他的名字叫汤姆。"
+],
+"her": [
+"Her bag is blue.",
+"她的书包是蓝色的。"
+],
+"new": [
+"I have a new bag.",
+"我有一个新书包。"
+],
+"thirteen": [
+"My sister is thirteen.",
+"我姐姐十三岁。"
+],
+"fourteen": [
+"He is fourteen years old.",
+"他十四岁。"
+],
+"fifteen": [
+"There are fifteen students.",
+"有十五名学生。"
+],
+"sixteen": [
+"She is sixteen.",
+"她十六岁。"
+],
+"seventeen": [
+"My cousin is seventeen.",
+"我的表哥十七岁。"
+],
+"eighteen": [
+"He is eighteen.",
+"他十八岁。"
+],
+"nineteen": [
+"She is nineteen.",
+"她十九岁。"
+],
+"twenty": [
+"I have twenty books.",
+"我有二十本书。"
+],
+"horse": [
+"The horse is brown.",
+"这匹马是棕色的。"
+],
+"yellow": [
+"The sun is yellow.",
+"太阳是黄色的。"
+],
+"taxi": [
+"Let's take a taxi.",
+"我们打辆出租车吧。"
+],
+"well": [
+"I am very well.",
+"我很好。"
+],
+"how": [
+"How is your mother?",
+"你妈妈好吗？"
+],
+"how are you": [
+"How are you? I am fine.",
+"你好吗？我很好。"
+],
+"i": [
+"I am a student.",
+"我是学生。"
+],
+"am": [
+"I am ten.",
+"我十岁。"
+],
+"fine": [
+"I am fine, thank you.",
+"我很好，谢谢。"
+],
+"but": [
+"I am small, but I am strong.",
+"我个子小，但是我很强壮。"
+],
+"very": [
+"She is very kind.",
+"她非常善良。"
+],
+"sorry": [
+"Sorry, I am late.",
+"对不起，我迟到了。"
+],
+"him": [
+"Give it to him.",
+"把它给他。"
+],
+"sure": [
+"Are you sure?",
+"你确定吗？"
+],
+"hot": [
+"It is very hot today.",
+"今天很热。"
+],
+"hungry": [
+"I am hungry.",
+"我饿了。"
+],
+"thirsty": [
+"I am thirsty.",
+"我渴了。"
+],
+"poor": [
+"The poor dog is hungry.",
+"这只可怜的狗饿了。"
+],
+"what about": [
+"What about you?",
+"你呢？"
+],
+"doctor": [
+"My uncle is a doctor.",
+"我叔叔是医生。"
+],
+"busy": [
+"I am very busy today.",
+"我今天很忙。"
+],
+"ill": [
+"My mother is ill.",
+"我妈妈生病了。"
+],
+"perhaps": [
+"Perhaps he is at home.",
+"也许他在家。"
+],
+"are": [
+"You are my friend.",
+"你是我的朋友。"
+],
+"cold": [
+"It is cold today.",
+"今天很冷。"
+],
+"or": [
+"Is it red or blue?",
+"它是红色的还是蓝色的？"
+],
+"clever": [
+"She is a clever girl.",
+"她是个聪明的女孩。"
+],
+"stupid": [
+"It is a stupid idea.",
+"这是个愚蠢的主意。"
+],
+"sad": [
+"The boy is sad.",
+"这个男孩很伤心。"
+],
+"happy": [
+"I am very happy.",
+"我很快乐。"
+],
+"story": [
+"This is a funny story.",
+"这是一个有趣的故事。"
+],
+"funny": [
+"He is a funny man.",
+"他是个有趣的人。"
+],
+"silly": [
+"Don't be silly.",
+"别犯傻了。"
+],
+"neighbour": [
+"He is my neighbour.",
+"他是我的邻居。"
+],
+"nice": [
+"She is a nice girl.",
+"她是个友好的女孩。"
+],
+"at": [
+"He is at home.",
+"他在家。"
+],
+"sport": [
+"I like sport.",
+"我喜欢运动。"
+],
+"academy": [
+"He is at the art academy.",
+"他在艺术学院。"
+],
+"art": [
+"I like art.",
+"我喜欢美术。"
+],
+"college": [
+"My sister is at college.",
+"我姐姐在上大学。"
+],
+"come": [
+"Come here, please.",
+"请到这儿来。"
+],
+"aunt": [
+"My aunt is a writer.",
+"我的姑姑是作家。"
+],
+"writer": [
+"She is a famous writer.",
+"她是一位著名的作家。"
+],
+"our": [
+"This is our school.",
+"这是我们的学校。"
+],
+"husband": [
+"This is my husband.",
+"这是我的丈夫。"
+],
+"everybody": [
+"Hello, everybody!",
+"大家好！"
+],
+"thank you": [
+"Thank you very much.",
+"非常感谢。"
+],
+"for": [
+"This is for you.",
+"这是给你的。"
+],
+"welcome": [
+"Welcome to our school!",
+"欢迎来到我们学校！"
+],
+"job": [
+"What is your job?",
+"你的职业是什么？"
+],
+"housewife": [
+"My mother is a housewife.",
+"我妈妈是家庭主妇。"
+],
+"photographer": [
+"He is a photographer.",
+"他是摄影师。"
+],
+"policeman": [
+"The policeman is kind.",
+"这位警察很和善。"
+],
+"postman": [
+"The postman has a letter for you.",
+"邮递员有一封你的信。"
+],
+"actor": [
+"He is a famous actor.",
+"他是一位著名的演员。"
+],
+"accountant": [
+"My uncle is an accountant.",
+"我叔叔是会计。"
+],
+"gossip": [
+"Don't listen to gossip.",
+"别听闲话。"
+],
+"over there": [
+"The park is over there.",
+"公园在那边。"
+],
+"tall": [
+"My father is tall.",
+"我爸爸个子很高。"
+],
+"pretty": [
+"She is a pretty girl.",
+"她是个漂亮的女孩。"
+],
+"where": [
+"Where is my bag?",
+"我的书包在哪里？"
+],
+"from": [
+"I am from China.",
+"我来自中国。"
+],
+"english": [
+"He is English.",
+"他是英国人。"
+],
+"american": [
+"She is American.",
+"她是美国人。"
+],
+"here": [
+"Come here, please.",
+"请到这里来。"
+],
+"famous": [
+"He is a famous singer.",
+"他是一位著名的歌手。"
+],
+"expensive": [
+"This watch is expensive.",
+"这块手表很贵。"
+],
+"beautiful": [
+"The flower is beautiful.",
+"这朵花很美。"
+],
+"handsome": [
+"He is a handsome man.",
+"他是个英俊的男人。"
+],
+"wait": [
+"Wait for me, please.",
+"请等我。"
+],
+"see": [
+"I see a bird.",
+"我看见一只鸟。"
+],
+"london": [
+"London is a big city.",
+"伦敦是一座大城市。"
+],
+"nationality": [
+"What is your nationality?",
+"你的国籍是什么？"
+],
+"describe": [
+"Please describe your friend.",
+"请描述一下你的朋友。"
+],
+"short": [
+"He is short.",
+"他个子矮。"
+],
+"french": [
+"She is French.",
+"她是法国人。"
+],
+"fat": [
+"The cat is fat.",
+"这只猫很胖。"
+],
+"thin": [
+"The boy is thin.",
+"这个男孩很瘦。"
+],
+"actress": [
+"She is a famous actress.",
+"她是一位著名的女演员。"
+],
+"mum": [
+"Mum, I am home.",
+"妈妈，我回来了。"
+],
+"favourite": [
+"Red is my favourite colour.",
+"红色是我最喜欢的颜色。"
+],
+"long": [
+"She has long hair.",
+"她有一头长发。"
+],
+"schoolbag": [
+"My schoolbag is blue.",
+"我的书包是蓝色的。"
+],
+"give": [
+"Give me the book, please.",
+"请把书给我。"
+],
+"me": [
+"Give it to me.",
+"把它给我。"
+],
+"please": [
+"Sit down, please.",
+"请坐。"
+],
+"here you are": [
+"Here you are.",
+"给你。"
+],
+"pencil": [
+"I have a pencil.",
+"我有一支铅笔。"
+],
+"case": [
+"The pencil case is on the desk.",
+"铅笔盒在书桌上。"
+],
+"put": [
+"Put it on the table.",
+"把它放在桌子上。"
+],
+"no harm done": [
+"Sorry! — No harm done.",
+"对不起！——没关系。"
+],
+"thanks": [
+"Thanks a lot.",
+"多谢。"
+],
+"dad": [
+"Dad, look at this!",
+"爸爸，看这个！"
+],
+"small": [
+"It is a small box.",
+"这是一个小盒子。"
+],
+"ball": [
+"He has a red ball.",
+"他有一个红球。"
+],
+"box": [
+"The ball is in the box.",
+"球在盒子里。"
+],
+"big": [
+"The elephant is big.",
+"大象很大。"
+],
+"clean": [
+"My room is clean.",
+"我的房间很干净。"
+],
+"cup": [
+"There is a cup on the table.",
+"桌子上有一个杯子。"
+],
+"dirty": [
+"The floor is dirty.",
+"地板很脏。"
+],
+"floor": [
+"The cat is on the floor.",
+"猫在地板上。"
+],
+"thick": [
+"This is a thick book.",
+"这是一本厚书。"
+],
+"under": [
+"The cat is under the table.",
+"猫在桌子下面。"
+],
+"bed": [
+"The book is on the bed.",
+"书在床上。"
+],
+"light": [
+"Turn on the light.",
+"把灯打开。"
+],
+"plate": [
+"There is an apple on the plate.",
+"盘子里有一个苹果。"
+],
+"heavy": [
+"The box is very heavy.",
+"这个箱子很重。"
+],
+"shelf": [
+"The books are on the shelf.",
+"书在书架上。"
+],
+"cupboard": [
+"The cups are in the cupboard.",
+"杯子在橱柜里。"
+],
+"bump": [
+"I hear a bump.",
+"我听到砰的一声。"
+],
+"night": [
+"Good night!",
+"晚安！"
+],
+"wake up": [
+"Wake up! It is seven o'clock.",
+"醒醒！七点了。"
+],
+"listen": [
+"Listen to the teacher.",
+"听老师讲。"
+],
+"there": [
+"Look over there!",
+"看那边！"
+],
+"noise": [
+"I hear a noise.",
+"我听到一个声响。"
+],
+"living-room": [
+"We are in the living-room.",
+"我们在客厅里。"
+],
+"burglar": [
+"There is a burglar in the house!",
+"房子里有个小偷！"
+],
+"nonsense": [
+"Nonsense! There is no burglar.",
+"胡说！没有什么小偷。"
+],
+"kitchen": [
+"My mother is in the kitchen.",
+"我妈妈在厨房里。"
+],
+"torch": [
+"I have a torch.",
+"我有一个手电筒。"
+],
+"be careful": [
+"Be careful! The floor is wet.",
+"小心！地板是湿的。"
+],
+"someone": [
+"Someone is at the door.",
+"有人在门口。"
+],
+"downstairs": [
+"Someone is downstairs.",
+"有人在楼下。"
+],
+"wide": [
+"The door is wide open.",
+"门敞开着。"
+],
+"awake": [
+"I am awake.",
+"我醒着。"
+],
+"we": [
+"We are good friends.",
+"我们是好朋友。"
+],
+"all": [
+"We are all students.",
+"我们都是学生。"
+],
+"bedroom": [
+"My bedroom is small.",
+"我的卧室很小。"
+],
+"garden": [
+"There are flowers in the garden.",
+"花园里有花。"
+],
+"door": [
+"Close the door, please.",
+"请关门。"
+],
+"secretary": [
+"She is a secretary.",
+"她是一名秘书。"
+],
+"basket": [
+"There are apples in the basket.",
+"篮子里有苹果。"
+],
+"bowl": [
+"I have a bowl of rice.",
+"我有一碗米饭。"
+],
+"apple": [
+"I like apples.",
+"我喜欢苹果。"
+],
+"orange": [
+"The orange is sweet.",
+"这个橘子很甜。"
+],
+"house": [
+"My house is near the river.",
+"我家在河边。"
+],
+"near": [
+"The school is near my house.",
+"学校在我家附近。"
+],
+"river": [
+"The river is long.",
+"这条河很长。"
+],
+"tree": [
+"There is a bird in the tree.",
+"树上有一只鸟。"
+],
+"pink": [
+"She has a pink dress.",
+"她有一条粉红色的裙子。"
+],
+"pyjamas": [
+"He is in his pyjamas.",
+"他穿着睡衣。"
+],
+"them": [
+"I like them.",
+"我喜欢他们。"
+],
+"they": [
+"They are my friends.",
+"他们是我的朋友。"
+],
+"a bit": [
+"I am a bit tired.",
+"我有点累。"
+],
+"bright red": [
+"She has a bright red hat.",
+"她有一顶鲜红的帽子。"
+],
+"shirt": [
+"He has a white shirt.",
+"他有一件白衬衫。"
+],
+"pure white": [
+"The snow is pure white.",
+"雪是纯白色的。"
+],
+"washing machine": [
+"We have a new washing machine.",
+"我们有一台新洗衣机。"
+],
+"lovely": [
+"What a lovely dress!",
+"多漂亮的裙子啊！"
+],
+"those": [
+"Those are my books.",
+"那些是我的书。"
+],
+"dog": [
+"The dog is under the table.",
+"狗在桌子下面。"
+],
+"cat": [
+"The cat is on the bed.",
+"猫在床上。"
+],
+"sock": [
+"I have a pair of socks.",
+"我有一双袜子。"
+],
+"jump": [
+"The cat can jump high.",
+"猫能跳得很高。"
+],
+"hurry": [
+"Hurry up! We are late.",
+"快点！我们迟到了。"
+],
+"bus": [
+"I go to school by bus.",
+"我坐公共汽车去上学。"
+],
+"wait a minute": [
+"Wait a minute, please.",
+"请等一下。"
+],
+"come on": [
+"Come on! We are late.",
+"快点！我们要迟到了。"
+],
+"dear": [
+"Oh dear! I am late.",
+"天哪！我迟到了。"
+],
+"school": [
+"I go to school at seven.",
+"我七点去上学。"
+],
+"of course": [
+"Of course you can.",
+"当然可以。"
+],
+"full": [
+"The box is full of apples.",
+"盒子里装满了苹果。"
+],
+"gee": [
+"Gee! It is so big!",
+"哎呀！这么大！"
+],
+"people": [
+"There are many people here.",
+"这里有很多人。"
+],
+"never mind": [
+"Never mind. Try again.",
+"没关系，再试一次。"
+],
+"mom": [
+"Mom, I am hungry.",
+"妈妈，我饿了。"
+],
+"empty": [
+"The box is empty.",
+"盒子是空的。"
+],
+"seventy": [
+"My grandfather is seventy.",
+"我爷爷七十岁。"
+],
+"eighty": [
+"She is eighty years old.",
+"她八十岁了。"
+],
+"smart": [
+"You look smart today.",
+"你今天看起来很帅气。"
+],
+"these": [
+"These are my socks.",
+"这些是我的袜子。"
+],
+"outfit": [
+"I like her new outfit.",
+"我喜欢她的新套装。"
+],
+"play": [
+"I play football after school.",
+"放学后我踢足球。"
+],
+"both": [
+"We are both students.",
+"我们俩都是学生。"
+],
+"elegant": [
+"She looks elegant.",
+"她看上去很优雅。"
+],
+"interesting": [
+"This is an interesting book.",
+"这是一本有趣的书。"
+],
+"tie": [
+"He has a red tie.",
+"他有一条红领带。"
+],
+"um": [
+"Um, I am not sure.",
+"嗯，我不确定。"
+],
+"colourful": [
+"The bird is very colourful.",
+"这只鸟色彩很鲜艳。"
+],
+"unusual": [
+"That is an unusual hat.",
+"那是一顶不寻常的帽子。"
+],
+"all right": [
+"All right, let's go.",
+"好的，我们走吧。"
+],
+"part": [
+"I have a part in the play.",
+"我在戏里有个角色。"
+],
+"shoe": [
+"I have a new pair of shoes.",
+"我有一双新鞋。"
+],
+"ninety": [
+"The old man is ninety.",
+"这位老人九十岁了。"
+],
+"just": [
+"I am just a student.",
+"我只是个学生。"
+],
+"like": [
+"I like apples.",
+"我喜欢苹果。"
+],
+"show": [
+"Show me your picture.",
+"给我看看你的画。"
+],
+"drawing": [
+"This is my drawing.",
+"这是我画的画。"
+],
+"honey": [
+"I like honey.",
+"我喜欢蜂蜜。"
+],
+"muscle": [
+"He has big muscles.",
+"他有发达的肌肉。"
+],
+"strong": [
+"The man is very strong.",
+"这个男人很强壮。"
+],
+"little": [
+"I have a little sister.",
+"我有一个妹妹。"
+],
+"gymnast": [
+"She is a gymnast.",
+"她是体操运动员。"
+],
+"maybe": [
+"Maybe he is at school.",
+"也许他在学校。"
+],
+"bad": [
+"It is a bad idea.",
+"这是个坏主意。"
+],
+"great": [
+"That is a great idea!",
+"那是个好主意！"
+],
+"hundred": [
+"There are a hundred students.",
+"有一百名学生。"
+],
+"late": [
+"I am late for school.",
+"我上学迟到了。"
+],
+"early": [
+"I get up early.",
+"我起得早。"
+],
+"time": [
+"What time is it?",
+"现在几点了？"
+],
+"clock": [
+"The clock is on the wall.",
+"钟挂在墙上。"
+],
+"kid": [
+"The kid is five.",
+"这个小孩五岁。"
+],
+"in a hurry": [
+"I am in a hurry.",
+"我很匆忙。"
+],
+"late for": [
+"I am late for school.",
+"我上学迟到了。"
+],
+"call": [
+"Call me tonight.",
+"今晚给我打电话。"
+],
+"go": [
+"Let's go to school.",
+"我们去学校吧。"
+],
+"wow": [
+"Wow! It is so big!",
+"哇！好大呀！"
+],
+"speed": [
+"The car has a high speed.",
+"这辆车速度很快。"
+],
+"gate": [
+"The gate is open.",
+"大门开着。"
+],
+"shut": [
+"Shut the door, please.",
+"请把门关上。"
+],
+"slow": [
+"The tortoise is slow.",
+"乌龟很慢。"
+],
+"fast": [
+"The car is fast.",
+"这辆车很快。"
+],
+"open": [
+"Open the door, please.",
+"请开门。"
+],
+"catch": [
+"Catch the ball!",
+"接住球！"
+],
+"jar": [
+"There is honey in the jar.",
+"罐子里有蜂蜜。"
+],
+"ready": [
+"Are you ready?",
+"你准备好了吗？"
+],
+"stop": [
+"Stop! Don't run.",
+"停！别跑。"
+],
+"can": [
+"I can swim.",
+"我会游泳。"
+],
+"bring": [
+"Bring your book, please.",
+"请带上你的书。"
+],
+"room": [
+"My room is big.",
+"我的房间很大。"
+],
+"football": [
+"I play football every day.",
+"我每天踢足球。"
+],
+"glass": [
+"I want a glass of water.",
+"我想要一杯水。"
+],
+"beside": [
+"The dog is beside the door.",
+"狗在门旁边。"
+],
+"us": [
+"Come with us.",
+"和我们一起来。"
+],
+"cheap": [
+"This bag is cheap.",
+"这个包很便宜。"
+],
+"window": [
+"Open the window, please.",
+"请打开窗户。"
+],
+"knife": [
+"Be careful with the knife.",
+"小心那把刀。"
+],
+"in front of": [
+"The dog is in front of the door.",
+"狗在门前面。"
+],
+"behind": [
+"The cat is behind the door.",
+"猫在门后面。"
+],
+"bone": [
+"The dog has a bone.",
+"狗有一根骨头。"
+],
+"fresh": [
+"The apples are fresh.",
+"这些苹果很新鲜。"
+],
+"dish": [
+"This dish is nice.",
+"这道菜很好吃。"
+],
+"fair": [
+"That is not fair!",
+"那不公平！"
+],
+"field": [
+"The boys are in the field.",
+"男孩们在运动场上。"
+],
+"idea": [
+"That is a good idea.",
+"那是个好主意。"
+],
+"captain": [
+"He is the captain of the team.",
+"他是球队的队长。"
+],
+"side": [
+"He is on my side.",
+"他站在我这一边。"
+],
+"other": [
+"Where are the other boys?",
+"其他男孩在哪里？"
+],
+"referee": [
+"The referee is on the field.",
+"裁判在场上。"
+],
+"how many": [
+"How many players are there?",
+"有多少名球员？"
+],
+"player": [
+"He is a football player.",
+"他是足球运动员。"
+],
+"shop": [
+"The shop is near my house.",
+"商店在我家附近。"
+],
+"street": [
+"The shop is in the street.",
+"商店在街上。"
+],
+"boat": [
+"The boat is on the river.",
+"船在河上。"
+],
+"beach": [
+"We play on the beach.",
+"我们在海滩上玩。"
+],
+"animal": [
+"The dog is an animal.",
+"狗是一种动物。"
+],
+"cow": [
+"The cow is in the field.",
+"奶牛在田野里。"
+],
+"bench": [
+"The boys are on the bench.",
+"男孩们坐在长凳上。"
+],
+"eye": [
+"She has blue eyes.",
+"她有一双蓝眼睛。"
+],
+"fun": [
+"We have fun at the park.",
+"我们在公园里玩得很开心。"
+],
+"believe": [
+"I believe you.",
+"我相信你。"
+],
+"together": [
+"We go to school together.",
+"我们一起去上学。"
+],
+"thames": [
+"The Thames is a river in London.",
+"泰晤士河是伦敦的一条河。"
+],
+"bridge": [
+"There is a bridge over the river.",
+"河上有一座桥。"
+],
+"tower": [
+"The tower is very tall.",
+"这座塔很高。"
+],
+"really": [
+"Is it really true?",
+"这真的是真的吗？"
+],
+"pass": [
+"Pass me the salt, please.",
+"请把盐递给我。"
+],
+"binoculars": [
+"He looks through the binoculars.",
+"他用双筒望远镜看。"
+],
+"any": [
+"Do you have any pens?",
+"你有钢笔吗？"
+],
+"ship": [
+"The ship is on the sea.",
+"船在海上。"
+],
+"some": [
+"I have some apples.",
+"我有一些苹果。"
+],
+"big ben": [
+"Big Ben is in London.",
+"大本钟在伦敦。"
+],
+"its": [
+"The dog wags its tail.",
+"狗摇着它的尾巴。"
+],
+"classroom": [
+"Our classroom is big.",
+"我们的教室很大。"
+],
+"park": [
+"We play in the park.",
+"我们在公园里玩。"
+],
+"church": [
+"The church is old.",
+"这座教堂很古老。"
+],
+"cinema": [
+"We go to the cinema on Sunday.",
+"我们星期天去看电影。"
+],
+"smile": [
+"Smile, please!",
+"请笑一笑！"
+],
+"watch": [
+"I watch TV after dinner.",
+"晚饭后我看电视。"
+],
+"balance": [
+"She keeps her balance well.",
+"她很会保持平衡。"
+],
+"do": [
+"What do you do after school?",
+"放学后你做什么？"
+],
+"try": [
+"Try again!",
+"再试一次！"
+],
+"as well": [
+"I like tennis as well.",
+"我也喜欢网球。"
+],
+"easy": [
+"This question is easy.",
+"这个问题很容易。"
+],
+"good at": [
+"She is good at maths.",
+"她擅长数学。"
+],
+"gymnastics": [
+"She likes gymnastics.",
+"她喜欢体操。"
+],
+"useless": [
+"I am useless at football.",
+"我踢足球很差。"
+],
+"maths": [
+"I like maths.",
+"我喜欢数学。"
+],
+"music": [
+"She likes music.",
+"她喜欢音乐。"
+],
+"take": [
+"Take your umbrella.",
+"带上你的伞。"
+],
+"take a photo": [
+"Can I take a photo of you?",
+"我可以给你拍张照吗？"
+],
+"gym": [
+"We are in the gym.",
+"我们在体育馆里。"
+],
+"difficult": [
+"This question is difficult.",
+"这个问题很难。"
+],
+"drive": [
+"My father can drive.",
+"我爸爸会开车。"
+],
+"ride": [
+"I can ride a bicycle.",
+"我会骑自行车。"
+],
+"speak": [
+"Can you speak English?",
+"你会说英语吗？"
+],
+"tennis": [
+"I play tennis on Sundays.",
+"我星期天打网球。"
+],
+"cook": [
+"My father can cook.",
+"我爸爸会做饭。"
+],
+"dinner": [
+"Dinner is ready.",
+"晚饭好了。"
+],
+"help": [
+"Can you help me?",
+"你能帮我吗？"
+],
+"rice": [
+"I like rice.",
+"我喜欢米饭。"
+],
+"water": [
+"Can I have some water?",
+"我可以喝点水吗？"
+],
+"pan": [
+"The pan is hot.",
+"平底锅很烫。"
+],
+"chop": [
+"Chop the onions, please.",
+"请把洋葱切碎。"
+],
+"onion": [
+"I don't like onions.",
+"我不喜欢洋葱。"
+],
+"spoon": [
+"I eat soup with a spoon.",
+"我用勺子喝汤。"
+],
+"get": [
+"Get me a spoon, please.",
+"请给我拿把勺子。"
+],
+"fork": [
+"I eat with a knife and fork.",
+"我用刀叉吃饭。"
+],
+"drawer": [
+"The forks are in the drawer.",
+"叉子在抽屉里。"
+],
+"hand": [
+"Wash your hands.",
+"洗洗你的手。"
+],
+"wet": [
+"My hands are wet.",
+"我的手湿了。"
+],
+"restaurant": [
+"We eat at a restaurant.",
+"我们在餐馆吃饭。"
+],
+"yeah": [
+"Yeah, I like it.",
+"是的，我喜欢。"
+],
+"must": [
+"I must go now.",
+"我现在必须走了。"
+],
+"jug": [
+"There is milk in the jug.",
+"罐里有牛奶。"
+],
+"dry": [
+"The towel is dry.",
+"毛巾是干的。"
+],
+"food": [
+"I like Chinese food.",
+"我喜欢中国菜。"
+],
+"sugar": [
+"I want some sugar.",
+"我想要一些糖。"
+],
+"milk": [
+"I drink milk every day.",
+"我每天喝牛奶。"
+],
+"scanner": [
+"We have a new scanner.",
+"我们有一台新扫描仪。"
+],
+"computer": [
+"I have a new computer.",
+"我有一台新电脑。"
+],
+"packet": [
+"I want a packet of tea.",
+"我想要一包茶。"
+],
+"tea": [
+"Would you like some tea?",
+"你想喝点茶吗？"
+],
+"bottle": [
+"There is a bottle of water on the table.",
+"桌上有一瓶水。"
+],
+"orange juice": [
+"I want a glass of orange juice.",
+"我想要一杯橙汁。"
+],
+"fridge": [
+"The milk is in the fridge.",
+"牛奶在冰箱里。"
+],
+"sea": [
+"The sea is blue.",
+"大海是蓝色的。"
+],
+"eat": [
+"What do you eat for breakfast?",
+"你早餐吃什么？"
+],
+"finish": [
+"I finish my homework at six.",
+"我六点钟做完作业。"
+],
+"why": [
+"Why are you late?",
+"你为什么迟到？"
+],
+"why not": [
+"Let's go to the park. — Why not?",
+"我们去公园吧。——好啊！"
+],
+"tired": [
+"I am very tired.",
+"我很累。"
+],
+"problem": [
+"I have a problem.",
+"我有个问题。"
+],
+"lots of": [
+"We have lots of apples.",
+"我们有很多苹果。"
+],
+"fish": [
+"I like fish.",
+"我喜欢吃鱼。"
+],
+"salad": [
+"I want a salad.",
+"我想要一份沙拉。"
+],
+"drink": [
+"Would you like a drink?",
+"你想喝点什么吗？"
+],
+"peach": [
+"The peach is sweet.",
+"桃子很甜。"
+],
+"help yourself": [
+"Help yourself to some cake.",
+"请随便吃点蛋糕。"
+],
+"meat": [
+"I don't eat meat.",
+"我不吃肉。"
+],
+"grape": [
+"These grapes are sweet.",
+"这些葡萄很甜。"
+],
+"buy": [
+"I want to buy some bread.",
+"我想买些面包。"
+],
+"bread": [
+"I have bread for breakfast.",
+"我早餐吃面包。"
+],
+"cake": [
+"This is a birthday cake.",
+"这是一个生日蛋糕。"
+],
+"tin": [
+"I want a tin of tomatoes.",
+"我想要一罐番茄。"
+],
+"cheese": [
+"I like cheese.",
+"我喜欢奶酪。"
+],
+"butter": [
+"I want bread and butter.",
+"我想要面包和黄油。"
+],
+"surprise": [
+"It is a surprise for you.",
+"这是给你的惊喜。"
+],
+"lesson": [
+"We have an English lesson today.",
+"我们今天有一节英语课。"
+],
+"half": [
+"It is half past seven.",
+"现在是七点半。"
+],
+"past": [
+"It is ten past six.",
+"现在是六点十分。"
+],
+"talk": [
+"We talk about music.",
+"我们谈论音乐。"
+],
+"quarter": [
+"It is a quarter past four.",
+"现在是四点一刻。"
+],
+"find": [
+"I can't find my key.",
+"我找不到我的钥匙了。"
+],
+"bye": [
+"Bye! See you tomorrow.",
+"再见！明天见。"
+],
+"when": [
+"When do you get up?",
+"你什么时候起床？"
+],
+"look for": [
+"I look for my pen.",
+"我在找我的钢笔。"
+],
+"next": [
+"What is next?",
+"下一个是什么？"
+],
+"homework": [
+"I do my homework after school.",
+"放学后我做作业。"
+],
+"then": [
+"I eat breakfast, then I go to school.",
+"我吃早餐，然后去上学。"
+],
+"wash": [
+"I wash my hands before dinner.",
+"我饭前洗手。"
+],
+"breakfast": [
+"I have breakfast at seven.",
+"我七点吃早餐。"
+],
+"blues": [
+"He likes the blues.",
+"他喜欢蓝调音乐。"
+],
+"want": [
+"I want a cup of tea.",
+"我想要一杯茶。"
+],
+"not really": [
+"Do you like it? — Not really.",
+"你喜欢吗？——不太喜欢。"
+],
+"something": [
+"I want something to eat.",
+"我想吃点东西。"
+],
+"train": [
+"I go to London by train.",
+"我坐火车去伦敦。"
+],
+"stomach": [
+"My stomach hurts.",
+"我肚子疼。"
+],
+"have got": [
+"I have got a new bike.",
+"我有一辆新自行车。"
+],
+"how much": [
+"How much is this bag?",
+"这个包多少钱？"
+],
+"pot": [
+"There is a pot of tea on the table.",
+"桌上有一壶茶。"
+],
+"start": [
+"School starts at eight.",
+"学校八点开始上课。"
+],
+"morning": [
+"I get up early in the morning.",
+"我早上起得早。"
+],
+"yoghurt": [
+"I like strawberry yoghurt.",
+"我喜欢草莓酸奶。"
+],
+"canteen": [
+"We have lunch in the canteen.",
+"我们在食堂吃午饭。"
+],
+"terrible": [
+"The weather is terrible.",
+"天气糟透了。"
+],
+"much": [
+"Thank you very much.",
+"非常感谢你。"
+],
+"fruit": [
+"I eat fruit every day.",
+"我每天吃水果。"
+],
+"chocolate": [
+"I like chocolate.",
+"我喜欢巧克力。"
+],
+"beer": [
+"He drinks a glass of beer.",
+"他喝了一杯啤酒。"
+],
+"paper": [
+"I need some paper.",
+"我需要一些纸。"
+],
+"string": [
+"I need a piece of string.",
+"我需要一根绳子。"
+],
+"money": [
+"I have no money.",
+"我没有钱。"
+],
+"spare": [
+"I have a spare key.",
+"我有一把备用钥匙。"
+],
+"good morning": [
+"Good morning, teacher!",
+"老师早上好！"
+],
+"a lot of": [
+"There are a lot of people here.",
+"这里有很多人。"
+],
+"shy": [
+"The girl is shy.",
+"这个女孩很害羞。"
+],
+"many": [
+"There are many books.",
+"有很多书。"
+],
+"introduce": [
+"Let me introduce my friend.",
+"让我介绍一下我的朋友。"
+],
+"to": [
+"I go to school by bus.",
+"我坐公共汽车去上学。"
+],
+"study": [
+"I study English every day.",
+"我每天学英语。"
+],
+"true": [
+"That is true.",
+"那是真的。"
+],
+"always": [
+"I always get up at seven.",
+"我总是七点起床。"
+],
+"cd": [
+"I have a new CD.",
+"我有一张新光盘。"
+],
+"dvd": [
+"We watch a DVD at home.",
+"我们在家看光盘。"
+],
+"jacket": [
+"He has a black jacket.",
+"他有一件黑夹克。"
+],
+"magazine": [
+"I read a magazine.",
+"我在看杂志。"
+],
+"video": [
+"We watch a video in class.",
+"我们在课上看视频。"
+],
+"blouse": [
+"She has a white blouse.",
+"她有一件白衬衫。"
+],
+"skirt": [
+"She has a red skirt.",
+"她有一条红裙子。"
+],
+"vegetable": [
+"I eat vegetables every day.",
+"我每天吃蔬菜。"
+],
+"relative": [
+"He is my relative.",
+"他是我的亲戚。"
+],
+"kind": [
+"What kind of music do you like?",
+"你喜欢哪种音乐？"
+],
+"think": [
+"I think it is nice.",
+"我认为它很好。"
+],
+"japanese": [
+"He is Japanese.",
+"他是日本人。"
+],
+"remember": [
+"I remember your name.",
+"我记得你的名字。"
+],
+"know": [
+"I know him.",
+"我认识他。"
+],
+"lucky": [
+"You are lucky.",
+"你真幸运。"
+],
+"another": [
+"I want another cup of tea.",
+"我想再来一杯茶。"
+],
+"birthday": [
+"Today is my birthday.",
+"今天是我的生日。"
+],
+"at any time": [
+"You can call me at any time.",
+"你可以随时给我打电话。"
+],
+"british": [
+"She is British.",
+"她是英国人。"
+],
+"german": [
+"He is German.",
+"他是德国人。"
+],
+"plastic": [
+"This is a plastic bag.",
+"这是一个塑料袋。"
+],
+"leather": [
+"He has a leather jacket.",
+"他有一件皮夹克。"
+],
+"cd player": [
+"I have a new CD player.",
+"我有一台新的 CD 播放机。"
+],
+"italian": [
+"She is Italian.",
+"她是意大利人。"
+],
+"korean": [
+"He is Korean.",
+"他是韩国人。"
+],
+"handbag": [
+"This is my mother's handbag.",
+"这是我妈妈的手提包。"
+],
+"swiss": [
+"This is a Swiss watch.",
+"这是一块瑞士手表。"
+],
+"very much": [
+"I like it very much.",
+"我非常喜欢它。"
+],
+"love": [
+"I love my family.",
+"我爱我的家人。"
+],
+"salmon": [
+"I like salmon.",
+"我喜欢三文鱼。"
+],
+"piece": [
+"I want a piece of cake.",
+"我想要一块蛋糕。"
+],
+"tonight": [
+"What are you doing tonight?",
+"你今晚做什么？"
+],
+"potato": [
+"I like potatoes.",
+"我喜欢土豆。"
+],
+"lettuce": [
+"I want some lettuce.",
+"我想要一些生菜。"
+],
+"cucumber": [
+"The cucumber is fresh.",
+"这根黄瓜很新鲜。"
+],
+"fantastic": [
+"The food is fantastic.",
+"这食物太棒了。"
+],
+"pick": [
+"Pick a card.",
+"挑一张卡片。"
+],
+"strawberry": [
+"I like strawberries.",
+"我喜欢草莓。"
+],
+"dessert": [
+"What is for dessert?",
+"甜点是什么？"
+],
+"healthy": [
+"Fruit is healthy.",
+"水果有益健康。"
+],
+"meal": [
+"Breakfast is the first meal of the day.",
+"早餐是一天中的第一餐。"
+],
+"worry": [
+"Don't worry.",
+"别担心。"
+],
+"cream": [
+"I like cream on my cake.",
+"我喜欢蛋糕上放奶油。"
+],
+"first": [
+"First, wash your hands.",
+"首先，把手洗干净。"
+],
+"hate": [
+"I hate onions.",
+"我讨厌洋葱。"
+],
+"sweet": [
+"The cake is sweet.",
+"蛋糕很甜。"
+],
+"wine": [
+"He has a glass of wine.",
+"他喝了一杯葡萄酒。"
+],
+"weekend": [
+"I play tennis at the weekend.",
+"我周末打网球。"
+],
+"shopping": [
+"I go shopping on Saturday.",
+"我星期六去购物。"
+],
+"supermarket": [
+"We buy food at the supermarket.",
+"我们在超市买食物。"
+],
+"make": [
+"My mother makes a cake.",
+"我妈妈做了一个蛋糕。"
+],
+"shopping list": [
+"I have a shopping list.",
+"我有一张购物清单。"
+],
+"need": [
+"I need some bread.",
+"我需要一些面包。"
+],
+"loaf": [
+"I want a loaf of bread.",
+"我想要一条面包。"
+],
+"sunday": [
+"I play football on Sunday.",
+"我星期天踢足球。"
+],
+"lunch": [
+"We have lunch at twelve.",
+"我们十二点吃午饭。"
+],
+"boring": [
+"This film is boring.",
+"这部电影很无聊。"
+],
+"ice cream": [
+"I like ice cream.",
+"我喜欢冰淇淋。"
+],
+"nasty": [
+"The food is nasty.",
+"这食物很难吃。"
+],
+"anything": [
+"Would you like anything to drink?",
+"你想喝点什么吗？"
+],
+"else": [
+"What else do you need?",
+"你还需要什么？"
+],
+"bar": [
+"I want a bar of chocolate.",
+"我想要一块巧克力。"
+],
+"soap": [
+"I need a bar of soap.",
+"我需要一块肥皂。"
+],
+"large": [
+"I want a large pizza.",
+"我想要一个大比萨。"
+],
+"match": [
+"We watch a football match.",
+"我们看一场足球赛。"
+],
+"girlfriend": [
+"This is his girlfriend.",
+"这是他的女朋友。"
+],
+"self-service": [
+"This is a self-service restaurant.",
+"这是一家自助餐厅。"
+],
+"menu": [
+"Can I see the menu, please?",
+"请给我看看菜单好吗？"
+],
+"soup": [
+"I want some soup.",
+"我想喝点汤。"
+],
+"tomato": [
+"I like tomato soup.",
+"我喜欢番茄汤。"
+],
+"sauce": [
+"I like tomato sauce.",
+"我喜欢番茄酱。"
+],
+"lady": [
+"The lady is my teacher.",
+"这位女士是我的老师。"
+],
+"glove": [
+"I have a pair of gloves.",
+"我有一副手套。"
+],
+"already": [
+"I have already finished.",
+"我已经做完了。"
+],
+"jeans": [
+"He has blue jeans.",
+"他有一条蓝色牛仔裤。"
+],
+"newspaper": [
+"My father reads a newspaper.",
+"我爸爸在看报纸。"
+],
+"toothache": [
+"I have a toothache.",
+"我牙疼。"
+],
+"awful": [
+"I feel awful.",
+"我感觉很难受。"
+],
+"dentist": [
+"I go to the dentist.",
+"我去看牙医。"
+],
+"patient": [
+"The doctor sees a patient.",
+"医生在看病人。"
+],
+"appointment": [
+"I have an appointment at ten.",
+"我十点钟有个预约。"
+],
+"emergency": [
+"Call 120 in an emergency.",
+"遇到紧急情况请打 120。"
+],
+"today": [
+"What day is it today?",
+"今天星期几？"
+],
+"afternoon": [
+"I play football in the afternoon.",
+"我下午踢足球。"
+],
+"miserable": [
+"I feel miserable.",
+"我觉得很难受。"
+],
+"feel": [
+"How do you feel?",
+"你感觉怎么样？"
+],
+"earache": [
+"I have an earache.",
+"我耳朵疼。"
+],
+"hope": [
+"I hope you feel better.",
+"我希望你感觉好些。"
+],
+"day": [
+"What day is it today?",
+"今天是星期几？"
+],
+"monday": [
+"I have maths on Monday.",
+"我星期一有数学课。"
+],
+"tuesday": [
+"We have art on Tuesday.",
+"我们星期二上美术课。"
+],
+"wednesday": [
+"I play tennis on Wednesday.",
+"我星期三打网球。"
+],
+"thursday": [
+"We have music on Thursday.",
+"我们星期四上音乐课。"
+],
+"friday": [
+"Friday is my favourite day.",
+"星期五是我最喜欢的一天。"
+],
+"saturday": [
+"I go shopping on Saturday.",
+"我星期六去购物。"
+],
+"headache": [
+"I have a headache.",
+"我头疼。"
+],
+"sick": [
+"I feel sick.",
+"我觉得恶心。"
+],
+"stomach-ache": [
+"I have a stomach-ache.",
+"我肚子疼。"
+],
+"flu": [
+"She has the flu.",
+"她得了流感。"
+],
+"every": [
+"I go to school every day.",
+"我每天去上学。"
+],
+"different": [
+"The two bags are different.",
+"这两个包不一样。"
+],
+"weather": [
+"What is the weather like today?",
+"今天天气怎么样？"
+],
+"mean": [
+"What does this word mean?",
+"这个词是什么意思？"
+],
+"quite": [
+"It is quite cold today.",
+"今天相当冷。"
+],
+"ever": [
+"Have you ever been to London?",
+"你去过伦敦吗？"
+],
+"warm": [
+"It is warm in spring.",
+"春天很暖和。"
+],
+"england": [
+"London is in England.",
+"伦敦在英格兰。"
+],
+"summer": [
+"It is hot in summer.",
+"夏天很热。"
+],
+"sunny": [
+"It is a sunny day.",
+"今天是个大晴天。"
+],
+"atlantic": [
+"The Atlantic is a big ocean.",
+"大西洋是一个大洋。"
+],
+"climate": [
+"The climate here is warm.",
+"这里的气候很温暖。"
+],
+"often": [
+"It often rains in England.",
+"英国经常下雨。"
+],
+"rain": [
+"I like the rain.",
+"我喜欢雨。"
+],
+"sometimes": [
+"Sometimes I walk to school.",
+"有时我走路去上学。"
+],
+"especially": [
+"I like fruit, especially apples.",
+"我喜欢水果，尤其是苹果。"
+],
+"july": [
+"My birthday is in July.",
+"我的生日在七月。"
+],
+"cool": [
+"It is cool in autumn.",
+"秋天很凉爽。"
+],
+"difficulty": [
+"He has difficulty with maths.",
+"他学数学有困难。"
+],
+"change": [
+"The weather changes quickly.",
+"天气变化很快。"
+],
+"month": [
+"There are twelve months in a year.",
+"一年有十二个月。"
+],
+"temperature": [
+"The temperature is low today.",
+"今天气温很低。"
+],
+"china": [
+"I am from China.",
+"我来自中国。"
+],
+"spring": [
+"Flowers come out in spring.",
+"春天花儿开了。"
+],
+"shine": [
+"The sun shines.",
+"太阳照耀着。"
+],
+"sun": [
+"The sun is bright.",
+"太阳很明亮。"
+],
+"cloudy": [
+"It is cloudy today.",
+"今天多云。"
+],
+"season": [
+"Spring is my favourite season.",
+"春天是我最喜欢的季节。"
+],
+"usually": [
+"I usually get up at seven.",
+"我通常七点起床。"
+],
+"never": [
+"I never eat meat.",
+"我从不吃肉。"
+],
+"autumn": [
+"Leaves fall in autumn.",
+"秋天树叶落下。"
+],
+"winter": [
+"It is cold in winter.",
+"冬天很冷。"
+],
+"snow": [
+"There is snow in winter.",
+"冬天有雪。"
+],
+"france": [
+"Paris is in France.",
+"巴黎在法国。"
+],
+"russia": [
+"Russia is a big country.",
+"俄罗斯是一个大国。"
+],
+"africa": [
+"Africa is hot.",
+"非洲很热。"
+],
+"windy": [
+"It is windy today.",
+"今天风很大。"
+],
+"same": [
+"We are in the same class.",
+"我们在同一个班。"
+],
+"return": [
+"Return the book to me.",
+"把书还给我。"
+],
+"august": [
+"We have a holiday in August.",
+"我们八月放假。"
+],
+"year": [
+"There are twelve months in a year.",
+"一年有十二个月。"
+],
+"present": [
+"This is a present for you.",
+"这是给你的礼物。"
+],
+"bike": [
+"I ride my bike to school.",
+"我骑自行车去上学。"
+],
+"gear": [
+"The bike has six gears.",
+"这辆自行车有六个挡。"
+],
+"traffic": [
+"There is a lot of traffic.",
+"车很多。"
+],
+"dangerous": [
+"It is dangerous to play here.",
+"在这里玩很危险。"
+],
+"about": [
+"This book is about animals.",
+"这本书是关于动物的。"
+],
+"safe": [
+"It is safe here.",
+"这里很安全。"
+],
+"date": [
+"What is the date today?",
+"今天几号？"
+],
+"question": [
+"I have a question.",
+"我有一个问题。"
+],
+"ask": [
+"Ask the teacher.",
+"去问老师。"
+],
+"special": [
+"Today is a special day.",
+"今天是个特别的日子。"
+],
+"january": [
+"January is cold.",
+"一月很冷。"
+],
+"february": [
+"February is the shortest month.",
+"二月是最短的月份。"
+],
+"march": [
+"It is windy in March.",
+"三月风很大。"
+],
+"last": [
+"Last month was very cold.",
+"上个月非常冷。"
+],
+"december": [
+"Christmas is in December.",
+"圣诞节在十二月。"
+],
+"after": [
+"I play football after school.",
+"放学后我踢足球。"
+],
+"before": [
+"Wash your hands before dinner.",
+"饭前要洗手。"
+],
+"april": [
+"It rains a lot in April.",
+"四月雨水多。"
+],
+"may": [
+"May is a warm month.",
+"五月是个温暖的月份。"
+],
+"june": [
+"Children's Day is in June.",
+"儿童节在六月。"
+],
+"september": [
+"School starts in September.",
+"学校九月开学。"
+],
+"october": [
+"National Day is in October.",
+"国庆节在十月。"
+],
+"november": [
+"It is cold in November.",
+"十一月很冷。"
+],
+"parent": [
+"My parents are teachers.",
+"我的父母是老师。"
+],
+"international": [
+"It is an international race.",
+"这是一场国际比赛。"
+],
+"event": [
+"The race is a big event.",
+"这场比赛是一件大事。"
+],
+"race": [
+"He wins the race.",
+"他赢得了比赛。"
+],
+"mile": [
+"It is one mile from here.",
+"离这里一英里。"
+],
+"runner": [
+"He is a good runner.",
+"他是个好跑手。"
+],
+"world": [
+"He is the fastest runner in the world.",
+"他是世界上跑得最快的人。"
+],
+"australia": [
+"Sydney is in Australia.",
+"悉尼在澳大利亚。"
+],
+"compete": [
+"He competes in the marathon.",
+"他参加马拉松比赛。"
+],
+"european": [
+"He is a European runner.",
+"他是一名欧洲选手。"
+],
+"impressive": [
+"His time is impressive.",
+"他的成绩令人印象深刻。"
+],
+"rank": [
+"He ranks first in the world.",
+"他排名世界第一。"
+],
+"marathon": [
+"He runs the marathon.",
+"他跑马拉松。"
+],
+"practice": [
+"I practice every day.",
+"我每天练习。"
+],
+"moroccan": [
+"He is a Moroccan runner.",
+"他是一名摩洛哥选手。"
+],
+"brazilian": [
+"She is Brazilian.",
+"她是巴西人。"
+],
+"canadian": [
+"He is Canadian.",
+"他是加拿大人。"
+],
+"chinese": [
+"I speak Chinese.",
+"我说中文。"
+],
+"new york": [
+"New York is a big city.",
+"纽约是一座大城市。"
+],
+"country": [
+"China is a big country.",
+"中国是个大国。"
+],
+"australian": [
+"He is Australian.",
+"他是澳大利亚人。"
+],
+"live": [
+"I live in Beijing.",
+"我住在北京。"
+],
+"sydney": [
+"Sydney is in Australia.",
+"悉尼在澳大利亚。"
+],
+"language": [
+"English is a language.",
+"英语是一种语言。"
+],
+"brazil": [
+"Brazil is in South America.",
+"巴西在南美洲。"
+],
+"sao paulo": [
+"Sao Paulo is a big city.",
+"圣保罗是一座大城市。"
+],
+"portuguese": [
+"They speak Portuguese in Brazil.",
+"巴西人说葡萄牙语。"
+],
+"germany": [
+"Berlin is in Germany.",
+"柏林在德国。"
+],
+"berlin": [
+"Berlin is a big city.",
+"柏林是一座大城市。"
+],
+"canada": [
+"Canada is a big country.",
+"加拿大是个大国。"
+],
+"america": [
+"He is from America.",
+"他来自美国。"
+]
+}

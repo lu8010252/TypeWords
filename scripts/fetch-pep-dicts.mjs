@@ -2,12 +2,12 @@
 // 1) 官方词库：人教版小学三年级起点 8 册、新概念英语 1~4 册
 // 2) 官方文章：新概念英语 1~4 册（完整版，替换仓库里被截断的 NCE_1）
 // 3) 自建文章：人教版 PEP 三年级起点 8 册的课文句子（见 scripts/data/pep-articles.mjs）
-// 4) 自建词库：新概念英语青少版 1A / 1B（见 scripts/data/ncej.mjs）
+// 4) 自建词库：新概念英语青少版全套（入门级~5B）+ 人教版 PEP 三起 3~6 年级（见 scripts/data/vocab/，
+//    由 scripts/tools/xlsx_to_vocab.py 从 lilinji/English 的 Excel 转换，CC BY-NC-SA 4.0，仅限非商业）
 // 注意：音标只补充缺失项，绝不覆盖已有音标。
 import fs from 'node:fs/promises'
 import path from 'node:path'
 import { pepArticleBooks } from './data/pep-articles.mjs'
-import { ncejBooks } from './data/ncej.mjs'
 import { phoneticFallback } from './data/phonetics.mjs'
 
 const BASE = process.env.DICT_SOURCE || 'https://files.typewords.cc'
@@ -204,9 +204,40 @@ for (const book of pepArticleBooks) {
   console.log(`[article] ${book.name}(${book.url}) ${articles.length} 篇`)
 }
 
-// ---------- 4. 自建 新概念青少版 1A / 1B ----------
-// 用已下载的官方词库（新概念 1~4、人教版）补充释义/例句/短语/近义词/同根词/词源；
-// 自带的释义与例句始终排在最前，官方数据只做追加，不覆盖。
+// ---------- 4. 自建词库：新概念青少版全套 + 人教版 PEP 三起 ----------
+// 词表来自 scripts/data/vocab/*.json；1A/1B 原有的手写例句保留在 examples.json 里。
+// 用已下载的官方词库补充例句/短语/近义词/同根词/词源，自带的释义始终排在最前，官方数据只做追加。
+const VOCAB_DIR = path.join(ROOT, 'scripts/data/vocab')
+const examples = await readJson(path.join(VOCAB_DIR, 'examples.json'))
+const pepRef = downloaded.find(d => PEP_3.test(String(d.entry.url)))?.entry
+const OWN_BOOKS = [
+  // [json 文件名, 词典 id, 分类, categoryId, tags]
+  ['NCEJ_0A', 402, '青少年英语', 3, ['新概念青少版']],
+  ['NCEJ_0B', 403, '青少年英语', 3, ['新概念青少版']],
+  ['NCEJ_1A', 400, '青少年英语', 3, ['新概念青少版']],
+  ['NCEJ_1B', 401, '青少年英语', 3, ['新概念青少版']],
+  ['NCEJ_2A', 404, '青少年英语', 3, ['新概念青少版']],
+  ['NCEJ_2B', 405, '青少年英语', 3, ['新概念青少版']],
+  ['NCEJ_3A', 406, '青少年英语', 3, ['新概念青少版']],
+  ['NCEJ_3B', 407, '青少年英语', 3, ['新概念青少版']],
+  ['NCEJ_4A', 408, '青少年英语', 3, ['新概念青少版']],
+  ['NCEJ_4B', 409, '青少年英语', 3, ['新概念青少版']],
+  ['NCEJ_5A', 410, '青少年英语', 3, ['新概念青少版']],
+  ['NCEJ_5B', 411, '青少年英语', 3, ['新概念青少版']],
+  ...[3, 4, 5, 6].flatMap((g, i) => [1, 2].map((t, j) => [`PEP3Q_${g}_${t}`, 420 + i * 2 + j, pepRef?.category || '小学英语', pepRef?.categoryId ?? 3, ['人教版']])),
+]
+const ownData = new Map()
+for (const [stem] of OWN_BOOKS) ownData.set(stem, await readJson(path.join(VOCAB_DIR, `${stem}.json`)))
+
+// 自建词表本身也加入音标索引，让缺音标的短语能用同表里的单词拼出来
+for (const { words } of ownData.values()) {
+  for (const w of words) {
+    const k = w.word.trim().toLowerCase()
+    if (!k || phoneticIndex.has(k)) continue
+    if (w.phonetic0 || w.phonetic1) phoneticIndex.set(k, { a: w.phonetic0 || w.phonetic1, b: w.phonetic1 || w.phonetic0 })
+  }
+}
+
 const officialIndex = new Map()
 for (const { words } of downloaded) {
   for (const w of words) {
@@ -219,10 +250,6 @@ function mergeOfficial(entry) {
   const off = officialIndex.get(entry.word.trim().toLowerCase())
   if (!off) return
   enrichedCount++
-  for (const t of off.trans || []) {
-    if (entry.trans.length >= 4) break
-    if (t?.cn && !entry.trans.some(x => x.cn === t.cn)) entry.trans.push({ pos: t.pos || '', cn: t.cn })
-  }
   for (const s of off.sentences || []) {
     if (entry.sentences.length >= 3) break
     if (s?.c && !entry.sentences.some(x => x.c === s.c)) entry.sentences.push({ c: s.c, cn: s.cn || '' })
@@ -234,50 +261,51 @@ function mergeOfficial(entry) {
 }
 
 let wordId = 50000
-for (const book of ncejBooks) {
-  const words = []
-  for (const lesson of book.lessons) {
-    for (const [word, p0, p1, pos, cn, c, cnText] of lesson.words) {
-      const entry = {
-        id: wordId++,
-        word,
-        phonetic0: p0,
-        phonetic1: p1,
-        trans: [{ pos, cn }],
-        sentences: [{ c, cn: cnText }],
-        phrases: [],
-        synos: [],
-        relWords: { root: '', rels: [] },
-        etymology: [],
-      }
-      mergeOfficial(entry)
-      words.push(entry)
+for (const [stem, dictId, category, categoryId, tags] of OWN_BOOKS) {
+  const src = ownData.get(stem)
+  const url = `${stem}.json`
+  const words = src.words.map(w => {
+    const ex = stem.startsWith('NCEJ') ? examples[w.word.toLowerCase()] : null
+    const entry = {
+      id: wordId++,
+      word: w.word,
+      phonetic0: w.phonetic0,
+      phonetic1: w.phonetic1,
+      trans: w.trans,
+      sentences: ex ? [{ c: ex[0], cn: ex[1] }] : [],
+      phrases: [],
+      synos: [],
+      relWords: { root: '', rels: [] },
+      etymology: [],
     }
-  }
-  await fs.writeFile(path.join(WORD_DIR, book.url), JSON.stringify(words))
+    mergeOfficial(entry)
+    return entry
+  })
+  fillPhonetics(words)
+  await fs.writeFile(path.join(WORD_DIR, url), JSON.stringify(words))
   upsert(wordList, {
-    id: 400 + ncejBooks.indexOf(book),
-    enName: book.enName,
-    name: book.name,
-    description: book.description,
-    categoryId: 3,
-    url: book.url,
+    id: dictId,
+    enName: src.enName,
+    name: src.name,
+    description: `${src.name}，共 ${words.length} 词：音标、中文释义（词表整理自 lilinji/English，CC BY-NC-SA 4.0）`,
+    categoryId,
+    url,
     length: words.length,
     language: 'en',
     translateLanguage: 'zh_CN',
-    version: 1,
+    version: 2,
     type: 'word',
     isDefault: false,
     recommended: true,
     userId: '00000000-0000-0000-0000-000000000001',
     createdAt: '2026-11-08 00:00:00.000000',
-    updatedAt: '2026-11-08 00:00:00.000000',
+    updatedAt: '2026-11-09 00:00:00.000000',
     cover: null,
     hidden: false,
-    category: '青少年英语',
-    tags: ['新概念青少版'],
+    category,
+    tags,
   })
-  console.log(`[word] ${book.name}(${book.url}) ${words.length} 词`)
+  console.log(`[word] ${src.name}(${url}) ${words.length} 词`)
 }
 
 // ---------- 5. 音标发音音频 ----------
