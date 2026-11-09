@@ -1,5 +1,5 @@
 // 构建时补充词库 / 课文库：
-// 1) 官方词库：人教版小学三年级起点 8 册、人教版(新起点) 12 册、新概念英语 1~4 册
+// 1) 官方词库：人教版小学三年级起点 8 册、新概念英语 1~4 册
 // 2) 官方文章：新概念英语 1~4 册（完整版，替换仓库里被截断的 NCE_1）
 // 3) 自建文章：人教版 PEP 三年级起点 8 册的课文句子（见 scripts/data/pep-articles.mjs）
 // 4) 自建词库：新概念英语青少版 1A / 1B（见 scripts/data/ncej.mjs）
@@ -18,7 +18,6 @@ const WORD_DIR = path.join(ROOT, 'public/dicts/en/word')
 const ARTICLE_DIR = path.join(ROOT, 'public/dicts/en/article')
 
 const PEP_3 = /^PEPXiaoXue\d_\d_T\.json$/ // 三年级起点
-const PEP_SL = /^PEP_SL_XiaoXue\d_\d_t\.json$/i // 新起点
 const NCE_WORD = /^nce-new-\d\.json$/ // 新概念英语 1~4 词库
 const NCE_ARTICLE = /^NCE_\d\.json$/
 
@@ -48,7 +47,7 @@ function upsert(list, entry) {
 // ---------- 1. 官方词库 ----------
 const remoteWordList = await getJson(`${BASE}/list/word.json`)
 const extraBooks = remoteWordList.filter(
-  d => PEP_3.test(String(d.url)) || PEP_SL.test(String(d.url)) || NCE_WORD.test(String(d.url))
+  d => PEP_3.test(String(d.url)) || NCE_WORD.test(String(d.url))
 )
 if (!extraBooks.length) throw new Error('官方词库列表中未找到任何需要补充的词库')
 
