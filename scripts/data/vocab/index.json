@@ -1,0 +1,332 @@
+[
+ {
+  "file": "PEP3Q_3_1",
+  "id": 420,
+  "kind": "textbook",
+  "tag": "人教版"
+ },
+ {
+  "file": "PEP3Q_3_2",
+  "id": 421,
+  "kind": "textbook",
+  "tag": "人教版"
+ },
+ {
+  "file": "PEP3Q_4_1",
+  "id": 422,
+  "kind": "textbook",
+  "tag": "人教版"
+ },
+ {
+  "file": "PEP3Q_4_2",
+  "id": 423,
+  "kind": "textbook",
+  "tag": "人教版"
+ },
+ {
+  "file": "PEP3Q_5_1",
+  "id": 424,
+  "kind": "textbook",
+  "tag": "人教版"
+ },
+ {
+  "file": "PEP3Q_5_2",
+  "id": 425,
+  "kind": "textbook",
+  "tag": "人教版"
+ },
+ {
+  "file": "PEP3Q_6_1",
+  "id": 426,
+  "kind": "textbook",
+  "tag": "人教版"
+ },
+ {
+  "file": "PEP3Q_6_2",
+  "id": 427,
+  "kind": "textbook",
+  "tag": "人教版"
+ },
+ {
+  "file": "WY3Q_3_1",
+  "id": 430,
+  "kind": "textbook",
+  "tag": "外研版"
+ },
+ {
+  "file": "WY3Q_3_2",
+  "id": 431,
+  "kind": "textbook",
+  "tag": "外研版"
+ },
+ {
+  "file": "WY3Q_4_1",
+  "id": 432,
+  "kind": "textbook",
+  "tag": "外研版"
+ },
+ {
+  "file": "WY3Q_4_2",
+  "id": 433,
+  "kind": "textbook",
+  "tag": "外研版"
+ },
+ {
+  "file": "WY3Q_5_1",
+  "id": 434,
+  "kind": "textbook",
+  "tag": "外研版"
+ },
+ {
+  "file": "WY3Q_5_2",
+  "id": 435,
+  "kind": "textbook",
+  "tag": "外研版"
+ },
+ {
+  "file": "WY3Q_6_1",
+  "id": 436,
+  "kind": "textbook",
+  "tag": "外研版"
+ },
+ {
+  "file": "WY3Q_6_2",
+  "id": 437,
+  "kind": "textbook",
+  "tag": "外研版"
+ },
+ {
+  "file": "BSD3Q_3_1",
+  "id": 440,
+  "kind": "textbook",
+  "tag": "北师大版"
+ },
+ {
+  "file": "BSD3Q_3_2",
+  "id": 441,
+  "kind": "textbook",
+  "tag": "北师大版"
+ },
+ {
+  "file": "BSD3Q_4_1",
+  "id": 442,
+  "kind": "textbook",
+  "tag": "北师大版"
+ },
+ {
+  "file": "BSD3Q_4_2",
+  "id": 443,
+  "kind": "textbook",
+  "tag": "北师大版"
+ },
+ {
+  "file": "BSD3Q_5_1",
+  "id": 444,
+  "kind": "textbook",
+  "tag": "北师大版"
+ },
+ {
+  "file": "BSD3Q_5_2",
+  "id": 445,
+  "kind": "textbook",
+  "tag": "北师大版"
+ },
+ {
+  "file": "BSD3Q_6_1",
+  "id": 446,
+  "kind": "textbook",
+  "tag": "北师大版"
+ },
+ {
+  "file": "BSD3Q_6_2",
+  "id": 447,
+  "kind": "textbook",
+  "tag": "北师大版"
+ },
+ {
+  "file": "YL3Q_3_1",
+  "id": 450,
+  "kind": "textbook",
+  "tag": "译林版"
+ },
+ {
+  "file": "YL3Q_3_2",
+  "id": 451,
+  "kind": "textbook",
+  "tag": "译林版"
+ },
+ {
+  "file": "YL3Q_4_1",
+  "id": 452,
+  "kind": "textbook",
+  "tag": "译林版"
+ },
+ {
+  "file": "YL3Q_4_2",
+  "id": 453,
+  "kind": "textbook",
+  "tag": "译林版"
+ },
+ {
+  "file": "YL3Q_5_1",
+  "id": 454,
+  "kind": "textbook",
+  "tag": "译林版"
+ },
+ {
+  "file": "YL3Q_5_2",
+  "id": 455,
+  "kind": "textbook",
+  "tag": "译林版"
+ },
+ {
+  "file": "YL3Q_6_1",
+  "id": 456,
+  "kind": "textbook",
+  "tag": "译林版"
+ },
+ {
+  "file": "YL3Q_6_2",
+  "id": 457,
+  "kind": "textbook",
+  "tag": "译林版"
+ },
+ {
+  "file": "NJSH_3_1",
+  "id": 460,
+  "kind": "textbook",
+  "tag": "牛津上海版"
+ },
+ {
+  "file": "NJSH_3_2",
+  "id": 461,
+  "kind": "textbook",
+  "tag": "牛津上海版"
+ },
+ {
+  "file": "NJSH_4_1",
+  "id": 462,
+  "kind": "textbook",
+  "tag": "牛津上海版"
+ },
+ {
+  "file": "NJSH_4_2",
+  "id": 463,
+  "kind": "textbook",
+  "tag": "牛津上海版"
+ },
+ {
+  "file": "NJSH_5_1",
+  "id": 464,
+  "kind": "textbook",
+  "tag": "牛津上海版"
+ },
+ {
+  "file": "NJSH_5_2",
+  "id": 465,
+  "kind": "textbook",
+  "tag": "牛津上海版"
+ },
+ {
+  "file": "NJSH_6_1",
+  "id": 466,
+  "kind": "textbook",
+  "tag": "牛津上海版"
+ },
+ {
+  "file": "NJSH_6_2",
+  "id": 467,
+  "kind": "textbook",
+  "tag": "牛津上海版"
+ },
+ {
+  "file": "NCEJ_0A",
+  "id": 402,
+  "kind": "ncej",
+  "tag": "新概念青少版"
+ },
+ {
+  "file": "NCEJ_0B",
+  "id": 403,
+  "kind": "ncej",
+  "tag": "新概念青少版"
+ },
+ {
+  "file": "NCEJ_1A",
+  "id": 400,
+  "kind": "ncej",
+  "tag": "新概念青少版"
+ },
+ {
+  "file": "NCEJ_1B",
+  "id": 401,
+  "kind": "ncej",
+  "tag": "新概念青少版"
+ },
+ {
+  "file": "NCEJ_2A",
+  "id": 404,
+  "kind": "ncej",
+  "tag": "新概念青少版"
+ },
+ {
+  "file": "NCEJ_2B",
+  "id": 405,
+  "kind": "ncej",
+  "tag": "新概念青少版"
+ },
+ {
+  "file": "NCEJ_3A",
+  "id": 406,
+  "kind": "ncej",
+  "tag": "新概念青少版"
+ },
+ {
+  "file": "NCEJ_3B",
+  "id": 407,
+  "kind": "ncej",
+  "tag": "新概念青少版"
+ },
+ {
+  "file": "NCEJ_4A",
+  "id": 408,
+  "kind": "ncej",
+  "tag": "新概念青少版"
+ },
+ {
+  "file": "NCEJ_4B",
+  "id": 409,
+  "kind": "ncej",
+  "tag": "新概念青少版"
+ },
+ {
+  "file": "NCEJ_5A",
+  "id": 410,
+  "kind": "ncej",
+  "tag": "新概念青少版"
+ },
+ {
+  "file": "NCEJ_5B",
+  "id": 411,
+  "kind": "ncej",
+  "tag": "新概念青少版"
+ },
+ {
+  "file": "KET_14",
+  "id": 470,
+  "kind": "other",
+  "tag": "剑桥KET"
+ },
+ {
+  "file": "KET_QJ",
+  "id": 471,
+  "kind": "other",
+  "tag": "剑桥KET"
+ },
+ {
+  "file": "LW3000",
+  "id": 472,
+  "kind": "other",
+  "tag": "朗文3000"
+ }
+]

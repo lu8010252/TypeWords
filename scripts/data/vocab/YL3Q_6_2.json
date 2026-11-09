@@ -1,0 +1,1590 @@
+{
+"name": "译林版三起·六年级下册词表",
+"enName": "yl3q-6-2",
+"words": [
+{
+"word": "mouse",
+"phonetic0": "maʊs",
+"phonetic1": "maʊs",
+"trans": [
+{
+"pos": "n.",
+"cn": "鼠标；老鼠；胆小羞怯的人"
+},
+{
+"pos": "vt.",
+"cn": "探出"
+},
+{
+"pos": "vi.",
+"cn": "捕鼠；窥探"
+}
+]
+},
+{
+"word": "large",
+"phonetic0": "lɑːdʒ",
+"phonetic1": "lɑːrdʒ",
+"trans": [
+{
+"pos": "adj.",
+"cn": "大的；多数的；广博的"
+},
+{
+"pos": "adv.",
+"cn": "大大地；夸大地"
+},
+{
+"pos": "n.",
+"cn": "大"
+}
+]
+},
+{
+"word": "strong",
+"phonetic0": "strɒŋ",
+"phonetic1": "strɔːŋ",
+"trans": [
+{
+"pos": "adj.",
+"cn": "坚强的；强壮的；牢固的"
+},
+{
+"pos": "adv.",
+"cn": "强劲地；猛烈地"
+}
+]
+},
+{
+"word": "walk by",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "走过；路过；在…旁边走过"
+}
+]
+},
+{
+"word": "wake ... up",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "na.",
+"cn": "同“wake”；叫醒；醒来"
+}
+]
+},
+{
+"word": "some day",
+"phonetic0": "ˈsʌm deɪ",
+"phonetic1": "ˈsʌm ˌdeɪ",
+"trans": [
+{
+"pos": "adv.",
+"cn": "总有一天；有朝一日；将来"
+}
+]
+},
+{
+"word": "quietly",
+"phonetic0": "ˈkwaɪətli",
+"phonetic1": "ˈkwaɪətli",
+"trans": [
+{
+"pos": "adv.",
+"cn": "安静地；秘密地；平稳地"
+}
+]
+},
+{
+"word": "weak",
+"phonetic0": "wiːk",
+"phonetic1": "wiːk",
+"trans": [
+{
+"pos": "adj.",
+"cn": "[经] 疲软的；虚弱的；无力的"
+}
+]
+},
+{
+"word": "loudly",
+"phonetic0": "ˈlaʊdli",
+"phonetic1": "ˈlaʊdli",
+"trans": [
+{
+"pos": "adv.",
+"cn": "大声地，响亮地"
+}
+]
+},
+{
+"word": "let ... go",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "v.",
+"cn": "放手；解雇；松手"
+}
+]
+},
+{
+"word": "the next day",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "第二天；下一天；次日"
+}
+]
+},
+{
+"word": "net",
+"phonetic0": "net",
+"phonetic1": "net",
+"trans": [
+{
+"pos": "n.",
+"cn": "网；网络；净利"
+},
+{
+"pos": "vi.",
+"cn": "编网"
+},
+{
+"pos": "vt.",
+"cn": "得到；净赚；用网捕"
+}
+]
+},
+{
+"word": "bite",
+"phonetic0": "baɪt",
+"phonetic1": "baɪt",
+"trans": [
+{
+"pos": "n.",
+"cn": "咬；一口；咬伤"
+},
+{
+"pos": "abbr.",
+"cn": "机内测试设备（Built-In Test Equipment）"
+},
+{
+"pos": "vt.",
+"cn": "咬；刺痛"
+}
+]
+},
+{
+"word": "sharp",
+"phonetic0": "ʃɑːp",
+"phonetic1": "ʃɑːrp",
+"trans": [
+{
+"pos": "n.",
+"cn": "尖头；骗子；内行"
+},
+{
+"pos": "adj.",
+"cn": "急剧的；锋利的；强烈的"
+},
+{
+"pos": "vt.",
+"cn": "磨快；把音调升高"
+}
+]
+},
+{
+"word": "sadly",
+"phonetic0": "ˈsædli",
+"phonetic1": "ˈsædli",
+"trans": [
+{
+"pos": "adv.",
+"cn": "悲哀地；悲痛地"
+}
+]
+},
+{
+"word": "just then",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "na.",
+"cn": "正在那时"
+}
+]
+},
+{
+"word": "soon",
+"phonetic0": "suːn",
+"phonetic1": "suːn",
+"trans": [
+{
+"pos": "adv.",
+"cn": "快；不久，一会儿；立刻"
+}
+]
+},
+{
+"word": "happily",
+"phonetic0": "ˈhæpɪli",
+"phonetic1": "ˈhæpɪli",
+"trans": [
+{
+"pos": "adv.",
+"cn": "快乐地；幸福地；幸运地"
+}
+]
+},
+{
+"word": "from then on",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "na.",
+"cn": "从那时起"
+}
+]
+},
+{
+"word": "cheer",
+"phonetic0": "tʃɪə(r)",
+"phonetic1": "tʃɪr",
+"trans": [
+{
+"pos": "n.",
+"cn": "欢呼；愉快；心情"
+},
+{
+"pos": "vt.",
+"cn": "欢呼；使高兴；为…加油"
+},
+{
+"pos": "vi.",
+"cn": "欢呼；感到高兴"
+}
+]
+},
+{
+"word": "hit",
+"phonetic0": "hɪt",
+"phonetic1": "hɪt",
+"trans": [
+{
+"pos": "n.",
+"cn": "打；打击；（演出等）成功"
+},
+{
+"pos": "vt.",
+"cn": "打击；袭击；碰撞"
+},
+{
+"pos": "vi.",
+"cn": "打；打击；碰撞"
+}
+]
+},
+{
+"word": "deep",
+"phonetic0": "diːp",
+"phonetic1": "diːp",
+"trans": [
+{
+"pos": "n.",
+"cn": "深处；深渊"
+},
+{
+"pos": "adj.",
+"cn": "深的；低沉的；深奥的"
+},
+{
+"pos": "adv.",
+"cn": "深入地；深深地；迟"
+}
+]
+},
+{
+"word": "reach",
+"phonetic0": "riːtʃ",
+"phonetic1": "riːtʃ",
+"trans": [
+{
+"pos": "n.",
+"cn": "范围；延伸；河段"
+},
+{
+"pos": "vi.",
+"cn": "达到；延伸；伸出手"
+},
+{
+"pos": "vt.",
+"cn": "达到；影响；抵达"
+}
+]
+},
+{
+"word": "quickly",
+"phonetic0": "ˈkwɪkli",
+"phonetic1": "ˈkwɪkli",
+"trans": [
+{
+"pos": "adv.",
+"cn": "迅速地；很快地"
+}
+]
+},
+{
+"word": "pour ... into",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "不断地[大量地]流进[涌进]；注入；灌注"
+}
+]
+},
+{
+"word": "habit",
+"phonetic0": "ˈhæbɪt",
+"phonetic1": "ˈhæbɪt",
+"trans": [
+{
+"pos": "n.",
+"cn": "习惯，习性；嗜好"
+},
+{
+"pos": "vt.",
+"cn": "使穿衣"
+}
+]
+},
+{
+"word": "never",
+"phonetic0": "ˈnevə(r)",
+"phonetic1": "ˈnevər",
+"trans": [
+{
+"pos": "adv.",
+"cn": "从未；决不"
+}
+]
+},
+{
+"word": "late",
+"phonetic0": "leɪt",
+"phonetic1": "leɪt",
+"trans": [
+{
+"pos": "adj.",
+"cn": "晚的；迟的；已故的"
+},
+{
+"pos": "adv.",
+"cn": "晚；迟；最近"
+}
+]
+},
+{
+"word": "put ... in order",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "na.",
+"cn": "整顿"
+}
+]
+},
+{
+"word": "finish",
+"phonetic0": "ˈfɪnɪʃ",
+"phonetic1": "ˈfɪnɪʃ",
+"trans": [
+{
+"pos": "n.",
+"cn": "结束；完美；回味（葡萄酒）"
+},
+{
+"pos": "vt.",
+"cn": "完成；结束；用完"
+},
+{
+"pos": "vi.",
+"cn": "结束，终止；终结"
+}
+]
+},
+{
+"word": "tidy",
+"phonetic0": "ˈtaɪdi",
+"phonetic1": "ˈtaɪdi",
+"trans": [
+{
+"pos": "n.",
+"cn": "椅子的背罩"
+},
+{
+"pos": "adj.",
+"cn": "整齐的；相当大的"
+},
+{
+"pos": "vi.",
+"cn": "整理；收拾"
+}
+]
+},
+{
+"word": "bad",
+"phonetic0": "bæd",
+"phonetic1": "bæd",
+"trans": [
+{
+"pos": "n.",
+"cn": "坏事；坏人"
+},
+{
+"pos": "adj.",
+"cn": "坏的；严重的；劣质的"
+},
+{
+"pos": "adv.",
+"cn": "很，非常；坏地；邪恶地"
+}
+]
+},
+{
+"word": "sleepy",
+"phonetic0": "ˈsliːpi",
+"phonetic1": "ˈsliːpi",
+"trans": [
+{
+"pos": "adj.",
+"cn": "欲睡的；困乏的；不活跃的"
+}
+]
+},
+{
+"word": "last night",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "na.",
+"cn": "昨晚；最后一夜"
+}
+]
+},
+{
+"word": "fast",
+"phonetic0": "fɑːst",
+"phonetic1": "fæst",
+"trans": [
+{
+"pos": "n.",
+"cn": "斋戒；绝食"
+},
+{
+"pos": "adj.",
+"cn": "快速的，迅速的；紧的，稳固的"
+},
+{
+"pos": "adv.",
+"cn": "迅速地；紧紧地；彻底地"
+}
+]
+},
+{
+"word": "go into",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "na.",
+"cn": "进入；(门等)通着；加入"
+}
+]
+},
+{
+"word": "slowly",
+"phonetic0": "ˈsləʊli",
+"phonetic1": "ˈsloʊli",
+"trans": [
+{
+"pos": "adv.",
+"cn": "缓慢地，慢慢地"
+}
+]
+},
+{
+"word": "badly",
+"phonetic0": "ˈbædli",
+"phonetic1": "ˈbædli",
+"trans": [
+{
+"pos": "adv.",
+"cn": "非常，很；严重地，厉害地；恶劣地"
+}
+]
+},
+{
+"word": "healthy",
+"phonetic0": "ˈhelθi",
+"phonetic1": "ˈhelθi",
+"trans": [
+{
+"pos": "adj.",
+"cn": "健康的，健全的；有益于健康的"
+}
+]
+},
+{
+"word": "diet",
+"phonetic0": "ˈdaɪət",
+"phonetic1": "ˈdaɪət",
+"trans": [
+{
+"pos": "n.",
+"cn": "饮食；食物；规定饮食"
+},
+{
+"pos": "vt.",
+"cn": "[医] 照规定饮食"
+},
+{
+"pos": "vi.",
+"cn": "节食"
+}
+]
+},
+{
+"word": "a little",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "n.",
+"cn": "一点"
+}
+]
+},
+{
+"word": "a few",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "na.",
+"cn": "几个；〔反语〕很多；〈俚〉一点点"
+}
+]
+},
+{
+"word": "at a time",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "na.",
+"cn": "一次(多少)；同时；曾经"
+}
+]
+},
+{
+"word": "cola",
+"phonetic0": "ˈkəʊlə",
+"phonetic1": "ˈkoʊlə",
+"trans": [
+{
+"pos": "n.",
+"cn": "可乐；可乐树（其子含咖啡碱）"
+}
+]
+},
+{
+"word": "need",
+"phonetic0": "niːd",
+"phonetic1": "niːd",
+"trans": [
+{
+"pos": "n.",
+"cn": "需要，要求；缺乏；必要之物"
+},
+{
+"pos": "vt.",
+"cn": "需要"
+},
+{
+"pos": "vi.",
+"cn": "需要"
+}
+]
+},
+{
+"word": "road",
+"phonetic0": "rəʊd",
+"phonetic1": "roʊd",
+"trans": [
+{
+"pos": "n.",
+"cn": "公路，马路；道路；手段"
+},
+{
+"pos": "adj.",
+"cn": "（美）巡回的"
+},
+{
+"pos": "vt.",
+"cn": "（狗）沿臭迹追逐（猎物）"
+}
+]
+},
+{
+"word": "safety",
+"phonetic0": "ˈseɪfti",
+"phonetic1": "ˈseɪfti",
+"trans": [
+{
+"pos": "n.",
+"cn": "安全；保险；安全设备"
+}
+]
+},
+{
+"word": "cross",
+"phonetic0": "krɒs",
+"phonetic1": "krɔːs",
+"trans": [
+{
+"pos": "n.",
+"cn": "交叉，十字；十字架，十字形物"
+},
+{
+"pos": "adj.",
+"cn": "交叉的，相反的；乖戾的；生气的"
+},
+{
+"pos": "vt.",
+"cn": "杂交；渡过；使相交"
+}
+]
+},
+{
+"word": "safely",
+"phonetic0": "ˈseɪfli",
+"phonetic1": "ˈseɪfli",
+"trans": [
+{
+"pos": "adv.",
+"cn": "安全地"
+},
+{
+"pos": "",
+"cn": "稳定地"
+}
+]
+},
+{
+"word": "must",
+"phonetic0": "məst",
+"phonetic1": "məst",
+"trans": [
+{
+"pos": "aux.",
+"cn": "必须，一定；可以，应当；很可能"
+},
+{
+"pos": "n.",
+"cn": "绝对必要的事物；未发酵葡萄汁"
+}
+]
+},
+{
+"word": "zebra crossing",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "n.",
+"cn": "斑马线；人行横道"
+}
+]
+},
+{
+"word": "safe",
+"phonetic0": "seɪf",
+"phonetic1": "seɪf",
+"trans": [
+{
+"pos": "n.",
+"cn": "保险箱；冷藏室；纱橱"
+},
+{
+"pos": "adj.",
+"cn": "安全的；可靠的；平安的"
+}
+]
+},
+{
+"word": "pavement",
+"phonetic0": "ˈpeɪvmənt",
+"phonetic1": "ˈpeɪvmənt",
+"trans": [
+{
+"pos": "n.",
+"cn": "人行道"
+},
+{
+"pos": "",
+"cn": "路面"
+}
+]
+},
+{
+"word": "look out for",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "v.",
+"cn": "照料；寻求；期待"
+}
+]
+},
+{
+"word": "easily",
+"phonetic0": "ˈiːzəli",
+"phonetic1": "ˈiːzəli",
+"trans": [
+{
+"pos": "adv.",
+"cn": "容易地；无疑地"
+}
+]
+},
+{
+"word": "follow",
+"phonetic0": "ˈfɒləʊ",
+"phonetic1": "ˈfɑːloʊ",
+"trans": [
+{
+"pos": "n.",
+"cn": "跟随；追随"
+},
+{
+"pos": "vi.",
+"cn": "跟随；接着"
+},
+{
+"pos": "vt.",
+"cn": "跟随；遵循；追求"
+}
+]
+},
+{
+"word": "rule",
+"phonetic0": "ruːl",
+"phonetic1": "ruːl",
+"trans": [
+{
+"pos": "n.",
+"cn": "统治；规则"
+},
+{
+"pos": "vt.",
+"cn": "统治；规定；管理"
+},
+{
+"pos": "vi.",
+"cn": "统治；管辖；裁定"
+}
+]
+},
+{
+"word": "stay",
+"phonetic0": "steɪ",
+"phonetic1": "steɪ",
+"trans": [
+{
+"pos": "n.",
+"cn": "逗留；停止；支柱"
+},
+{
+"pos": "vi.",
+"cn": "停留；坚持；暂住"
+},
+{
+"pos": "vt.",
+"cn": "坚持；暂住；抑制"
+}
+]
+},
+{
+"word": "light",
+"phonetic0": "laɪt",
+"phonetic1": "laɪt",
+"trans": [
+{
+"pos": "n.",
+"cn": "光；光线；灯"
+},
+{
+"pos": "adj.",
+"cn": "轻的；浅色的；明亮的"
+},
+{
+"pos": "vi.",
+"cn": "点着；变亮；着火"
+}
+]
+},
+{
+"word": "Children's Day",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "na.",
+"cn": "儿童节"
+}
+]
+},
+{
+"word": "clown",
+"phonetic0": "klaʊn",
+"phonetic1": "klaʊn",
+"trans": [
+{
+"pos": "n.",
+"cn": "小丑；乡下人；粗鲁笨拙的人"
+},
+{
+"pos": "vi.",
+"cn": "扮小丑；装傻"
+}
+]
+},
+{
+"word": "appear",
+"phonetic0": "əˈpɪə(r)",
+"phonetic1": "əˈpɪr",
+"trans": [
+{
+"pos": "vi.",
+"cn": "出现；显得；似乎"
+}
+]
+},
+{
+"word": "balloon",
+"phonetic0": "bəˈluːn",
+"phonetic1": "bəˈluːn",
+"trans": [
+{
+"pos": "n.",
+"cn": "气球"
+},
+{
+"pos": "adj.",
+"cn": "像气球般鼓起的"
+},
+{
+"pos": "vt.",
+"cn": "使像气球般鼓起；使激增"
+}
+]
+},
+{
+"word": "begin",
+"phonetic0": "bɪˈɡɪn",
+"phonetic1": "bɪˈɡɪn",
+"trans": [
+{
+"pos": "vi.",
+"cn": "开始；首先"
+},
+{
+"pos": "vt.",
+"cn": "开始"
+}
+]
+},
+{
+"word": "put on",
+"phonetic0": "pʊt ɒn",
+"phonetic1": "pʊt ɑːn",
+"trans": [
+{
+"pos": "na.",
+"cn": "假话"
+}
+]
+},
+{
+"word": "end",
+"phonetic0": "end",
+"phonetic1": "end",
+"trans": [
+{
+"pos": "n.",
+"cn": "结束；目标；尽头"
+},
+{
+"pos": "vi.",
+"cn": "结束，终止；终结"
+},
+{
+"pos": "vt.",
+"cn": "结束，终止；终结"
+}
+]
+},
+{
+"word": "country",
+"phonetic0": "ˈkʌntri",
+"phonetic1": "ˈkʌntri",
+"trans": [
+{
+"pos": "n.",
+"cn": "国家，国土；国民；乡下，农村"
+},
+{
+"pos": "adj.",
+"cn": "祖国的，故乡的；地方的，乡村的；国家的"
+}
+]
+},
+{
+"word": "will",
+"phonetic0": "wɪl",
+"phonetic1": "wɪl",
+"trans": [
+{
+"pos": "n.",
+"cn": "意志；决心；情感"
+},
+{
+"pos": "vt.",
+"cn": "决心要；遗赠；用意志力使"
+},
+{
+"pos": "vi.",
+"cn": "愿意；下决心"
+}
+]
+},
+{
+"word": "learn",
+"phonetic0": "lɜːn",
+"phonetic1": "lɜːrn",
+"trans": [
+{
+"pos": "vt.",
+"cn": "学习；得知；认识到"
+},
+{
+"pos": "vi.",
+"cn": "学习；获悉"
+}
+]
+},
+{
+"word": "find out",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "na.",
+"cn": "查出；发现；看清…的面目"
+}
+]
+},
+{
+"word": "magazine",
+"phonetic0": "ˌmæɡəˈziːn",
+"phonetic1": "ˈmæɡəziːn",
+"trans": [
+{
+"pos": "n.",
+"cn": "杂志；弹药库；胶卷盒"
+}
+]
+},
+{
+"word": "kangaroo",
+"phonetic0": "ˌkæŋɡəˈruː",
+"phonetic1": "ˌkæŋɡəˈruː",
+"trans": [
+{
+"pos": "n.",
+"cn": "袋鼠"
+}
+]
+},
+{
+"word": "koala",
+"phonetic0": "kəʊˈɑːlə",
+"phonetic1": "koʊˈɑːlə",
+"trans": [
+{
+"pos": "n.",
+"cn": "树袋熊，无尾熊（产于澳大利亚，又名考拉）"
+}
+]
+},
+{
+"word": "sport-lover",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "无"
+}
+]
+},
+{
+"word": "Australian football",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "= Australian rules football"
+}
+]
+},
+{
+"word": "exciting",
+"phonetic0": "ɪkˈsaɪtɪŋ",
+"phonetic1": "ɪkˈsaɪtɪŋ",
+"trans": [
+{
+"pos": "adj.",
+"cn": "令人兴奋的；使人激动的"
+},
+{
+"pos": "v.",
+"cn": "激动；刺激（excite的ing形式）；唤起"
+}
+]
+},
+{
+"word": "Sydney",
+"phonetic0": "ˈsɪdni",
+"phonetic1": "ˈsɪdni",
+"trans": [
+{
+"pos": "n.",
+"cn": "悉尼（澳大利亚港市）"
+}
+]
+},
+{
+"word": "welcome",
+"phonetic0": "ˈwelkəm",
+"phonetic1": "ˈwelkəm",
+"trans": [
+{
+"pos": "n.",
+"cn": "欢迎"
+},
+{
+"pos": "vt.",
+"cn": "欢迎"
+},
+{
+"pos": "adj.",
+"cn": "受欢迎的"
+}
+]
+},
+{
+"word": "visitor",
+"phonetic0": "ˈvɪzɪtə(r)",
+"phonetic1": "ˈvɪzɪtər",
+"trans": [
+{
+"pos": "n.",
+"cn": "访问者，参观者；视察者；候鸟"
+}
+]
+},
+{
+"word": "for example",
+"phonetic0": "fɔ: iɡˈzɑ:mpl",
+"phonetic1": "fɔr ɪɡˈzæmpəl",
+"trans": [
+{
+"pos": "na.",
+"cn": "例如"
+}
+]
+},
+{
+"word": "London",
+"phonetic0": "ˈlʌndən",
+"phonetic1": "ˈlʌndən",
+"trans": [
+{
+"pos": "n.",
+"cn": "伦敦"
+}
+]
+},
+{
+"word": "Oxford",
+"phonetic0": "ˈɒksfəd",
+"phonetic1": "ˈɑːksfərd",
+"trans": [
+{
+"pos": "n.",
+"cn": "牛津大学；牛津（英国城市）"
+}
+]
+},
+{
+"word": "like",
+"phonetic0": "laɪk",
+"phonetic1": "laɪk",
+"trans": [
+{
+"pos": "vt.",
+"cn": "喜欢；想；愿意"
+},
+{
+"pos": "vi.",
+"cn": "喜欢；希望"
+},
+{
+"pos": "prep.",
+"cn": "像；如同"
+}
+]
+},
+{
+"word": "Big Ben",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "n.",
+"cn": "英国伦敦议会大厦顶的大钟, 美国得州西南部的国立大本德公园(Big Bend National Park)"
+}
+]
+},
+{
+"word": "London Eye",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "n.",
+"cn": "【旅】伦敦眼"
+}
+]
+},
+{
+"word": "Tower Bridge",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "n.",
+"cn": "【旅】塔桥；【旅】伦敦塔桥"
+}
+]
+},
+{
+"word": "What do you think",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "你觉得怎么样；你觉得呢；你认为怎样"
+}
+]
+},
+{
+"word": "month",
+"phonetic0": "mʌnθ",
+"phonetic1": "mʌnθ",
+"trans": [
+{
+"pos": "n.",
+"cn": "月，一个月的时间"
+}
+]
+},
+{
+"word": "summer holiday",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "n.",
+"cn": "暑假"
+}
+]
+},
+{
+"word": "go back to",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "v.",
+"cn": "追溯到"
+}
+]
+},
+{
+"word": "how long",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "conj.",
+"cn": "多长时间"
+}
+]
+},
+{
+"word": "sound",
+"phonetic0": "saʊnd",
+"phonetic1": "saʊnd",
+"trans": [
+{
+"pos": "n.",
+"cn": "声音，语音；噪音；海峡"
+},
+{
+"pos": "adj.",
+"cn": "健全的，健康的；合理的；可靠的"
+},
+{
+"pos": "vt.",
+"cn": "听（诊）；测量，测…深；使发声"
+}
+]
+},
+{
+"word": "Disneyland",
+"phonetic0": "ˈdɪznilænd",
+"phonetic1": "ˈdɪznilænd",
+"trans": [
+{
+"pos": "n.",
+"cn": "迪斯尼乐园；幻想世界"
+}
+]
+},
+{
+"word": "Ocean Park",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "海洋公园；香港海洋公园；南区海洋公园"
+}
+]
+},
+{
+"word": "Taipei",
+"phonetic0": "ˈtaɪˌpeɪ",
+"phonetic1": "ˈtaɪˈbei",
+"trans": [
+{
+"pos": "n.",
+"cn": "台北"
+}
+]
+},
+{
+"word": "photo",
+"phonetic0": "ˈfəʊtəʊ",
+"phonetic1": "ˈfoʊtoʊ",
+"trans": [
+{
+"pos": "n.",
+"cn": "照片"
+}
+]
+},
+{
+"word": "travel",
+"phonetic0": "ˈtræv(ə)l",
+"phonetic1": "ˈtrævl",
+"trans": [
+{
+"pos": "n.",
+"cn": "旅行；游历；漫游"
+},
+{
+"pos": "vt.",
+"cn": "经过；在…旅行"
+},
+{
+"pos": "vi.",
+"cn": "旅行；行进；步行"
+}
+]
+},
+{
+"word": "traveller",
+"phonetic0": "ˈtrævələ(r)",
+"phonetic1": "ˈtrævələr",
+"trans": [
+{
+"pos": "n.",
+"cn": "旅行者"
+}
+]
+},
+{
+"word": "travel around the world",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "na.",
+"cn": "作环球旅行"
+}
+]
+},
+{
+"word": "different",
+"phonetic0": "ˈdɪfrənt",
+"phonetic1": "ˈdɪfrənt",
+"trans": [
+{
+"pos": "adj.",
+"cn": "不同的；个别的，与众不同的"
+}
+]
+},
+{
+"word": "dream",
+"phonetic0": "driːm",
+"phonetic1": "driːm",
+"trans": [
+{
+"pos": "n.",
+"cn": "梦想，愿望；梦"
+},
+{
+"pos": "adj.",
+"cn": "梦的；理想的；不切实际的"
+},
+{
+"pos": "vt.",
+"cn": "梦想；做梦；想到"
+}
+]
+},
+{
+"word": "future",
+"phonetic0": "ˈfjuːtʃə(r)",
+"phonetic1": "ˈfjuːtʃər",
+"trans": [
+{
+"pos": "n.",
+"cn": "未来；前途；期货"
+},
+{
+"pos": "adj.",
+"cn": "将来的，未来的"
+}
+]
+},
+{
+"word": "care about",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "v.",
+"cn": "在意"
+}
+]
+},
+{
+"word": "tooth",
+"phonetic0": "tuːθ",
+"phonetic1": "tuːθ",
+"trans": [
+{
+"pos": "n.",
+"cn": "牙齿"
+},
+{
+"pos": "vt.",
+"cn": "给……装齿"
+},
+{
+"pos": "vi.",
+"cn": "啮合"
+}
+]
+},
+{
+"word": "astronaut",
+"phonetic0": "ˈæstrənɔːt",
+"phonetic1": "ˈæstrənɔːt",
+"trans": [
+{
+"pos": "n.",
+"cn": "宇航员，航天员；太空旅行者"
+}
+]
+},
+{
+"word": "spaceship",
+"phonetic0": "ˈspeɪsʃɪp",
+"phonetic1": "ˈspeɪsʃɪp",
+"trans": [
+{
+"pos": "n.",
+"cn": "[航] 宇宙飞船"
+}
+]
+},
+{
+"word": "football player",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "足球运动员；球员；足球队员"
+}
+]
+},
+{
+"word": "World Cup",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "n.",
+"cn": "【体】世界杯"
+}
+]
+},
+{
+"word": "dancer",
+"phonetic0": "ˈdɑːnsə(r)",
+"phonetic1": "ˈdænsər",
+"trans": [
+{
+"pos": "n.",
+"cn": "舞蹈家；舞蹈演员；舞女"
+}
+]
+},
+{
+"word": "pianist",
+"phonetic0": "ˈpɪənɪst",
+"phonetic1": "ˈpiːənɪst",
+"trans": [
+{
+"pos": "n.",
+"cn": "钢琴家；钢琴演奏者"
+}
+]
+},
+{
+"word": "come true",
+"phonetic0": "kʌm truː",
+"phonetic1": "kʌm truː",
+"trans": [
+{
+"pos": "na.",
+"cn": "(预言等)成事实；实现；(作物)不变种地发芽生长"
+}
+]
+},
+{
+"word": "take care of",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "na.",
+"cn": "照看；处理；清除"
+}
+]
+},
+{
+"word": "scientist",
+"phonetic0": "ˈsaɪəntɪst",
+"phonetic1": "ˈsaɪəntɪst",
+"trans": [
+{
+"pos": "n.",
+"cn": "科学家"
+}
+]
+},
+{
+"word": "brave",
+"phonetic0": "breɪv",
+"phonetic1": "breɪv",
+"trans": [
+{
+"pos": "n.",
+"cn": "勇士"
+},
+{
+"pos": "adj.",
+"cn": "勇敢的；华丽的"
+},
+{
+"pos": "vt.",
+"cn": "勇敢地面对"
+}
+]
+},
+{
+"word": "artist",
+"phonetic0": "ˈɑːtɪst",
+"phonetic1": "ˈɑːrtɪst",
+"trans": [
+{
+"pos": "n.",
+"cn": "艺术家；美术家（尤指画家）；大师"
+}
+]
+},
+{
+"word": "paint",
+"phonetic0": "peɪnt",
+"phonetic1": "peɪnt",
+"trans": [
+{
+"pos": "vt.",
+"cn": "油漆；绘画；装饰"
+},
+{
+"pos": "vi.",
+"cn": "油漆；描绘；绘画"
+},
+{
+"pos": "n.",
+"cn": "油漆；颜料，涂料；绘画作品"
+}
+]
+}
+]
+}

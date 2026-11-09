@@ -1,0 +1,1316 @@
+{
+"name": "牛津上海版·四年级下册词表",
+"enName": "njsh-4-2",
+"words": [
+{
+"word": "watermelon",
+"phonetic0": "ˈwɔːtəmelən",
+"phonetic1": "ˈwɔːtərmelən",
+"trans": [
+{
+"pos": "n.",
+"cn": "西瓜"
+}
+]
+},
+{
+"word": "grape",
+"phonetic0": "ɡreɪp",
+"phonetic1": "ɡreɪp",
+"trans": [
+{
+"pos": "n.",
+"cn": "葡萄；葡萄酒；葡萄树"
+}
+]
+},
+{
+"word": "plum",
+"phonetic0": "plʌm",
+"phonetic1": "plʌm",
+"trans": [
+{
+"pos": "n.",
+"cn": "李子；梅子；洋李"
+},
+{
+"pos": "adj.",
+"cn": "人所希望的；有利的；上等的"
+}
+]
+},
+{
+"word": "cherry",
+"phonetic0": "ˈtʃeri",
+"phonetic1": "ˈtʃeri",
+"trans": [
+{
+"pos": "n.",
+"cn": "樱桃；樱桃树；如樱桃的鲜红色"
+}
+]
+},
+{
+"word": "strawberry",
+"phonetic0": "ˈstrɔːbəri",
+"phonetic1": "ˈstrɔːberi",
+"trans": [
+{
+"pos": "n.",
+"cn": "草莓；草莓色"
+}
+]
+},
+{
+"word": "a glass of",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "det.",
+"cn": "一杯"
+}
+]
+},
+{
+"word": "juice",
+"phonetic0": "dʒuːs",
+"phonetic1": "dʒuːs",
+"trans": [
+{
+"pos": "n.",
+"cn": "（水果）汁，液；果汁"
+}
+]
+},
+{
+"word": "hard",
+"phonetic0": "hɑːd",
+"phonetic1": "hɑːrd",
+"trans": [
+{
+"pos": "adj.",
+"cn": "努力的；硬的；困难的"
+},
+{
+"pos": "adv.",
+"cn": "努力地；困难地；辛苦地"
+}
+]
+},
+{
+"word": "soft",
+"phonetic0": "sɒft",
+"phonetic1": "sɔːft",
+"trans": [
+{
+"pos": "n.",
+"cn": "柔性；柔软的东西；柔软部分"
+},
+{
+"pos": "adj.",
+"cn": "软的，柔软的；温柔的，温和的；软弱的"
+},
+{
+"pos": "adv.",
+"cn": "柔软地；温和地"
+}
+]
+},
+{
+"word": "rough",
+"phonetic0": "rʌf",
+"phonetic1": "rʌf",
+"trans": [
+{
+"pos": "n.",
+"cn": "艰苦；高低不平的地面；未经加工的材料"
+},
+{
+"pos": "adj.",
+"cn": "粗糙的；粗略的；粗野的"
+},
+{
+"pos": "vt.",
+"cn": "使粗糙；粗暴对待；草拟"
+}
+]
+},
+{
+"word": "smooth",
+"phonetic0": "smuːð",
+"phonetic1": "smuːð",
+"trans": [
+{
+"pos": "n.",
+"cn": "平滑部分；一块平地"
+},
+{
+"pos": "adj.",
+"cn": "顺利的；光滑的；平稳的"
+},
+{
+"pos": "vt.",
+"cn": "使光滑；消除（障碍等）；使优雅"
+}
+]
+},
+{
+"word": "sharp",
+"phonetic0": "ʃɑːp",
+"phonetic1": "ʃɑːrp",
+"trans": [
+{
+"pos": "n.",
+"cn": "尖头；骗子；内行"
+},
+{
+"pos": "adj.",
+"cn": "急剧的；锋利的；强烈的"
+},
+{
+"pos": "vt.",
+"cn": "磨快；把音调升高"
+}
+]
+},
+{
+"word": "blunt",
+"phonetic0": "blʌnt",
+"phonetic1": "blʌnt",
+"trans": [
+{
+"pos": "adj.",
+"cn": "钝的，不锋利的；生硬的；直率的"
+},
+{
+"pos": "vt.",
+"cn": "使迟钝"
+}
+]
+},
+{
+"word": "thick",
+"phonetic0": "θɪk",
+"phonetic1": "θɪk",
+"trans": [
+{
+"pos": "n.",
+"cn": "最拥挤部分；活动最多部分；事物的粗大浓密部分"
+},
+{
+"pos": "adj.",
+"cn": "厚的；浓的；粗大的"
+},
+{
+"pos": "adv.",
+"cn": "密集地；浓浓地，厚厚地"
+}
+]
+},
+{
+"word": "thin",
+"phonetic0": "θɪn",
+"phonetic1": "θɪn",
+"trans": [
+{
+"pos": "n.",
+"cn": "细小部分"
+},
+{
+"pos": "adj.",
+"cn": "薄的；瘦的；稀薄的"
+},
+{
+"pos": "vt.",
+"cn": "使瘦；使淡；使稀疏"
+}
+]
+},
+{
+"word": "knife",
+"phonetic0": "naɪf",
+"phonetic1": "naɪf",
+"trans": [
+{
+"pos": "n.",
+"cn": "刀；匕首"
+},
+{
+"pos": "vt.",
+"cn": "用刀切；（口）伤害"
+},
+{
+"pos": "vi.",
+"cn": "劈开；划过"
+}
+]
+},
+{
+"word": "pencil",
+"phonetic0": "ˈpens(ə)l",
+"phonetic1": "ˈpensl",
+"trans": [
+{
+"pos": "n.",
+"cn": "铅笔；笔状物"
+},
+{
+"pos": "vt.",
+"cn": "用铅笔写；用眉笔涂"
+},
+{
+"pos": "vi.",
+"cn": "成铅笔状"
+}
+]
+},
+{
+"word": "pencil case",
+"phonetic0": "ˈpensl keɪs",
+"phonetic1": "ˈpensl keɪs",
+"trans": [
+{
+"pos": "n.",
+"cn": "铅笔盒；铅笔袋"
+}
+]
+},
+{
+"word": "hill",
+"phonetic0": "hɪl",
+"phonetic1": "hɪl",
+"trans": [
+{
+"pos": "n.",
+"cn": "小山；丘陵；斜坡"
+}
+]
+},
+{
+"word": "lawn",
+"phonetic0": "lɔːn",
+"phonetic1": "lɔːn",
+"trans": [
+{
+"pos": "n.",
+"cn": "草地；草坪"
+}
+]
+},
+{
+"word": "path",
+"phonetic0": "pɑːθ",
+"phonetic1": "pæθ",
+"trans": [
+{
+"pos": "n.",
+"cn": "道路；小路；轨道"
+}
+]
+},
+{
+"word": "bench",
+"phonetic0": "bentʃ",
+"phonetic1": "bentʃ",
+"trans": [
+{
+"pos": "n.",
+"cn": "长凳；工作台；替补队员"
+},
+{
+"pos": "vt.",
+"cn": "给…以席位；为…设置条凳"
+}
+]
+},
+{
+"word": "shadow",
+"phonetic0": "ˈʃædəʊ",
+"phonetic1": "ˈʃædoʊ",
+"trans": [
+{
+"pos": "n.",
+"cn": "阴影；影子；幽灵"
+},
+{
+"pos": "adj.",
+"cn": "影子内阁的"
+},
+{
+"pos": "vt.",
+"cn": "遮蔽；使朦胧；尾随"
+}
+]
+},
+{
+"word": "sun",
+"phonetic0": "sʌn",
+"phonetic1": "sʌn",
+"trans": [
+{
+"pos": "n.",
+"cn": "太阳"
+},
+{
+"pos": "vt.",
+"cn": "使晒"
+},
+{
+"pos": "vi.",
+"cn": "晒太阳"
+}
+]
+},
+{
+"word": "the sun",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "阳；东曦；太阳"
+}
+]
+},
+{
+"word": "rise",
+"phonetic0": "raɪz",
+"phonetic1": "raɪz",
+"trans": [
+{
+"pos": "n.",
+"cn": "上升；高地；增加"
+},
+{
+"pos": "vt.",
+"cn": "使…飞起；使…浮上水面"
+},
+{
+"pos": "vi.",
+"cn": "上升；增强；起立"
+}
+]
+},
+{
+"word": "high",
+"phonetic0": "haɪ",
+"phonetic1": "haɪ",
+"trans": [
+{
+"pos": "n.",
+"cn": "高水平；天空；由麻醉品引起的快感"
+},
+{
+"pos": "adj.",
+"cn": "高的；高级的；崇高的"
+},
+{
+"pos": "adv.",
+"cn": "高；奢侈地"
+}
+]
+},
+{
+"word": "at noon",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "na.",
+"cn": "在中午"
+}
+]
+},
+{
+"word": "go down",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "na.",
+"cn": "下去；(飞机)坠落；继续到  (风,浪等)平静下来"
+}
+]
+},
+{
+"word": "play football",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "na.",
+"cn": "踢足球；对难办的事采取踢皮球的态度"
+}
+]
+},
+{
+"word": "play table tennis",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "打乒乓球；打桌球；玩乒乓球"
+}
+]
+},
+{
+"word": "play volleyball",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "打排球；玩排球；排球比赛"
+}
+]
+},
+{
+"word": "play badminton",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "打羽毛球；打羽球；玩羽毛球"
+}
+]
+},
+{
+"word": "play basketball",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "打篮球；玩篮球；篮球锻炼知多少"
+}
+]
+},
+{
+"word": "sport",
+"phonetic0": "spɔːt",
+"phonetic1": "spɔːrt",
+"trans": [
+{
+"pos": "n.",
+"cn": "运动；游戏；娱乐"
+},
+{
+"pos": "adj.",
+"cn": "运动的"
+},
+{
+"pos": "vt.",
+"cn": "游戏；参加体育运动；夸耀"
+}
+]
+},
+{
+"word": "poster",
+"phonetic0": "ˈpəʊstə(r)",
+"phonetic1": "ˈpoʊstər",
+"trans": [
+{
+"pos": "n.",
+"cn": "海报，广告；招贴"
+}
+]
+},
+{
+"word": "join",
+"phonetic0": "dʒɔɪn",
+"phonetic1": "dʒɔɪn",
+"trans": [
+{
+"pos": "vt.",
+"cn": "参加；结合；连接"
+},
+{
+"pos": "vi.",
+"cn": "加入；参加；结合"
+},
+{
+"pos": "n.",
+"cn": "结合；连接；接合点"
+}
+]
+},
+{
+"word": "club",
+"phonetic0": "klʌb",
+"phonetic1": "klʌb",
+"trans": [
+{
+"pos": "n.",
+"cn": "俱乐部，社团；夜总会；棍棒"
+},
+{
+"pos": "adj.",
+"cn": "俱乐部的"
+},
+{
+"pos": "vt.",
+"cn": "用棍棒打；募集"
+}
+]
+},
+{
+"word": "bone",
+"phonetic0": "bəʊn",
+"phonetic1": "boʊn",
+"trans": [
+{
+"pos": "n.",
+"cn": "骨；骨骼"
+},
+{
+"pos": "vt.",
+"cn": "剔去...的骨；施骨肥于"
+},
+{
+"pos": "vi.",
+"cn": "苦学；专心致志"
+}
+]
+},
+{
+"word": "cat food",
+"phonetic0": "kæt fuːd",
+"phonetic1": "kæt fuːd",
+"trans": [
+{
+"pos": "",
+"cn": "猫的食物"
+},
+{
+"pos": "",
+"cn": "猫粮"
+}
+]
+},
+{
+"word": "dog food",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "狗粮；狗食；分文不值"
+}
+]
+},
+{
+"word": "fish",
+"phonetic0": "fɪʃ",
+"phonetic1": "fɪʃ",
+"trans": [
+{
+"pos": "n.",
+"cn": "鱼，鱼类"
+},
+{
+"pos": "vt.",
+"cn": "钓鱼，捕鱼；搜寻"
+},
+{
+"pos": "vi.",
+"cn": "捕鱼，钓鱼；用钩捞取"
+}
+]
+},
+{
+"word": "parrot",
+"phonetic0": "ˈpærət",
+"phonetic1": "ˈpærət",
+"trans": [
+{
+"pos": "n.",
+"cn": "鹦鹉；学舌者，应声虫；机械模仿别人的人"
+},
+{
+"pos": "vt.",
+"cn": "机械地模仿"
+}
+]
+},
+{
+"word": "tortoise",
+"phonetic0": "ˈtɔːtəs",
+"phonetic1": "ˈtɔːrtəs",
+"trans": [
+{
+"pos": "n.",
+"cn": "龟，[脊椎] 乌龟（等于testudo）；迟缓的人"
+}
+]
+},
+{
+"word": "cute",
+"phonetic0": "kjuːt",
+"phonetic1": "kjuːt",
+"trans": [
+{
+"pos": "adj.",
+"cn": "可爱的；漂亮的；聪明的，伶俐的"
+}
+]
+},
+{
+"word": "bedroom",
+"phonetic0": "ˈbedruːm",
+"phonetic1": "ˈbedruːm",
+"trans": [
+{
+"pos": "n.",
+"cn": "卧室"
+},
+{
+"pos": "adj.",
+"cn": "两性关系的；城郊住宅区的"
+}
+]
+},
+{
+"word": "living room",
+"phonetic0": "'lɪvɪŋ ru:m",
+"phonetic1": "ˈlɪvɪŋ ruːm",
+"trans": [
+{
+"pos": "n.",
+"cn": "客厅；起居室"
+}
+]
+},
+{
+"word": "bathroom",
+"phonetic0": "ˈbɑːθruːm",
+"phonetic1": "ˈbæθruːm",
+"trans": [
+{
+"pos": "n.",
+"cn": "浴室；厕所；盥洗室"
+}
+]
+},
+{
+"word": "kitchen",
+"phonetic0": "ˈkɪtʃɪn",
+"phonetic1": "ˈkɪtʃɪn",
+"trans": [
+{
+"pos": "n.",
+"cn": "厨房；炊具；炊事人员"
+}
+]
+},
+{
+"word": "homework",
+"phonetic0": "ˈhəʊmwɜːk",
+"phonetic1": "ˈhoʊmwɜːrk",
+"trans": [
+{
+"pos": "n.",
+"cn": "家庭作业，课外作业"
+}
+]
+},
+{
+"word": "model plane",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "模型飞机；飞机模型；一架飞机模型"
+}
+]
+},
+{
+"word": "wash",
+"phonetic0": "wɒʃ",
+"phonetic1": "wɑːʃ",
+"trans": [
+{
+"pos": "n.",
+"cn": "洗涤；洗的衣服；化妆水"
+},
+{
+"pos": "vt.",
+"cn": "洗涤；洗刷；冲走"
+},
+{
+"pos": "vi.",
+"cn": "洗澡；被冲蚀"
+}
+]
+},
+{
+"word": "dinner",
+"phonetic0": "ˈdɪnə(r)",
+"phonetic1": "ˈdɪnər",
+"trans": [
+{
+"pos": "n.",
+"cn": "晚餐，晚宴；宴会；正餐"
+}
+]
+},
+{
+"word": "quiet",
+"phonetic0": "ˈkwaɪət",
+"phonetic1": "ˈkwaɪət",
+"trans": [
+{
+"pos": "n.",
+"cn": "安静；和平"
+},
+{
+"pos": "adj.",
+"cn": "安静的；安定的；不动的"
+},
+{
+"pos": "vt.",
+"cn": "使平息；安慰"
+}
+]
+},
+{
+"word": "loud",
+"phonetic0": "laʊd",
+"phonetic1": "laʊd",
+"trans": [
+{
+"pos": "adj.",
+"cn": "大声的，高声的；不断的；喧吵的"
+},
+{
+"pos": "adv.",
+"cn": "大声地，高声地，响亮地"
+}
+]
+},
+{
+"word": "bell",
+"phonetic0": "bel",
+"phonetic1": "bel",
+"trans": [
+{
+"pos": "n.",
+"cn": "铃，钟；钟声，铃声；钟状物"
+},
+{
+"pos": "vt.",
+"cn": "装钟于，系铃于"
+},
+{
+"pos": "vi.",
+"cn": "鸣钟；成钟状鼓起"
+}
+]
+},
+{
+"word": "television",
+"phonetic0": "ˈtelɪvɪʒ(ə)n",
+"phonetic1": "ˈtelɪvɪʒn",
+"trans": [
+{
+"pos": "n.",
+"cn": "电视，电视机；电视业"
+}
+]
+},
+{
+"word": "TV",
+"phonetic0": "ˌtiː ˈviː",
+"phonetic1": "ˌtiː ˈviː",
+"trans": [
+{
+"pos": "abbr.",
+"cn": "电视（television）"
+}
+]
+},
+{
+"word": "sound",
+"phonetic0": "saʊnd",
+"phonetic1": "saʊnd",
+"trans": [
+{
+"pos": "n.",
+"cn": "声音，语音；噪音；海峡"
+},
+{
+"pos": "adj.",
+"cn": "健全的，健康的；合理的；可靠的"
+},
+{
+"pos": "vt.",
+"cn": "听（诊）；测量，测…深；使发声"
+}
+]
+},
+{
+"word": "noisy",
+"phonetic0": "ˈnɔɪzi",
+"phonetic1": "ˈnɔɪzi",
+"trans": [
+{
+"pos": "adj.",
+"cn": ".嘈杂的；喧闹的；聒噪的"
+}
+]
+},
+{
+"word": "ring",
+"phonetic0": "rɪŋ",
+"phonetic1": "rɪŋ",
+"trans": [
+{
+"pos": "n.",
+"cn": "戒指；铃声，钟声；拳击场"
+},
+{
+"pos": "vi.",
+"cn": "按铃；敲钟；回响"
+},
+{
+"pos": "vt.",
+"cn": "按铃；包围；敲钟"
+}
+]
+},
+{
+"word": "watch TV",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "v.",
+"cn": "看电视"
+}
+]
+},
+{
+"word": "seven o'clock",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "七点钟；七点；七点整"
+}
+]
+},
+{
+"word": "a quarter past seven",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "无"
+}
+]
+},
+{
+"word": "half past seven",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "无"
+}
+]
+},
+{
+"word": "a quarter to eight",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "无"
+}
+]
+},
+{
+"word": "get up",
+"phonetic0": "ɡet ʌp",
+"phonetic1": "ɡet ʌp",
+"trans": [
+{
+"pos": "na.",
+"cn": "起床；起身；站起来"
+}
+]
+},
+{
+"word": "brush my teeth",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "刷牙；刷我的牙；我正在刷牙"
+}
+]
+},
+{
+"word": "wash my face",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "无"
+}
+]
+},
+{
+"word": "have breakfast",
+"phonetic0": "hæv 'brekfəst",
+"phonetic1": "hæv ˈbrekfəst",
+"trans": [
+{
+"pos": "",
+"cn": "吃早饭；吃早餐；吃早点"
+}
+]
+},
+{
+"word": "always",
+"phonetic0": "ˈɔːlweɪz",
+"phonetic1": "ˈɔːlweɪz",
+"trans": [
+{
+"pos": "adv.",
+"cn": "永远，一直；总是；常常"
+}
+]
+},
+{
+"word": "usually",
+"phonetic0": "ˈjuːʒuəli",
+"phonetic1": "ˈjuːʒuəli",
+"trans": [
+{
+"pos": "adv.",
+"cn": "通常，经常"
+}
+]
+},
+{
+"word": "often",
+"phonetic0": "ˈɒf(ə)n",
+"phonetic1": "ˈɔːf(ə)n",
+"trans": [
+{
+"pos": "adv.",
+"cn": "常常，时常"
+}
+]
+},
+{
+"word": "sometimes",
+"phonetic0": "ˈsʌmtaɪmz",
+"phonetic1": "ˈsʌmtaɪmz",
+"trans": [
+{
+"pos": "adv.",
+"cn": "有时，间或"
+}
+]
+},
+{
+"word": "never",
+"phonetic0": "ˈnevə(r)",
+"phonetic1": "ˈnevər",
+"trans": [
+{
+"pos": "adv.",
+"cn": "从未；决不"
+}
+]
+},
+{
+"word": "Monday",
+"phonetic0": "ˈmʌndeɪ",
+"phonetic1": "ˈmʌndeɪ",
+"trans": [
+{
+"pos": "n.",
+"cn": "星期一"
+}
+]
+},
+{
+"word": "Tuesday",
+"phonetic0": "ˈtjuːzdeɪ",
+"phonetic1": "ˈtuːzdeɪ",
+"trans": [
+{
+"pos": "n.",
+"cn": "星期二"
+}
+]
+},
+{
+"word": "Wednesday",
+"phonetic0": "ˈwenzdeɪ",
+"phonetic1": "ˈwenzdeɪ",
+"trans": [
+{
+"pos": "n.",
+"cn": "星期三"
+}
+]
+},
+{
+"word": "Thursday",
+"phonetic0": "ˈθɜːzdeɪ",
+"phonetic1": "ˈθɜːrzdeɪ",
+"trans": [
+{
+"pos": "n.",
+"cn": "星期四"
+}
+]
+},
+{
+"word": "Friday",
+"phonetic0": "ˈfraɪdeɪ",
+"phonetic1": "ˈfraɪdeɪ",
+"trans": [
+{
+"pos": "n.",
+"cn": "星期五"
+}
+]
+},
+{
+"word": "Saturday",
+"phonetic0": "ˈsætədeɪ",
+"phonetic1": "ˈsætərdeɪ",
+"trans": [
+{
+"pos": "n.",
+"cn": "星期六"
+}
+]
+},
+{
+"word": "Sunday",
+"phonetic0": "ˈsʌndeɪ",
+"phonetic1": "ˈsʌndeɪ",
+"trans": [
+{
+"pos": "n.",
+"cn": "星期日；礼拜日"
+}
+]
+},
+{
+"word": "Chinese chess",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "n.",
+"cn": "象棋"
+}
+]
+},
+{
+"word": "at weekends",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "在周末；每逢周末；生在周末"
+}
+]
+},
+{
+"word": "piano",
+"phonetic0": "piˈænəʊ",
+"phonetic1": "piˈænoʊ",
+"trans": [
+{
+"pos": "n.",
+"cn": "钢琴"
+}
+]
+},
+{
+"word": "violin",
+"phonetic0": "ˌvaɪəˈlɪn",
+"phonetic1": "ˌvaɪəˈlɪn",
+"trans": [
+{
+"pos": "n.",
+"cn": "小提琴；小提琴手"
+}
+]
+},
+{
+"word": "triangle",
+"phonetic0": "ˈtraɪæŋɡl",
+"phonetic1": "ˈtraɪæŋɡl",
+"trans": [
+{
+"pos": "n.",
+"cn": "三角（形）；三角关系；三角形之物"
+}
+]
+},
+{
+"word": "drum",
+"phonetic0": "drʌm",
+"phonetic1": "drʌm",
+"trans": [
+{
+"pos": "n.",
+"cn": "鼓；鼓声"
+},
+{
+"pos": "vi.",
+"cn": "击鼓；大力争取"
+},
+{
+"pos": "vt.",
+"cn": "击鼓；大力争取"
+}
+]
+},
+{
+"word": "music",
+"phonetic0": "ˈmjuːzɪk",
+"phonetic1": "ˈmjuːzɪk",
+"trans": [
+{
+"pos": "n.",
+"cn": "音乐，乐曲"
+}
+]
+},
+{
+"word": "the Spring Festival",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "un.",
+"cn": "春节"
+}
+]
+},
+{
+"word": "the Dragon Boat Festival",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "端午节（端午节为每年农历五月初五，本来是夏季的一个驱除瘟疫的节日，后来楚国诗人屈原于端午节投江自尽，就变成纪念屈原的节日。端午节的习俗有吃粽子、赛龙舟、挂菖蒲、蒿草、艾叶、薰苍术、白芷，喝雄黄酒等）；端节"
+}
+]
+},
+{
+"word": "the Mid-autumn Festival",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "中秋节"
+}
+]
+},
+{
+"word": "the Double Ninth Festival",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "无"
+}
+]
+},
+{
+"word": "festival",
+"phonetic0": "ˈfestɪv(ə)l",
+"phonetic1": "ˈfestɪvl",
+"trans": [
+{
+"pos": "n.",
+"cn": "节日；庆祝，纪念活动；欢乐"
+},
+{
+"pos": "adj.",
+"cn": "节日的，喜庆的；快乐的"
+}
+]
+},
+{
+"word": "rice dumpling",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "粽子；汤圆；肉粽"
+}
+]
+},
+{
+"word": "duckling",
+"phonetic0": "ˈdʌklɪŋ",
+"phonetic1": "ˈdʌklɪŋ",
+"trans": [
+{
+"pos": "n.",
+"cn": "小鸭子"
+}
+]
+},
+{
+"word": "swan",
+"phonetic0": "swɒn",
+"phonetic1": "swɑːn",
+"trans": [
+{
+"pos": "n.",
+"cn": "天鹅；天鹅星座"
+},
+{
+"pos": "vi.",
+"cn": "游荡，闲荡"
+}
+]
+},
+{
+"word": "nest",
+"phonetic0": "nest",
+"phonetic1": "nest",
+"trans": [
+{
+"pos": "n.",
+"cn": "巢，窝；安乐窝；温床"
+},
+{
+"pos": "vt.",
+"cn": "筑巢；嵌套"
+},
+{
+"pos": "vi.",
+"cn": "筑巢；找鸟巢"
+}
+]
+}
+]
+}

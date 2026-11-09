@@ -1,0 +1,2448 @@
+{
+"name": "外研版三起·五年级上册词表",
+"enName": "wy3q-5-1",
+"words": [
+{
+"word": "met",
+"phonetic0": "met",
+"phonetic1": "met",
+"trans": [
+{
+"pos": "v.",
+"cn": "遇见（meet的过去式和过去分词）"
+}
+]
+},
+{
+"word": "meet",
+"phonetic0": "miːt",
+"phonetic1": "miːt",
+"trans": [
+{
+"pos": "vt.",
+"cn": "满足；遇见；对付"
+},
+{
+"pos": "vi.",
+"cn": "相遇；接触"
+},
+{
+"pos": "n.",
+"cn": "集会"
+}
+]
+},
+{
+"word": "above",
+"phonetic0": "əˈbʌv",
+"phonetic1": "əˈbʌv",
+"trans": [
+{
+"pos": "prep.",
+"cn": "超过；在……上面；在……之上"
+},
+{
+"pos": "n.",
+"cn": "上文"
+},
+{
+"pos": "adj.",
+"cn": "上文的"
+}
+]
+},
+{
+"word": "ground",
+"phonetic0": "ɡraʊnd",
+"phonetic1": "ɡraʊnd",
+"trans": [
+{
+"pos": "n.",
+"cn": "地面；土地；范围"
+},
+{
+"pos": "v.",
+"cn": "研磨（grind的过去分词）；压迫"
+},
+{
+"pos": "adj.",
+"cn": "土地的；地面上的；磨碎的"
+}
+]
+},
+{
+"word": "those",
+"phonetic0": "ðəʊz",
+"phonetic1": "ðoʊz",
+"trans": [
+{
+"pos": "adj.",
+"cn": "那些的"
+},
+{
+"pos": "pron.",
+"cn": "那些（that的复数）"
+}
+]
+},
+{
+"word": "ice cream",
+"phonetic0": "ˈaɪs kriːm",
+"phonetic1": "ˈaɪs kriːm",
+"trans": [
+{
+"pos": "n.",
+"cn": "【食】冰淇淋"
+}
+]
+},
+{
+"word": "us",
+"phonetic0": "əs",
+"phonetic1": "əs",
+"trans": [
+{
+"pos": "pron.",
+"cn": "我们"
+}
+]
+},
+{
+"word": "finish",
+"phonetic0": "ˈfɪnɪʃ",
+"phonetic1": "ˈfɪnɪʃ",
+"trans": [
+{
+"pos": "n.",
+"cn": "结束；完美；回味（葡萄酒）"
+},
+{
+"pos": "vt.",
+"cn": "完成；结束；用完"
+},
+{
+"pos": "vi.",
+"cn": "结束，终止；终结"
+}
+]
+},
+{
+"word": "wait",
+"phonetic0": "weɪt",
+"phonetic1": "weɪt",
+"trans": [
+{
+"pos": "n.",
+"cn": "等待；等候"
+},
+{
+"pos": "vi.",
+"cn": "等待；耽搁；伺候用餐"
+},
+{
+"pos": "vt.",
+"cn": "等候；推迟；延缓"
+}
+]
+},
+{
+"word": "hurry",
+"phonetic0": "ˈhʌri",
+"phonetic1": "ˈhɜːri",
+"trans": [
+{
+"pos": "n.",
+"cn": "匆忙，急忙"
+},
+{
+"pos": "v.",
+"cn": "仓促（做某事）；催促；（朝某方向）迅速移动"
+}
+]
+},
+{
+"word": "hurry up",
+"phonetic0": "'hʌrɪ ʌp",
+"phonetic1": "'hɜːrɪ ʌp",
+"trans": [
+{
+"pos": "na.",
+"cn": "催促；赶快"
+}
+]
+},
+{
+"word": "dropped",
+"phonetic0": "drɒpt",
+"phonetic1": "drɑːpt",
+"trans": [
+{
+"pos": "v.",
+"cn": "下降，减少；掉下，滴下（drop的过去式和过去分词形式）"
+},
+{
+"pos": "adj.",
+"cn": "抛踢球得分的"
+}
+]
+},
+{
+"word": "drop",
+"phonetic0": "drɒp",
+"phonetic1": "drɑːp",
+"trans": [
+{
+"pos": "n.",
+"cn": "滴；落下；空投"
+},
+{
+"pos": "vt.",
+"cn": "滴；使降低；使终止"
+},
+{
+"pos": "vi.",
+"cn": "下降；终止"
+}
+]
+},
+{
+"word": "send",
+"phonetic0": "send",
+"phonetic1": "send",
+"trans": [
+{
+"pos": "n.",
+"cn": "上升运动"
+},
+{
+"pos": "vi.",
+"cn": "派人；寄信"
+},
+{
+"pos": "vt.",
+"cn": "发送，寄；派遣；使进入"
+}
+]
+},
+{
+"word": "email",
+"phonetic0": "ˈiːmeɪl",
+"phonetic1": "ˈiːmeɪl",
+"trans": [
+{
+"pos": "n.",
+"cn": "电子信函"
+},
+{
+"pos": "vt.",
+"cn": "给…发电子邮件"
+}
+]
+},
+{
+"word": "ran",
+"phonetic0": "ræn",
+"phonetic1": "ræn",
+"trans": [
+{
+"pos": "v.",
+"cn": "跑（run的过去式）"
+}
+]
+},
+{
+"word": "run",
+"phonetic0": "rʌn",
+"phonetic1": "rʌn",
+"trans": [
+{
+"pos": "n.",
+"cn": "奔跑；赛跑；趋向"
+},
+{
+"pos": "vt.",
+"cn": "管理，经营；运行；参赛"
+},
+{
+"pos": "vi.",
+"cn": "经营；奔跑；运转"
+}
+]
+},
+{
+"word": "love",
+"phonetic0": "lʌv",
+"phonetic1": "lʌv",
+"trans": [
+{
+"pos": "n.",
+"cn": "恋爱；亲爱的；酷爱"
+},
+{
+"pos": "v.",
+"cn": "爱，热爱；爱戴；赞美，称赞"
+}
+]
+},
+{
+"word": "list",
+"phonetic0": "lɪst",
+"phonetic1": "lɪst",
+"trans": [
+{
+"pos": "n.",
+"cn": "[计] 列表；清单；目录"
+},
+{
+"pos": "vi.",
+"cn": "列于表上"
+},
+{
+"pos": "vt.",
+"cn": "列出；记入名单内"
+}
+]
+},
+{
+"word": "er",
+"phonetic0": "ɜː(r)",
+"phonetic1": "ɜːr",
+"trans": [
+{
+"pos": "abbr.",
+"cn": "急诊室（emergency room）；大地回路（Earth Return）；回波测距（Echo Ranging）"
+}
+]
+},
+{
+"word": "need",
+"phonetic0": "niːd",
+"phonetic1": "niːd",
+"trans": [
+{
+"pos": "n.",
+"cn": "需要，要求；缺乏；必要之物"
+},
+{
+"pos": "vt.",
+"cn": "需要"
+},
+{
+"pos": "vi.",
+"cn": "需要"
+}
+]
+},
+{
+"word": "first",
+"phonetic0": "fɜːst",
+"phonetic1": "fɜːrst",
+"trans": [
+{
+"pos": "num.",
+"cn": "第一"
+},
+{
+"pos": "n.",
+"cn": "第一；开始；冠军"
+},
+{
+"pos": "adj.",
+"cn": "第一的；基本的；最早的"
+}
+]
+},
+{
+"word": "can",
+"phonetic0": "kən",
+"phonetic1": "kən",
+"trans": [
+{
+"pos": "aux.",
+"cn": "能；能够；可以"
+},
+{
+"pos": "n.",
+"cn": "罐头；（用金属或塑料制作的）容器；（马口铁或其他金属制作的）食品罐头"
+},
+{
+"pos": "vt.",
+"cn": "将…装入密封罐中保存"
+}
+]
+},
+{
+"word": "lost",
+"phonetic0": "lɒst",
+"phonetic1": "lɔːst",
+"trans": [
+{
+"pos": "adj.",
+"cn": "失去的；丧失的；迷惑的"
+},
+{
+"pos": "v.",
+"cn": "遗失（lose的过去分词）；失败"
+}
+]
+},
+{
+"word": "lose",
+"phonetic0": "luːz",
+"phonetic1": "luːz",
+"trans": [
+{
+"pos": "vt.",
+"cn": "浪费；使沉溺于；使迷路"
+},
+{
+"pos": "vi.",
+"cn": "失败；受损失"
+}
+]
+},
+{
+"word": "how much",
+"phonetic0": "haʊ mʌtʃ",
+"phonetic1": "haʊ mʌtʃ",
+"trans": [
+{
+"pos": "conj.",
+"cn": "多少"
+}
+]
+},
+{
+"word": "cheese",
+"phonetic0": "tʃiːz",
+"phonetic1": "tʃiːz",
+"trans": [
+{
+"pos": "n.",
+"cn": "[食品] 奶酪；干酪；要人"
+},
+{
+"pos": "adj.",
+"cn": "叛变的；胆小的"
+},
+{
+"pos": "vt.",
+"cn": "停止"
+}
+]
+},
+{
+"word": "any",
+"phonetic0": "ˈeni",
+"phonetic1": "ˈeni",
+"trans": [
+{
+"pos": "adj.",
+"cn": "任何的；所有的；丝毫"
+},
+{
+"pos": "pron.",
+"cn": "任何；任何一个；若干"
+},
+{
+"pos": "adv.",
+"cn": "稍微；少许"
+}
+]
+},
+{
+"word": "use",
+"phonetic0": "juːz",
+"phonetic1": "juːz",
+"trans": [
+{
+"pos": "n.",
+"cn": "使用；用途；发挥"
+},
+{
+"pos": "vt.",
+"cn": "利用；耗费"
+},
+{
+"pos": "vi.",
+"cn": "使用，运用"
+}
+]
+},
+{
+"word": "over there",
+"phonetic0": "'əʊvə(r) ðeə(r)",
+"phonetic1": "ˈəʊvər ðer",
+"trans": [
+{
+"pos": "na.",
+"cn": "在那边；〔美国〕在欧洲；〔大战用语〕在战地"
+}
+]
+},
+{
+"word": "bottle",
+"phonetic0": "ˈbɒt(ə)l",
+"phonetic1": "ˈbɑːtl",
+"trans": [
+{
+"pos": "n.",
+"cn": "瓶子；一瓶的容量"
+},
+{
+"pos": "vt.",
+"cn": "控制；把…装入瓶中"
+},
+{
+"pos": "vi.",
+"cn": "（街头艺人演出后）收拢钱币"
+}
+]
+},
+{
+"word": "half",
+"phonetic0": "hɑːf",
+"phonetic1": "hæf",
+"trans": [
+{
+"pos": "n.",
+"cn": "一半；半场；半学年"
+},
+{
+"pos": "adj.",
+"cn": "一半的；不完全的；半途的"
+},
+{
+"pos": "adv.",
+"cn": "一半地；部分地"
+}
+]
+},
+{
+"word": "kilo",
+"phonetic0": "ˈkiːləʊ",
+"phonetic1": "ˈkilo",
+"trans": [
+{
+"pos": "n.",
+"cn": "千克"
+}
+]
+},
+{
+"word": "a lot of",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "det.",
+"cn": "许多"
+}
+]
+},
+{
+"word": "weekend",
+"phonetic0": "ˌwiːkˈend",
+"phonetic1": "ˈwiːkend",
+"trans": [
+{
+"pos": "n.",
+"cn": "周末，周末休假；周末聚会"
+},
+{
+"pos": "adj.",
+"cn": "周末的，周末用的"
+},
+{
+"pos": "vi.",
+"cn": "度周末"
+}
+]
+},
+{
+"word": "place",
+"phonetic0": "pleɪs",
+"phonetic1": "pleɪs",
+"trans": [
+{
+"pos": "n.",
+"cn": "地方；住所；座位"
+},
+{
+"pos": "vt.",
+"cn": "放置；任命；寄予"
+},
+{
+"pos": "vi.",
+"cn": "名列前茅；取得名次"
+}
+]
+},
+{
+"word": "British",
+"phonetic0": "ˈbrɪtɪʃ",
+"phonetic1": "ˈbrɪtɪʃ",
+"trans": [
+{
+"pos": "n.",
+"cn": "英国人"
+},
+{
+"pos": "adj.",
+"cn": "英国的；英国人的；大不列颠的"
+}
+]
+},
+{
+"word": "museum",
+"phonetic0": "mjuˈziːəm",
+"phonetic1": "mjuˈziːəm",
+"trans": [
+{
+"pos": "n.",
+"cn": "博物馆"
+}
+]
+},
+{
+"word": "how",
+"phonetic0": "haʊ",
+"phonetic1": "haʊ",
+"trans": [
+{
+"pos": "adv.",
+"cn": "如何；多少；多么"
+},
+{
+"pos": "n.",
+"cn": "方法；方式"
+},
+{
+"pos": "conj.",
+"cn": "如何"
+}
+]
+},
+{
+"word": "best",
+"phonetic0": "best",
+"phonetic1": "best",
+"trans": [
+{
+"pos": "n.",
+"cn": "最好的人，最好的事物；最佳状态"
+},
+{
+"pos": "adj.",
+"cn": "最好的"
+},
+{
+"pos": "vt.",
+"cn": "打败，胜过"
+}
+]
+},
+{
+"word": "took",
+"phonetic0": "tʊk",
+"phonetic1": "tʊk",
+"trans": [
+{
+"pos": "v.",
+"cn": "拿；取；接受（take的过去式）"
+}
+]
+},
+{
+"word": "take",
+"phonetic0": "teɪk",
+"phonetic1": "teɪk",
+"trans": [
+{
+"pos": "vi.",
+"cn": "拿；获得"
+},
+{
+"pos": "vt.",
+"cn": "拿，取；采取；接受（礼物等）"
+},
+{
+"pos": "n.",
+"cn": "捕获量；看法；利益，盈益"
+}
+]
+},
+{
+"word": "trip",
+"phonetic0": "trɪp",
+"phonetic1": "trɪp",
+"trans": [
+{
+"pos": "n.",
+"cn": "旅行；绊倒；差错"
+},
+{
+"pos": "vt.",
+"cn": "绊倒；使犯错"
+},
+{
+"pos": "vi.",
+"cn": "绊倒；远足；犯错误"
+}
+]
+},
+{
+"word": "along",
+"phonetic0": "əˈlɒŋ",
+"phonetic1": "əˈlɔːŋ",
+"trans": [
+{
+"pos": "prep.",
+"cn": "沿着；顺着"
+},
+{
+"pos": "adv.",
+"cn": "一起；向前；来到"
+}
+]
+},
+{
+"word": "river",
+"phonetic0": "ˈrɪvə(r)",
+"phonetic1": "ˈrɪvər",
+"trans": [
+{
+"pos": "n.",
+"cn": "河，江"
+}
+]
+},
+{
+"word": "hour",
+"phonetic0": "ˈaʊə(r)",
+"phonetic1": "ˈaʊər",
+"trans": [
+{
+"pos": "n.",
+"cn": "小时；钟头；课时"
+}
+]
+},
+{
+"word": "twenty",
+"phonetic0": "ˈtwenti",
+"phonetic1": "ˈtwenti",
+"trans": [
+{
+"pos": "num.",
+"cn": "二十"
+},
+{
+"pos": "n.",
+"cn": "二十；二十年代"
+},
+{
+"pos": "adj.",
+"cn": "二十的"
+}
+]
+},
+{
+"word": "minute",
+"phonetic0": "ˈmɪnɪt",
+"phonetic1": "ˈmɪnɪt",
+"trans": [
+{
+"pos": "n.",
+"cn": "分，分钟；片刻，一会儿；备忘录，笔记"
+},
+{
+"pos": "vt.",
+"cn": "将…记录下来"
+},
+{
+"pos": "adj.",
+"cn": "微小的，详细的 [maɪˈnjuːt；US -ˈnuːt；maɪˋnut]"
+}
+]
+},
+{
+"word": "of",
+"phonetic0": "əv",
+"phonetic1": "əv",
+"trans": [
+{
+"pos": "prep.",
+"cn": "关于；属于；…的"
+}
+]
+},
+{
+"word": "wall",
+"phonetic0": "wɔːl",
+"phonetic1": "wɔːl",
+"trans": [
+{
+"pos": "n.",
+"cn": "墙壁，围墙；似墙之物"
+},
+{
+"pos": "adj.",
+"cn": "墙壁的"
+},
+{
+"pos": "vt.",
+"cn": "用墙围住，围以墙"
+}
+]
+},
+{
+"word": "arrive",
+"phonetic0": "əˈraɪv",
+"phonetic1": "əˈraɪv",
+"trans": [
+{
+"pos": "vi.",
+"cn": "到达；成功；达成"
+}
+]
+},
+{
+"word": "for",
+"phonetic0": "fə(r)",
+"phonetic1": "fər",
+"trans": [
+{
+"pos": "prep.",
+"cn": "为，为了；因为；给"
+},
+{
+"pos": "conj.",
+"cn": "因为"
+}
+]
+},
+{
+"word": "mountain",
+"phonetic0": "ˈmaʊntən",
+"phonetic1": "ˈmaʊntn",
+"trans": [
+{
+"pos": "n.",
+"cn": "山；山脉"
+}
+]
+},
+{
+"word": "with",
+"phonetic0": "wɪð",
+"phonetic1": "wɪð",
+"trans": [
+{
+"pos": "prep.",
+"cn": "用；随着；支持"
+}
+]
+},
+{
+"word": "plant",
+"phonetic0": "plɑːnt",
+"phonetic1": "plænt",
+"trans": [
+{
+"pos": "n.",
+"cn": "工厂，车间；植物；设备"
+},
+{
+"pos": "vt.",
+"cn": "种植；培养；栽培"
+},
+{
+"pos": "vi.",
+"cn": "种植"
+}
+]
+},
+{
+"word": "pair",
+"phonetic0": "peə(r)",
+"phonetic1": "per",
+"trans": [
+{
+"pos": "n.",
+"cn": "一对，一双，一副"
+},
+{
+"pos": "vt.",
+"cn": "把…组成一对"
+}
+]
+},
+{
+"word": "shorts",
+"phonetic0": "ʃɔːts",
+"phonetic1": "ʃɔːrts",
+"trans": [
+{
+"pos": "n.",
+"cn": "短裤"
+}
+]
+},
+{
+"word": "argue",
+"phonetic0": "ˈɑːɡjuː",
+"phonetic1": "ˈɑːrɡjuː",
+"trans": [
+{
+"pos": "vi.",
+"cn": "争论，辩论；提出理由"
+},
+{
+"pos": "vt.",
+"cn": "辩论，争论；证明；说服"
+}
+]
+},
+{
+"word": "matter",
+"phonetic0": "ˈmætə(r)",
+"phonetic1": "ˈmætər",
+"trans": [
+{
+"pos": "n.",
+"cn": "物质；事件"
+},
+{
+"pos": "vi.",
+"cn": "有关系；要紧"
+}
+]
+},
+{
+"word": "What's the matter",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "怎么回事?怎么啦?"
+}
+]
+},
+{
+"word": "wear",
+"phonetic0": "weə(r)",
+"phonetic1": "wer",
+"trans": [
+{
+"pos": "n.",
+"cn": "衣物；磨损；耐久性"
+},
+{
+"pos": "v.",
+"cn": "穿着；用旧；耗损"
+}
+]
+},
+{
+"word": "That's OK.",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "不用了；可以；没有关系"
+}
+]
+},
+{
+"word": "sports",
+"phonetic0": "spɔːts",
+"phonetic1": "spɔːrts",
+"trans": [
+{
+"pos": "n.",
+"cn": "运动；运动会（sport的复数）；（报纸）体育版面"
+},
+{
+"pos": "adj.",
+"cn": "运动的；适用于运动的"
+},
+{
+"pos": "v.",
+"cn": "娱乐；戏弄（sport的第三人称单数）"
+}
+]
+},
+{
+"word": "hey",
+"phonetic0": "heɪ",
+"phonetic1": "heɪ",
+"trans": [
+{
+"pos": "n.",
+"cn": "干草（等于hay）"
+},
+{
+"pos": "int.",
+"cn": "喂！（引起注意等）；你好！（表示问候）"
+}
+]
+},
+{
+"word": "nineteen",
+"phonetic0": "ˌnaɪnˈtiːn",
+"phonetic1": "ˌnaɪnˈtiːn",
+"trans": [
+{
+"pos": "num.",
+"cn": "十九"
+}
+]
+},
+{
+"word": "crayon",
+"phonetic0": "ˈkreɪən",
+"phonetic1": "ˈkreɪən",
+"trans": [
+{
+"pos": "n.",
+"cn": "蜡笔，有色粉笔"
+},
+{
+"pos": "vt.",
+"cn": "以蜡笔作画，用颜色粉笔画"
+}
+]
+},
+{
+"word": "fifteen",
+"phonetic0": "ˌfɪfˈtiːn",
+"phonetic1": "ˌfɪfˈtiːn",
+"trans": [
+{
+"pos": "n.",
+"cn": "十五；十五个；十五人组成的橄榄球队"
+},
+{
+"pos": "num.",
+"cn": "十五"
+},
+{
+"pos": "adj.",
+"cn": "十五的"
+}
+]
+},
+{
+"word": "begin",
+"phonetic0": "bɪˈɡɪn",
+"phonetic1": "bɪˈɡɪn",
+"trans": [
+{
+"pos": "vi.",
+"cn": "开始；首先"
+},
+{
+"pos": "vt.",
+"cn": "开始"
+}
+]
+},
+{
+"word": "give out",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "na.",
+"cn": "发表；放出；分发"
+}
+]
+},
+{
+"word": "all right",
+"phonetic0": "ˌɔːl ˈraɪt",
+"phonetic1": "ɔːl raɪt",
+"trans": [
+{
+"pos": "adj.",
+"cn": "可接受（的）；满意（的）；安全健康（的）"
+},
+{
+"pos": "int.",
+"cn": "是不是；（表示同意）好；没什么"
+}
+]
+},
+{
+"word": "thirteen",
+"phonetic0": "ˌθɜːˈtiːn",
+"phonetic1": "ˌθɜːrˈtiːn",
+"trans": [
+{
+"pos": "n.",
+"cn": "十三；十三岁；十三个"
+},
+{
+"pos": "num.",
+"cn": "十三"
+},
+{
+"pos": "adj.",
+"cn": "十三的；十三个的"
+}
+]
+},
+{
+"word": "fourteen",
+"phonetic0": "ˌfɔːˈtiːn",
+"phonetic1": "ˌfɔːrˈtiːn",
+"trans": [
+{
+"pos": "num.",
+"cn": "十四；十四个；第十四"
+},
+{
+"pos": "n.",
+"cn": "十四的记号；十四岁；十四点钟"
+}
+]
+},
+{
+"word": "sixteen",
+"phonetic0": "ˌsɪksˈtiːn",
+"phonetic1": "ˌsɪksˈtiːn",
+"trans": [
+{
+"pos": "num.",
+"cn": "十六"
+},
+{
+"pos": "adj.",
+"cn": "十六的，十六个的"
+}
+]
+},
+{
+"word": "seventeen",
+"phonetic0": "ˌsev(ə)nˈtiːn",
+"phonetic1": "ˌsevnˈtiːn",
+"trans": [
+{
+"pos": "n.",
+"cn": "十七，十七个"
+},
+{
+"pos": "num.",
+"cn": "十七"
+},
+{
+"pos": "adj.",
+"cn": "十七岁的；十七的，十七个的"
+}
+]
+},
+{
+"word": "eighteen",
+"phonetic0": "ˌeɪˈtiːn",
+"phonetic1": "ˌeɪˈtiːn",
+"trans": [
+{
+"pos": "n.",
+"cn": "十八，十八个"
+},
+{
+"pos": "num.",
+"cn": "十八"
+},
+{
+"pos": "adj.",
+"cn": "十八个的，十八的"
+}
+]
+},
+{
+"word": "floor",
+"phonetic0": "flɔː(r)",
+"phonetic1": "flɔːr",
+"trans": [
+{
+"pos": "n.",
+"cn": "地板，地面；楼层；基底"
+},
+{
+"pos": "vt.",
+"cn": "铺地板；打倒，击倒；（被困难）难倒"
+}
+]
+},
+{
+"word": "forty",
+"phonetic0": "ˈfɔːti",
+"phonetic1": "ˈfɔːrti",
+"trans": [
+{
+"pos": "n.",
+"cn": "四十"
+},
+{
+"pos": "adj.",
+"cn": "四十的；四十个的"
+}
+]
+},
+{
+"word": "number",
+"phonetic0": "ˈnʌmbə(r)",
+"phonetic1": "ˈnʌmbər",
+"trans": [
+{
+"pos": "n.",
+"cn": "数；（杂志等的）期；号码"
+},
+{
+"pos": "vi.",
+"cn": "计入；总数达到"
+},
+{
+"pos": "vt.",
+"cn": "编号；计入；数…的数目"
+}
+]
+},
+{
+"word": "thirty",
+"phonetic0": "ˈθɜːti",
+"phonetic1": "ˈθɜːrti",
+"trans": [
+{
+"pos": "num.",
+"cn": "三十"
+},
+{
+"pos": "n.",
+"cn": "三十年代"
+},
+{
+"pos": "adj.",
+"cn": "三十个的"
+}
+]
+},
+{
+"word": "fifty",
+"phonetic0": "ˈfɪfti",
+"phonetic1": "ˈfɪfti",
+"trans": [
+{
+"pos": "n.",
+"cn": "五十；五十个；编号为50的东西"
+},
+{
+"pos": "adj.",
+"cn": "五十的；五十个的；众多的"
+}
+]
+},
+{
+"word": "sixty",
+"phonetic0": "ˈsɪksti",
+"phonetic1": "ˈsɪksti",
+"trans": [
+{
+"pos": "num.",
+"cn": "六十；六十个"
+}
+]
+},
+{
+"word": "seventy",
+"phonetic0": "ˈsev(ə)nti",
+"phonetic1": "ˈsev(ə)nti",
+"trans": [
+{
+"pos": "n.",
+"cn": "七十；七十个；七十岁"
+},
+{
+"pos": "num.",
+"cn": "七十"
+},
+{
+"pos": "adj.",
+"cn": "七十的；七十个的；七十岁的"
+}
+]
+},
+{
+"word": "eighty",
+"phonetic0": "ˈeɪti",
+"phonetic1": "ˈeɪti",
+"trans": [
+{
+"pos": "num.",
+"cn": "八十"
+},
+{
+"pos": "n.",
+"cn": "八十；八十岁；八十年代"
+},
+{
+"pos": "adj.",
+"cn": "八十的，八十个的；八十岁的"
+}
+]
+},
+{
+"word": "ninety",
+"phonetic0": "ˈnaɪnti",
+"phonetic1": "ˈnaɪnti",
+"trans": [
+{
+"pos": "n.",
+"cn": "九十"
+},
+{
+"pos": "adj.",
+"cn": "九十的；九十岁的"
+},
+{
+"pos": "num.",
+"cn": "九十"
+}
+]
+},
+{
+"word": "happily",
+"phonetic0": "ˈhæpɪli",
+"phonetic1": "ˈhæpɪli",
+"trans": [
+{
+"pos": "adv.",
+"cn": "快乐地；幸福地；幸运地"
+}
+]
+},
+{
+"word": "many",
+"phonetic0": "ˈmeni",
+"phonetic1": "ˈmeni",
+"trans": [
+{
+"pos": "pron.",
+"cn": "许多；许多人"
+},
+{
+"pos": "adj.",
+"cn": "许多的"
+}
+]
+},
+{
+"word": "well",
+"phonetic0": "wel",
+"phonetic1": "wel",
+"trans": [
+{
+"pos": "n.",
+"cn": "井；源泉"
+},
+{
+"pos": "adj.",
+"cn": "良好的；健康的；适宜的"
+},
+{
+"pos": "adv.",
+"cn": "很好地；充分地；满意地"
+}
+]
+},
+{
+"word": "team",
+"phonetic0": "tiːm",
+"phonetic1": "tiːm",
+"trans": [
+{
+"pos": "n.",
+"cn": "队；组"
+},
+{
+"pos": "vt.",
+"cn": "使合作"
+},
+{
+"pos": "vi.",
+"cn": "合作"
+}
+]
+},
+{
+"word": "really",
+"phonetic0": "ˈriːəli",
+"phonetic1": "ˈriːəli",
+"trans": [
+{
+"pos": "adv.",
+"cn": "实际上，事实上；真正地，真实地；真的吗？（表语气）"
+}
+]
+},
+{
+"word": "good at",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "un.",
+"cn": "擅长；一清二楚；拿手的"
+}
+]
+},
+{
+"word": "catch",
+"phonetic0": "kætʃ",
+"phonetic1": "kætʃ",
+"trans": [
+{
+"pos": "n.",
+"cn": "捕捉；捕获物；窗钩"
+},
+{
+"pos": "vt.",
+"cn": "赶上；抓住；感染"
+},
+{
+"pos": "vi.",
+"cn": "赶上；抓住"
+}
+]
+},
+{
+"word": "goalkeeper",
+"phonetic0": "ˈɡəʊlkiːpə(r)",
+"phonetic1": "ˈɡoʊlkiːpər",
+"trans": [
+{
+"pos": "n.",
+"cn": "守门员"
+}
+]
+},
+{
+"word": "think",
+"phonetic0": "θɪŋk",
+"phonetic1": "θɪŋk",
+"trans": [
+{
+"pos": "n.",
+"cn": "想；想法"
+},
+{
+"pos": "adj.",
+"cn": "思想的"
+},
+{
+"pos": "vi.",
+"cn": "想；认为"
+}
+]
+},
+{
+"word": "fantastic",
+"phonetic0": "fænˈtæstɪk",
+"phonetic1": "fænˈtæstɪk",
+"trans": [
+{
+"pos": "n.",
+"cn": "古怪的人"
+},
+{
+"pos": "adj.",
+"cn": "奇异的；空想的；异想天开的"
+}
+]
+},
+{
+"word": "fan",
+"phonetic0": "fæn",
+"phonetic1": "fæn",
+"trans": [
+{
+"pos": "n.",
+"cn": "迷；风扇；爱好者"
+},
+{
+"pos": "vt.",
+"cn": "煽动；刺激；吹拂"
+},
+{
+"pos": "vi.",
+"cn": "成扇形散开；飘动"
+}
+]
+},
+{
+"word": "past",
+"phonetic0": "pɑːst",
+"phonetic1": "pæst",
+"trans": [
+{
+"pos": "n.",
+"cn": "过去；往事"
+},
+{
+"pos": "prep.",
+"cn": "越过；晚于"
+},
+{
+"pos": "adj.",
+"cn": "过去的；结束的"
+}
+]
+},
+{
+"word": "swam",
+"phonetic0": "swæm",
+"phonetic1": "swæm",
+"trans": [
+{
+"pos": "v.",
+"cn": "游泳（swim的过去式）"
+}
+]
+},
+{
+"word": "swim",
+"phonetic0": "swɪm",
+"phonetic1": "swɪm",
+"trans": [
+{
+"pos": "n.",
+"cn": "游泳；漂浮；眩晕"
+},
+{
+"pos": "adj.",
+"cn": "游泳时穿戴的"
+},
+{
+"pos": "vi.",
+"cn": "游泳；漂浮；浸"
+}
+]
+},
+{
+"word": "slow",
+"phonetic0": "sləʊ",
+"phonetic1": "sloʊ",
+"trans": [
+{
+"pos": "adj.",
+"cn": "慢的；减速的；迟钝的"
+},
+{
+"pos": "vt.",
+"cn": "放慢；阻碍"
+},
+{
+"pos": "vi.",
+"cn": "变慢；变萧条"
+}
+]
+},
+{
+"word": "healthy",
+"phonetic0": "ˈhelθi",
+"phonetic1": "ˈhelθi",
+"trans": [
+{
+"pos": "adj.",
+"cn": "健康的，健全的；有益于健康的"
+}
+]
+},
+{
+"word": "a lot",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "n.",
+"cn": "许多"
+},
+{
+"pos": "adv.",
+"cn": "常"
+}
+]
+},
+{
+"word": "useful",
+"phonetic0": "ˈjuːsf(ə)l",
+"phonetic1": "ˈjuːsfl",
+"trans": [
+{
+"pos": "adj.",
+"cn": "有用的，有益的；有帮助的"
+}
+]
+},
+{
+"word": "show",
+"phonetic0": "ʃəʊ",
+"phonetic1": "ʃoʊ",
+"trans": [
+{
+"pos": "n.",
+"cn": "显示；表演；炫耀"
+},
+{
+"pos": "vt.",
+"cn": "显示；说明；演出"
+},
+{
+"pos": "vi.",
+"cn": "显示；说明；指示"
+}
+]
+},
+{
+"word": "presenter",
+"phonetic0": "prɪˈzentə(r)",
+"phonetic1": "prɪˈzentər",
+"trans": [
+{
+"pos": "n.",
+"cn": "提出者；推荐者；赠送者"
+}
+]
+},
+{
+"word": "blind",
+"phonetic0": "blaɪnd",
+"phonetic1": "blaɪnd",
+"trans": [
+{
+"pos": "n.",
+"cn": "掩饰，借口；百叶窗"
+},
+{
+"pos": "adj.",
+"cn": "盲目的；瞎的"
+},
+{
+"pos": "vt.",
+"cn": "使失明；使失去理智"
+}
+]
+},
+{
+"word": "deaf",
+"phonetic0": "def",
+"phonetic1": "def",
+"trans": [
+{
+"pos": "adj.",
+"cn": "聋的"
+}
+]
+},
+{
+"word": "hear",
+"phonetic0": "hɪə(r)",
+"phonetic1": "hɪr",
+"trans": [
+{
+"pos": "vi.",
+"cn": "听；听见"
+},
+{
+"pos": "vt.",
+"cn": "听到，听；听说；审理"
+}
+]
+},
+{
+"word": "her",
+"phonetic0": "hə(r)",
+"phonetic1": "hər",
+"trans": [
+{
+"pos": "pron.",
+"cn": "她（she的宾格）；她的（she的所有格）；她（指某个国家"
+}
+]
+},
+{
+"word": "fire",
+"phonetic0": "ˈfaɪə(r)",
+"phonetic1": "ˈfaɪər",
+"trans": [
+{
+"pos": "n.",
+"cn": "火；火灾；炮火"
+},
+{
+"pos": "vt.",
+"cn": "点燃；解雇；开除"
+},
+{
+"pos": "vi.",
+"cn": "着火；射击；开枪"
+}
+]
+},
+{
+"word": "firefighter",
+"phonetic0": "ˈfaɪəfaɪtə(r)",
+"phonetic1": "ˈfaɪərfaɪtər",
+"trans": [
+{
+"pos": "n.",
+"cn": "消防队员"
+}
+]
+},
+{
+"word": "hot dog",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "n.",
+"cn": "热狗（香肠面包）；（滑雪、滑雪板运动或冲浪的）灵巧动作表演者"
+},
+{
+"pos": "adj.",
+"cn": "〈美俚〉极好的"
+}
+]
+},
+{
+"word": "sausage",
+"phonetic0": "ˈsɒsɪdʒ",
+"phonetic1": "ˈsɔːsɪdʒ",
+"trans": [
+{
+"pos": "n.",
+"cn": "香肠；腊肠；装香肠的碎肉"
+}
+]
+},
+{
+"word": "kind",
+"phonetic0": "kaɪnd",
+"phonetic1": "kaɪnd",
+"trans": [
+{
+"pos": "n.",
+"cn": "种类；性质"
+},
+{
+"pos": "adj.",
+"cn": "和蔼的；宽容的；令人感激的"
+}
+]
+},
+{
+"word": "time",
+"phonetic0": "taɪm",
+"phonetic1": "taɪm",
+"trans": [
+{
+"pos": "n.",
+"cn": "时间；时代；次数"
+},
+{
+"pos": "adj.",
+"cn": "定时的；定期的；分期的"
+},
+{
+"pos": "vt.",
+"cn": "计时；测定…的时间；安排…的速度"
+}
+]
+},
+{
+"word": "school",
+"phonetic0": "skuːl",
+"phonetic1": "skuːl",
+"trans": [
+{
+"pos": "n.",
+"cn": "学校；学院；学派"
+},
+{
+"pos": "vt.",
+"cn": "教育"
+}
+]
+},
+{
+"word": "start",
+"phonetic0": "stɑːt",
+"phonetic1": "stɑːrt",
+"trans": [
+{
+"pos": "n.",
+"cn": "开始；起点"
+},
+{
+"pos": "vt.",
+"cn": "开始；启动"
+},
+{
+"pos": "vi.",
+"cn": "出发"
+}
+]
+},
+{
+"word": "late",
+"phonetic0": "leɪt",
+"phonetic1": "leɪt",
+"trans": [
+{
+"pos": "adj.",
+"cn": "晚的；迟的；已故的"
+},
+{
+"pos": "adv.",
+"cn": "晚；迟；最近"
+}
+]
+},
+{
+"word": "go to bed",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "na.",
+"cn": "睡；同床；【印】付印"
+}
+]
+},
+{
+"word": "exercise",
+"phonetic0": "ˈeksəsaɪz",
+"phonetic1": "ˈeksərsaɪz",
+"trans": [
+{
+"pos": "n.",
+"cn": "运动；练习；运用"
+},
+{
+"pos": "vt.",
+"cn": "锻炼；练习；使用"
+},
+{
+"pos": "vi.",
+"cn": "运动；练习"
+}
+]
+},
+{
+"word": "playground",
+"phonetic0": "ˈpleɪɡraʊnd",
+"phonetic1": "ˈpleɪɡraʊnd",
+"trans": [
+{
+"pos": "n.",
+"cn": "运动场，操场；游乐场"
+}
+]
+},
+{
+"word": "before",
+"phonetic0": "bɪˈfɔː(r)",
+"phonetic1": "bɪˈfɔːr",
+"trans": [
+{
+"pos": "prep.",
+"cn": "在…之前，先于"
+},
+{
+"pos": "conj.",
+"cn": "在…以前；在…之前"
+},
+{
+"pos": "adv.",
+"cn": "以前；在前"
+}
+]
+},
+{
+"word": "join",
+"phonetic0": "dʒɔɪn",
+"phonetic1": "dʒɔɪn",
+"trans": [
+{
+"pos": "vt.",
+"cn": "参加；结合；连接"
+},
+{
+"pos": "vi.",
+"cn": "加入；参加；结合"
+},
+{
+"pos": "n.",
+"cn": "结合；连接；接合点"
+}
+]
+},
+{
+"word": "skipping rope",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "n.",
+"cn": "跳绳"
+}
+]
+},
+{
+"word": "coffee",
+"phonetic0": "ˈkɒfi",
+"phonetic1": "ˈkɔːfi",
+"trans": [
+{
+"pos": "n.",
+"cn": "咖啡；咖啡豆；咖啡色"
+}
+]
+},
+{
+"word": "tea",
+"phonetic0": "tiː",
+"phonetic1": "tiː",
+"trans": [
+{
+"pos": "n.",
+"cn": "茶叶；茶树；茶点"
+},
+{
+"pos": "vt.",
+"cn": "给…沏茶"
+},
+{
+"pos": "vi.",
+"cn": "喝茶；进茶点"
+}
+]
+},
+{
+"word": "always",
+"phonetic0": "ˈɔːlweɪz",
+"phonetic1": "ˈɔːlweɪz",
+"trans": [
+{
+"pos": "adv.",
+"cn": "永远，一直；总是；常常"
+}
+]
+},
+{
+"word": "bell",
+"phonetic0": "bel",
+"phonetic1": "bel",
+"trans": [
+{
+"pos": "n.",
+"cn": "铃，钟；钟声，铃声；钟状物"
+},
+{
+"pos": "vt.",
+"cn": "装钟于，系铃于"
+},
+{
+"pos": "vi.",
+"cn": "鸣钟；成钟状鼓起"
+}
+]
+},
+{
+"word": "rang",
+"phonetic0": "ræŋ",
+"phonetic1": "ræŋ",
+"trans": [
+{
+"pos": "v.",
+"cn": "包围；成环形（ring的过去式）"
+}
+]
+},
+{
+"word": "ring",
+"phonetic0": "rɪŋ",
+"phonetic1": "rɪŋ",
+"trans": [
+{
+"pos": "n.",
+"cn": "戒指；铃声，钟声；拳击场"
+},
+{
+"pos": "vi.",
+"cn": "按铃；敲钟；回响"
+},
+{
+"pos": "vt.",
+"cn": "按铃；包围；敲钟"
+}
+]
+},
+{
+"word": "into",
+"phonetic0": "ˈɪntə",
+"phonetic1": "ˈɪntə",
+"trans": [
+{
+"pos": "prep.",
+"cn": "到…里；深入…之中；成为…状况"
+}
+]
+},
+{
+"word": "feel",
+"phonetic0": "fiːl",
+"phonetic1": "fiːl",
+"trans": [
+{
+"pos": "n.",
+"cn": "感觉；触摸"
+},
+{
+"pos": "vi.",
+"cn": "觉得；摸索"
+},
+{
+"pos": "vt.",
+"cn": "感觉；认为；触摸"
+}
+]
+},
+{
+"word": "bored",
+"phonetic0": "bɔːd",
+"phonetic1": "bɔːrd",
+"trans": [
+{
+"pos": "v.",
+"cn": "使厌烦（bore的过去式）；烦扰"
+},
+{
+"pos": "adj.",
+"cn": "无聊的；无趣的；烦人的"
+}
+]
+},
+{
+"word": "sad",
+"phonetic0": "sæd",
+"phonetic1": "sæd",
+"trans": [
+{
+"pos": "adj.",
+"cn": "难过的；悲哀的，令人悲痛的；凄惨的，阴郁的（形容颜色）"
+}
+]
+},
+{
+"word": "woof",
+"phonetic0": "wʊf",
+"phonetic1": "wʊf",
+"trans": [
+{
+"pos": "n.",
+"cn": "纬线；织物；低吠声"
+},
+{
+"pos": "vi.",
+"cn": "发出低吠声；发低音"
+}
+]
+},
+{
+"word": "miss",
+"phonetic0": "mɪs",
+"phonetic1": "mɪs",
+"trans": [
+{
+"pos": "n.",
+"cn": "女士，小姐，年轻未婚女子"
+},
+{
+"pos": "vt.",
+"cn": "错过，想念，缺（勤）"
+}
+]
+},
+{
+"word": "angry",
+"phonetic0": "ˈæŋɡri",
+"phonetic1": "ˈæŋɡri",
+"trans": [
+{
+"pos": "adj.",
+"cn": "生气的；愤怒的；狂暴的"
+}
+]
+},
+{
+"word": "ill",
+"phonetic0": "ɪl",
+"phonetic1": "ɪl",
+"trans": [
+{
+"pos": "n.",
+"cn": "疾病；不幸"
+},
+{
+"pos": "adj.",
+"cn": "生病的；坏的；邪恶的"
+},
+{
+"pos": "adv.",
+"cn": "不利地；恶劣地；几乎不"
+}
+]
+},
+{
+"word": "told",
+"phonetic0": "təʊld",
+"phonetic1": "toʊld",
+"trans": [
+{
+"pos": "v.",
+"cn": "告诉（tell的过去式）；讲述"
+}
+]
+},
+{
+"word": "better",
+"phonetic0": "ˈbetə(r)",
+"phonetic1": "ˈbetər",
+"trans": [
+{
+"pos": "n.",
+"cn": "长辈；较好者；打赌的人（等于bettor）"
+},
+{
+"pos": "adj.",
+"cn": "较好的"
+},
+{
+"pos": "vt.",
+"cn": "改善；胜过"
+}
+]
+},
+{
+"word": "farm",
+"phonetic0": "fɑːm",
+"phonetic1": "fɑːrm",
+"trans": [
+{
+"pos": "n.",
+"cn": "农场；农家；畜牧场"
+},
+{
+"pos": "vt.",
+"cn": "养殖；耕种；佃出（土地）"
+},
+{
+"pos": "vi.",
+"cn": "种田，务农；经营农场"
+}
+]
+},
+{
+"word": "tired",
+"phonetic0": "ˈtaɪəd",
+"phonetic1": "ˈtaɪərd",
+"trans": [
+{
+"pos": "v.",
+"cn": "疲倦；对…腻烦（tire的过去分词形式）"
+},
+{
+"pos": "adj.",
+"cn": "疲倦的；厌倦的，厌烦的"
+}
+]
+},
+{
+"word": "won",
+"phonetic0": "wʌn",
+"phonetic1": "wʌn",
+"trans": [
+{
+"pos": "vt.",
+"cn": "赢得（win的过去式和过去分词）"
+}
+]
+},
+{
+"word": "win",
+"phonetic0": "wɪn",
+"phonetic1": "wɪn",
+"trans": [
+{
+"pos": "n.",
+"cn": "赢；胜利"
+},
+{
+"pos": "vt.",
+"cn": "赢得；在…中获胜；劝诱"
+},
+{
+"pos": "vi.",
+"cn": "赢；获胜；成功"
+}
+]
+},
+{
+"word": "ruler",
+"phonetic0": "ˈruːlə(r)",
+"phonetic1": "ˈruːlər",
+"trans": [
+{
+"pos": "n.",
+"cn": "尺；统治者；[测] 划线板，划线的人"
+}
+]
+},
+{
+"word": "smell",
+"phonetic0": "smel",
+"phonetic1": "smel",
+"trans": [
+{
+"pos": "n.",
+"cn": "气味，嗅觉；臭味"
+},
+{
+"pos": "vt.",
+"cn": "嗅，闻；察觉到；发出…的气味"
+},
+{
+"pos": "vi.",
+"cn": "嗅，闻；有…气味"
+}
+]
+},
+{
+"word": "kitchen",
+"phonetic0": "ˈkɪtʃɪn",
+"phonetic1": "ˈkɪtʃɪn",
+"trans": [
+{
+"pos": "n.",
+"cn": "厨房；炊具；炊事人员"
+}
+]
+},
+{
+"word": "toilet",
+"phonetic0": "ˈtɔɪlət",
+"phonetic1": "ˈtɔɪlət",
+"trans": [
+{
+"pos": "n.",
+"cn": "厕所，盥洗室；梳妆，打扮"
+},
+{
+"pos": "vt.",
+"cn": "给…梳妆打扮"
+},
+{
+"pos": "vi.",
+"cn": "梳妆，打扮"
+}
+]
+},
+{
+"word": "room",
+"phonetic0": "ruːm",
+"phonetic1": "ruːm",
+"trans": [
+{
+"pos": "n.",
+"cn": "房间；空间；余地"
+},
+{
+"pos": "vt.",
+"cn": "为…提供住处；租房，合住；投宿，住宿"
+},
+{
+"pos": "vi.",
+"cn": "居住；住宿"
+}
+]
+},
+{
+"word": "living room",
+"phonetic0": "'lɪvɪŋ ru:m",
+"phonetic1": "ˈlɪvɪŋ ruːm",
+"trans": [
+{
+"pos": "n.",
+"cn": "客厅；起居室"
+}
+]
+},
+{
+"word": "hide-and-seek",
+"phonetic0": "ˌhaɪd ən ˈsiːk",
+"phonetic1": "ˌhaɪd ən ˈsiːk",
+"trans": [
+{
+"pos": "n.",
+"cn": "捉迷藏"
+}
+]
+},
+{
+"word": "now",
+"phonetic0": "naʊ",
+"phonetic1": "naʊ",
+"trans": [
+{
+"pos": "adv.",
+"cn": "现在；如今；立刻"
+},
+{
+"pos": "adj.",
+"cn": "现在的"
+},
+{
+"pos": "n.",
+"cn": "现在；目前"
+}
+]
+},
+{
+"word": "last",
+"phonetic0": "lɑːst",
+"phonetic1": "læst",
+"trans": [
+{
+"pos": "n.",
+"cn": "末尾，最后；上个；鞋楦（做鞋的模型）"
+},
+{
+"pos": "adj.",
+"cn": "最后的；最近的，最新的；仅剩的"
+},
+{
+"pos": "vi.",
+"cn": "持续；维持，够用；持久"
+}
+]
+},
+{
+"word": "hide",
+"phonetic0": "haɪd",
+"phonetic1": "haɪd",
+"trans": [
+{
+"pos": "n.",
+"cn": "躲藏；兽皮；躲藏处"
+},
+{
+"pos": "vt.",
+"cn": "隐藏；隐瞒；鞭打"
+},
+{
+"pos": "vi.",
+"cn": "隐藏"
+}
+]
+},
+{
+"word": "sofa",
+"phonetic0": "ˈsəʊfə",
+"phonetic1": "ˈsoʊfə",
+"trans": [
+{
+"pos": "n.",
+"cn": "沙发；长椅"
+}
+]
+},
+{
+"word": "shout",
+"phonetic0": "ʃaʊt",
+"phonetic1": "ʃaʊt",
+"trans": [
+{
+"pos": "n.",
+"cn": "呼喊；呼叫"
+},
+{
+"pos": "vi.",
+"cn": "呼喊；喊叫；大声说"
+},
+{
+"pos": "vt.",
+"cn": "呼喊；大声说"
+}
+]
+},
+{
+"word": "grass",
+"phonetic0": "ɡrɑːs",
+"phonetic1": "ɡræs",
+"trans": [
+{
+"pos": "n.",
+"cn": "草；草地，草坪"
+},
+{
+"pos": "vt.",
+"cn": "放牧；使……长满草；使……吃草"
+},
+{
+"pos": "vi.",
+"cn": "长草"
+}
+]
+},
+{
+"word": "baby",
+"phonetic0": "ˈbeɪbi",
+"phonetic1": "ˈbeɪbi",
+"trans": [
+{
+"pos": "n.",
+"cn": "婴儿，婴孩；孩子气的人"
+},
+{
+"pos": "adj.",
+"cn": "婴儿的；幼小的"
+},
+{
+"pos": "vt.",
+"cn": "纵容，娇纵；把……当婴儿般对待"
+}
+]
+},
+{
+"word": "dangerous",
+"phonetic0": "ˈdeɪndʒərəs",
+"phonetic1": "ˈdeɪndʒərəs",
+"trans": [
+{
+"pos": "adj.",
+"cn": "危险的"
+},
+{
+"pos": "",
+"cn": "危险地"
+}
+]
+}
+]
+}

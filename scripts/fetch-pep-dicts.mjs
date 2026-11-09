@@ -210,22 +210,14 @@ for (const book of pepArticleBooks) {
 const VOCAB_DIR = path.join(ROOT, 'scripts/data/vocab')
 const examples = await readJson(path.join(VOCAB_DIR, 'examples.json'))
 const pepRef = downloaded.find(d => PEP_3.test(String(d.entry.url)))?.entry
-const OWN_BOOKS = [
-  // [json 文件名, 词典 id, 分类, categoryId, tags]
-  ['NCEJ_0A', 402, '青少年英语', 3, ['新概念青少版']],
-  ['NCEJ_0B', 403, '青少年英语', 3, ['新概念青少版']],
-  ['NCEJ_1A', 400, '青少年英语', 3, ['新概念青少版']],
-  ['NCEJ_1B', 401, '青少年英语', 3, ['新概念青少版']],
-  ['NCEJ_2A', 404, '青少年英语', 3, ['新概念青少版']],
-  ['NCEJ_2B', 405, '青少年英语', 3, ['新概念青少版']],
-  ['NCEJ_3A', 406, '青少年英语', 3, ['新概念青少版']],
-  ['NCEJ_3B', 407, '青少年英语', 3, ['新概念青少版']],
-  ['NCEJ_4A', 408, '青少年英语', 3, ['新概念青少版']],
-  ['NCEJ_4B', 409, '青少年英语', 3, ['新概念青少版']],
-  ['NCEJ_5A', 410, '青少年英语', 3, ['新概念青少版']],
-  ['NCEJ_5B', 411, '青少年英语', 3, ['新概念青少版']],
-  ...[3, 4, 5, 6].flatMap((g, i) => [1, 2].map((t, j) => [`PEP3Q_${g}_${t}`, 420 + i * 2 + j, pepRef?.category || '小学英语', pepRef?.categoryId ?? 3, ['人教版']])),
-]
+const manifest = await readJson(path.join(VOCAB_DIR, 'index.json'))
+const KIND_META = {
+  ncej: { category: '青少年英语', categoryId: 3 },
+  textbook: { category: pepRef?.category || '小学英语', categoryId: pepRef?.categoryId ?? 3 },
+  other: { category: '青少年英语', categoryId: 3 },
+}
+// [json 文件名, 词典 id, 分类, categoryId, tags]
+const OWN_BOOKS = manifest.map(m => [m.file, m.id, KIND_META[m.kind].category, KIND_META[m.kind].categoryId, [m.tag]])
 const ownData = new Map()
 for (const [stem] of OWN_BOOKS) ownData.set(stem, await readJson(path.join(VOCAB_DIR, `${stem}.json`)))
 
@@ -283,8 +275,11 @@ for (const [stem, dictId, category, categoryId, tags] of OWN_BOOKS) {
   })
   fillPhonetics(words)
   await fs.writeFile(path.join(WORD_DIR, url), JSON.stringify(words))
+  // 词典 id 若与官方词典冲突则顺延，避免网站里两本词典共用一个 id
+  let finalId = dictId
+  while (wordList.some(d => d.id === finalId && d.url !== url)) finalId += 1000
   upsert(wordList, {
-    id: dictId,
+    id: finalId,
     enName: src.enName,
     name: src.name,
     description: `${src.name}，共 ${words.length} 词：音标、中文释义（词表整理自 lilinji/English，CC BY-NC-SA 4.0）`,

@@ -1,0 +1,1652 @@
+{
+"name": "译林版三起·四年级下册词表",
+"enName": "yl3q-4-2",
+"words": [
+{
+"word": "school",
+"phonetic0": "skuːl",
+"phonetic1": "skuːl",
+"trans": [
+{
+"pos": "n.",
+"cn": "学校；学院；学派"
+},
+{
+"pos": "vt.",
+"cn": "教育"
+}
+]
+},
+{
+"word": "subject",
+"phonetic0": "ˈsʌbdʒɪkt",
+"phonetic1": "ˈsʌbdʒɪkt",
+"trans": [
+{
+"pos": "n.",
+"cn": "主题；科目；[语] 主语"
+},
+{
+"pos": "adj.",
+"cn": "服从的；易患…的；受制于…的"
+},
+{
+"pos": "vt.",
+"cn": "使…隶属；使屈从于…"
+}
+]
+},
+{
+"word": "Welcome back to ...",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "无"
+}
+]
+},
+{
+"word": "see",
+"phonetic0": "siː",
+"phonetic1": "siː",
+"trans": [
+{
+"pos": "vi.",
+"cn": "看；看见；领会"
+},
+{
+"pos": "vt.",
+"cn": "看见；理解；领会"
+}
+]
+},
+{
+"word": "timetable",
+"phonetic0": "ˈtaɪmteɪb(ə)l",
+"phonetic1": "ˈtaɪmteɪbl",
+"trans": [
+{
+"pos": "n.",
+"cn": "时间表；时刻表；课程表"
+}
+]
+},
+{
+"word": "Chinese",
+"phonetic0": "ˌtʃaɪˈniːz",
+"phonetic1": "ˌtʃaɪˈniːz",
+"trans": [
+{
+"pos": "n.",
+"cn": "中文，汉语；中国人"
+},
+{
+"pos": "adj.",
+"cn": "中国的，中国人的；中国话的"
+}
+]
+},
+{
+"word": "Maths",
+"phonetic0": "mæθs",
+"phonetic1": "mæθs",
+"trans": [
+{
+"pos": "n.",
+"cn": "数学（等于mathematics）"
+}
+]
+},
+{
+"word": "Art",
+"phonetic0": "ɑːt",
+"phonetic1": "ɑːrt",
+"trans": [
+{
+"pos": "n.",
+"cn": "艺术；美术；艺术品"
+},
+{
+"pos": "v.",
+"cn": "是（be的变体）"
+},
+{
+"pos": "adj.",
+"cn": "艺术的；艺术品的"
+}
+]
+},
+{
+"word": "PE",
+"phonetic0": "peɪ",
+"phonetic1": "peɪ",
+"trans": [
+{
+"pos": "abbr.",
+"cn": "体育课，体能训练（physical education）"
+}
+]
+},
+{
+"word": "Music",
+"phonetic0": "ˈmjuːzɪk",
+"phonetic1": "ˈmjuːzɪk",
+"trans": [
+{
+"pos": "n.",
+"cn": "音乐，乐曲"
+}
+]
+},
+{
+"word": "Science",
+"phonetic0": "ˈsaɪəns",
+"phonetic1": "ˈsaɪəns",
+"trans": [
+{
+"pos": "n.",
+"cn": "科学；技术；学科"
+}
+]
+},
+{
+"word": "fun",
+"phonetic0": "fʌn",
+"phonetic1": "fʌn",
+"trans": [
+{
+"pos": "n.",
+"cn": "乐趣；玩笑；有趣的人或事"
+},
+{
+"pos": "adj.",
+"cn": "供娱乐用的"
+},
+{
+"pos": "vi.",
+"cn": "开玩笑"
+}
+]
+},
+{
+"word": "go to",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "na.",
+"cn": "相当于；付出"
+}
+]
+},
+{
+"word": "playground",
+"phonetic0": "ˈpleɪɡraʊnd",
+"phonetic1": "ˈpleɪɡraʊnd",
+"trans": [
+{
+"pos": "n.",
+"cn": "运动场，操场；游乐场"
+}
+]
+},
+{
+"word": "lesson",
+"phonetic0": "ˈlesn",
+"phonetic1": "ˈlesn",
+"trans": [
+{
+"pos": "n.",
+"cn": "教训；课"
+},
+{
+"pos": "vt.",
+"cn": "教训；上课"
+}
+]
+},
+{
+"word": "Monday",
+"phonetic0": "ˈmʌndeɪ",
+"phonetic1": "ˈmʌndeɪ",
+"trans": [
+{
+"pos": "n.",
+"cn": "星期一"
+}
+]
+},
+{
+"word": "afternoon",
+"phonetic0": "ˌɑːftəˈnuːn",
+"phonetic1": "ˌæftərˈnuːn",
+"trans": [
+{
+"pos": "n.",
+"cn": "午后，下午"
+}
+]
+},
+{
+"word": "after school",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "na.",
+"cn": "放学后"
+}
+]
+},
+{
+"word": "go",
+"phonetic0": "ɡəʊ",
+"phonetic1": "ɡoʊ",
+"trans": [
+{
+"pos": "n.",
+"cn": "去；进行；尝试"
+},
+{
+"pos": "vi.",
+"cn": "走；达到；运转"
+},
+{
+"pos": "vt.",
+"cn": "忍受；出产；以…打赌"
+}
+]
+},
+{
+"word": "What day is it today",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "今天星期几；今天是星期几；今天礼拜几"
+}
+]
+},
+{
+"word": "Wednesday",
+"phonetic0": "ˈwenzdeɪ",
+"phonetic1": "ˈwenzdeɪ",
+"trans": [
+{
+"pos": "n.",
+"cn": "星期三"
+}
+]
+},
+{
+"word": "match",
+"phonetic0": "mætʃ",
+"phonetic1": "mætʃ",
+"trans": [
+{
+"pos": "vt.",
+"cn": "使比赛；使相配；敌得过，比得上"
+},
+{
+"pos": "vi.",
+"cn": "比赛；匹配；相配，相称"
+},
+{
+"pos": "n.",
+"cn": "比赛，竞赛；匹配；对手"
+}
+]
+},
+{
+"word": "today",
+"phonetic0": "təˈdeɪ",
+"phonetic1": "təˈdeɪ",
+"trans": [
+{
+"pos": "n.",
+"cn": "今天；现今"
+},
+{
+"pos": "adv.",
+"cn": "今天；现今"
+}
+]
+},
+{
+"word": "What a pity",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "un.",
+"cn": "真可惜"
+}
+]
+},
+{
+"word": "Saturday",
+"phonetic0": "ˈsætədeɪ",
+"phonetic1": "ˈsætərdeɪ",
+"trans": [
+{
+"pos": "n.",
+"cn": "星期六"
+}
+]
+},
+{
+"word": "All right.",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "adj.",
+"cn": "可接受（的）；满意（的）；安全健康（的）"
+},
+{
+"pos": "int.",
+"cn": "是不是；（表示同意）好；没什么"
+}
+]
+},
+{
+"word": "Sunday",
+"phonetic0": "ˈsʌndeɪ",
+"phonetic1": "ˈsʌndeɪ",
+"trans": [
+{
+"pos": "n.",
+"cn": "星期日；礼拜日"
+}
+]
+},
+{
+"word": "Tuesday",
+"phonetic0": "ˈtjuːzdeɪ",
+"phonetic1": "ˈtuːzdeɪ",
+"trans": [
+{
+"pos": "n.",
+"cn": "星期二"
+}
+]
+},
+{
+"word": "Thursday",
+"phonetic0": "ˈθɜːzdeɪ",
+"phonetic1": "ˈθɜːrzdeɪ",
+"trans": [
+{
+"pos": "n.",
+"cn": "星期四"
+}
+]
+},
+{
+"word": "Friday",
+"phonetic0": "ˈfraɪdeɪ",
+"phonetic1": "ˈfraɪdeɪ",
+"trans": [
+{
+"pos": "n.",
+"cn": "星期五"
+}
+]
+},
+{
+"word": "get up",
+"phonetic0": "ɡet ʌp",
+"phonetic1": "ɡet ʌp",
+"trans": [
+{
+"pos": "na.",
+"cn": "起床；起身；站起来"
+}
+]
+},
+{
+"word": "when",
+"phonetic0": "wen",
+"phonetic1": "wen",
+"trans": [
+{
+"pos": "conj.",
+"cn": "考虑到；既然；当…时"
+},
+{
+"pos": "n.",
+"cn": "时间，时候；日期；场合"
+},
+{
+"pos": "adv.",
+"cn": "什么时候，何时；（用于时间的表达方式之后）在那时；其时"
+}
+]
+},
+{
+"word": "every",
+"phonetic0": "ˈevri",
+"phonetic1": "ˈevri",
+"trans": [
+{
+"pos": "adj.",
+"cn": "每一的，每个的；每隔…的"
+}
+]
+},
+{
+"word": "day",
+"phonetic0": "deɪ",
+"phonetic1": "deɪ",
+"trans": [
+{
+"pos": "n.",
+"cn": "一天；时期；白昼"
+},
+{
+"pos": "adj.",
+"cn": "日间的；逐日的"
+},
+{
+"pos": "adv.",
+"cn": "每天；经常在白天地"
+}
+]
+},
+{
+"word": "usually",
+"phonetic0": "ˈjuːʒuəli",
+"phonetic1": "ˈjuːʒuəli",
+"trans": [
+{
+"pos": "adv.",
+"cn": "通常，经常"
+}
+]
+},
+{
+"word": "go to school",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "na.",
+"cn": "到校上课；上学去；开始求学"
+}
+]
+},
+{
+"word": "in the morning",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "na.",
+"cn": "在早晨"
+}
+]
+},
+{
+"word": "have lunch",
+"phonetic0": "hæv lʌntʃ",
+"phonetic1": "hæv lʌntʃ",
+"trans": [
+{
+"pos": "",
+"cn": "吃午饭；吃午餐；吃中饭"
+}
+]
+},
+{
+"word": "in the afternoon",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "在下午；每天下午；午后"
+}
+]
+},
+{
+"word": "play football",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "na.",
+"cn": "踢足球；对难办的事采取踢皮球的态度"
+}
+]
+},
+{
+"word": "go home",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "na.",
+"cn": "回家；〈口〉死；(忠告等)刻骨铭心"
+}
+]
+},
+{
+"word": "homework",
+"phonetic0": "ˈhəʊmwɜːk",
+"phonetic1": "ˈhoʊmwɜːrk",
+"trans": [
+{
+"pos": "n.",
+"cn": "家庭作业，课外作业"
+}
+]
+},
+{
+"word": "have dinner",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "吃晚饭；吃饭；吃正餐"
+}
+]
+},
+{
+"word": "watch TV",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "v.",
+"cn": "看电视"
+}
+]
+},
+{
+"word": "go to bed",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "na.",
+"cn": "睡；同床；【印】付印"
+}
+]
+},
+{
+"word": "in the evening",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "在晚上；在傍晚；晚间"
+}
+]
+},
+{
+"word": "at night",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "na.",
+"cn": "在黄昏时候；晚上"
+}
+]
+},
+{
+"word": "drawing",
+"phonetic0": "ˈdrɔːɪŋ",
+"phonetic1": "ˈdrɔːɪŋ",
+"trans": [
+{
+"pos": "n.",
+"cn": "图画；牵引；素描术"
+},
+{
+"pos": "v.",
+"cn": "绘画；吸引（draw的ing形式）；拖曳"
+}
+]
+},
+{
+"word": "park",
+"phonetic0": "pɑːk",
+"phonetic1": "pɑːrk",
+"trans": [
+{
+"pos": "n.",
+"cn": "公园；[交] 停车场"
+},
+{
+"pos": "vt.",
+"cn": "停放；放置；寄存"
+},
+{
+"pos": "vi.",
+"cn": "停放车辆"
+}
+]
+},
+{
+"word": "draw",
+"phonetic0": "drɔː",
+"phonetic1": "drɔː",
+"trans": [
+{
+"pos": "n.",
+"cn": "平局；抽签"
+},
+{
+"pos": "vi.",
+"cn": "拉；拖"
+},
+{
+"pos": "vt.",
+"cn": "画；拉；吸引"
+}
+]
+},
+{
+"word": "Good idea",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "好主意；好点子；好想法"
+}
+]
+},
+{
+"word": "flower",
+"phonetic0": "ˈflaʊə(r)",
+"phonetic1": "ˈflaʊər",
+"trans": [
+{
+"pos": "n.",
+"cn": "花；精华；开花植物"
+},
+{
+"pos": "vt.",
+"cn": "使开花；用花装饰"
+},
+{
+"pos": "vi.",
+"cn": "成熟，发育；开花；繁荣"
+}
+]
+},
+{
+"word": "them",
+"phonetic0": "ðəm",
+"phonetic1": "ðəm",
+"trans": [
+{
+"pos": "pron.",
+"cn": "他们；它们；她们"
+}
+]
+},
+{
+"word": "easy",
+"phonetic0": "ˈiːzi",
+"phonetic1": "ˈiːzi",
+"trans": [
+{
+"pos": "adj.",
+"cn": "容易的；舒适的"
+},
+{
+"pos": "vt.",
+"cn": "发出停划命令"
+},
+{
+"pos": "adv.",
+"cn": "不费力地，从容地"
+}
+]
+},
+{
+"word": "boat",
+"phonetic0": "bəʊt",
+"phonetic1": "boʊt",
+"trans": [
+{
+"pos": "n.",
+"cn": "小船；轮船"
+},
+{
+"pos": "vi.",
+"cn": "划船"
+}
+]
+},
+{
+"word": "river",
+"phonetic0": "ˈrɪvə(r)",
+"phonetic1": "ˈrɪvər",
+"trans": [
+{
+"pos": "n.",
+"cn": "河，江"
+}
+]
+},
+{
+"word": "difficult",
+"phonetic0": "ˈdɪfɪkəlt",
+"phonetic1": "ˈdɪfɪkəlt",
+"trans": [
+{
+"pos": "adj.",
+"cn": "困难的；不随和的；执拗的"
+}
+]
+},
+{
+"word": "try",
+"phonetic0": "traɪ",
+"phonetic1": "traɪ",
+"trans": [
+{
+"pos": "n.",
+"cn": "尝试；努力；试验"
+},
+{
+"pos": "vt.",
+"cn": "试图，努力；试验；审判"
+},
+{
+"pos": "vi.",
+"cn": "尝试；努力；试验"
+}
+]
+},
+{
+"word": "hill",
+"phonetic0": "hɪl",
+"phonetic1": "hɪl",
+"trans": [
+{
+"pos": "n.",
+"cn": "小山；丘陵；斜坡"
+}
+]
+},
+{
+"word": "lake",
+"phonetic0": "leɪk",
+"phonetic1": "leɪk",
+"trans": [
+{
+"pos": "n.",
+"cn": "湖；深红色颜料；胭脂红"
+},
+{
+"pos": "vt.",
+"cn": "（使）血球溶解"
+},
+{
+"pos": "vi.",
+"cn": "（使）血球溶解"
+}
+]
+},
+{
+"word": "again",
+"phonetic0": "əˈɡen",
+"phonetic1": "əˈɡen",
+"trans": [
+{
+"pos": "adv.",
+"cn": "又，此外；再一次；再说"
+},
+{
+"pos": "n.",
+"cn": "（英、保）阿盖恩"
+}
+]
+},
+{
+"word": "season",
+"phonetic0": "ˈsiːzn",
+"phonetic1": "ˈsiːzn",
+"trans": [
+{
+"pos": "n.",
+"cn": "时期；季节；赛季"
+},
+{
+"pos": "vt.",
+"cn": "给…调味；使适应"
+},
+{
+"pos": "vi.",
+"cn": "变得成熟；变干燥"
+}
+]
+},
+{
+"word": "spring",
+"phonetic0": "sprɪŋ",
+"phonetic1": "sprɪŋ",
+"trans": [
+{
+"pos": "n.",
+"cn": "春天；弹簧；泉水"
+},
+{
+"pos": "adj.",
+"cn": "春天的"
+},
+{
+"pos": "vt.",
+"cn": "使跳起；使爆炸；突然提出"
+}
+]
+},
+{
+"word": "warm",
+"phonetic0": "wɔːm",
+"phonetic1": "wɔːrm",
+"trans": [
+{
+"pos": "n.",
+"cn": "取暖；加热"
+},
+{
+"pos": "adj.",
+"cn": "温暖的；热情的"
+},
+{
+"pos": "vt.",
+"cn": "使…兴奋；使…温暖；使…感兴趣"
+}
+]
+},
+{
+"word": "fly",
+"phonetic0": "flaɪ",
+"phonetic1": "flaɪ",
+"trans": [
+{
+"pos": "n.",
+"cn": "飞行；苍蝇；两翼昆虫"
+},
+{
+"pos": "adj.",
+"cn": "敏捷的"
+},
+{
+"pos": "vi.",
+"cn": "飞；驾驶飞机；飘扬"
+}
+]
+},
+{
+"word": "kite",
+"phonetic0": "kaɪt",
+"phonetic1": "kaɪt",
+"trans": [
+{
+"pos": "n.",
+"cn": "风筝"
+},
+{
+"pos": "vi.",
+"cn": "使用空头支票；像风筝一样飞；轻快地移动"
+},
+{
+"pos": "vt.",
+"cn": "骗钱；涂改（支票）"
+}
+]
+},
+{
+"word": "go boating",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "na.",
+"cn": "乘船〔尤指划船〕游玩"
+}
+]
+},
+{
+"word": "summer",
+"phonetic0": "ˈsʌmə(r)",
+"phonetic1": "ˈsʌmər",
+"trans": [
+{
+"pos": "n.",
+"cn": "夏季；全盛时期"
+},
+{
+"pos": "adj.",
+"cn": "夏季的"
+},
+{
+"pos": "vi.",
+"cn": "避暑；过夏天"
+}
+]
+},
+{
+"word": "hot",
+"phonetic0": "hɒt",
+"phonetic1": "hɑːt",
+"trans": [
+{
+"pos": "adj.",
+"cn": "热的；辣的；热情的"
+},
+{
+"pos": "vt.",
+"cn": "增加；给…加温"
+},
+{
+"pos": "adv.",
+"cn": "热；紧迫地"
+}
+]
+},
+{
+"word": "go swimming",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "na.",
+"cn": "去游泳"
+}
+]
+},
+{
+"word": "autumn",
+"phonetic0": "ˈɔːtəm",
+"phonetic1": "ˈɔːtəm",
+"trans": [
+{
+"pos": "n.",
+"cn": "秋天；成熟期；渐衰期，凋落期"
+},
+{
+"pos": "adj.",
+"cn": "秋天的，秋季的"
+}
+]
+},
+{
+"word": "cool",
+"phonetic0": "kuːl",
+"phonetic1": "kuːl",
+"trans": [
+{
+"pos": "n.",
+"cn": "凉爽；凉爽的空气"
+},
+{
+"pos": "adj.",
+"cn": "凉爽的；冷静的；出色的"
+},
+{
+"pos": "vt.",
+"cn": "使…冷却；使…平静下来"
+}
+]
+},
+{
+"word": "picnic",
+"phonetic0": "ˈpɪknɪk",
+"phonetic1": "ˈpɪknɪk",
+"trans": [
+{
+"pos": "n.",
+"cn": "野餐"
+},
+{
+"pos": "vi.",
+"cn": "去野餐"
+}
+]
+},
+{
+"word": "go climbing",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "去爬山；去登山；去等山"
+}
+]
+},
+{
+"word": "winter",
+"phonetic0": "ˈwɪntə(r)",
+"phonetic1": "ˈwɪntər",
+"trans": [
+{
+"pos": "n.",
+"cn": "冬季；年岁；萧条期"
+},
+{
+"pos": "adj.",
+"cn": "冬天的；越冬的"
+},
+{
+"pos": "vi.",
+"cn": "过冬"
+}
+]
+},
+{
+"word": "cold",
+"phonetic0": "kəʊld",
+"phonetic1": "kəʊld",
+"trans": [
+{
+"pos": "n.",
+"cn": "寒冷；感冒"
+},
+{
+"pos": "adj.",
+"cn": "寒冷的；冷淡的，不热情的；失去知觉的"
+},
+{
+"pos": "adv.",
+"cn": "完全地"
+}
+]
+},
+{
+"word": "go skating",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "去滑冰；去溜冰；滑雪"
+}
+]
+},
+{
+"word": "fine",
+"phonetic0": "faɪn",
+"phonetic1": "faɪn",
+"trans": [
+{
+"pos": "n.",
+"cn": "罚款"
+},
+{
+"pos": "adj.",
+"cn": "好的；优良的；细小的，精美的"
+},
+{
+"pos": "vt.",
+"cn": "罚款；澄清"
+}
+]
+},
+{
+"word": "hey",
+"phonetic0": "heɪ",
+"phonetic1": "heɪ",
+"trans": [
+{
+"pos": "n.",
+"cn": "干草（等于hay）"
+},
+{
+"pos": "int.",
+"cn": "喂！（引起注意等）；你好！（表示问候）"
+}
+]
+},
+{
+"word": "whose",
+"phonetic0": "huːz",
+"phonetic1": "huːz",
+"trans": [
+{
+"pos": "pron.",
+"cn": "谁的（疑问代词）"
+}
+]
+},
+{
+"word": "dress",
+"phonetic0": "dres",
+"phonetic1": "dres",
+"trans": [
+{
+"pos": "n.",
+"cn": "连衣裙；女装"
+},
+{
+"pos": "vt.",
+"cn": "给…穿衣"
+},
+{
+"pos": "vi.",
+"cn": "穿衣"
+}
+]
+},
+{
+"word": "too",
+"phonetic0": "tuː",
+"phonetic1": "tuː",
+"trans": [
+{
+"pos": "adv.",
+"cn": "太；也；很"
+}
+]
+},
+{
+"word": "trousers",
+"phonetic0": "ˈtraʊzəz",
+"phonetic1": "ˈtraʊzərz",
+"trans": [
+{
+"pos": "n.",
+"cn": "裤子，长裤"
+}
+]
+},
+{
+"word": "party",
+"phonetic0": "ˈpɑːti",
+"phonetic1": "ˈpɑːrti",
+"trans": [
+{
+"pos": "n.",
+"cn": "政党，党派；聚会，派对；当事人 [复数 parties]"
+},
+{
+"pos": "vi.",
+"cn": "参加社交聚会 [ 过去式 partied 过去分词 partied 现在分词 partying ]"
+}
+]
+},
+{
+"word": "glove",
+"phonetic0": "ɡlʌv",
+"phonetic1": "ɡlʌv",
+"trans": [
+{
+"pos": "n.",
+"cn": "手套"
+},
+{
+"pos": "vt.",
+"cn": "给…戴手套"
+}
+]
+},
+{
+"word": "so",
+"phonetic0": "səʊ",
+"phonetic1": "soʊ",
+"trans": [
+{
+"pos": "conj.",
+"cn": "所以；因此"
+},
+{
+"pos": "adv.",
+"cn": "如此，这么；确是如此"
+},
+{
+"pos": "pron.",
+"cn": "这样"
+}
+]
+},
+{
+"word": "coat",
+"phonetic0": "kəʊt",
+"phonetic1": "koʊt",
+"trans": [
+{
+"pos": "n.",
+"cn": "外套"
+},
+{
+"pos": "vt.",
+"cn": "覆盖…的表面"
+}
+]
+},
+{
+"word": "shirt",
+"phonetic0": "ʃɜːt",
+"phonetic1": "ʃɜːrt",
+"trans": [
+{
+"pos": "n.",
+"cn": "衬衫；汗衫，内衣"
+}
+]
+},
+{
+"word": "sweater",
+"phonetic0": "ˈswetə(r)",
+"phonetic1": "ˈswetər",
+"trans": [
+{
+"pos": "n.",
+"cn": "毛线衣，运动衫；大量出汗的人，发汗剂"
+}
+]
+},
+{
+"word": "jeans",
+"phonetic0": "dʒiːnz",
+"phonetic1": "dʒiːnz",
+"trans": [
+{
+"pos": "n.",
+"cn": "牛仔裤；工装裤"
+}
+]
+},
+{
+"word": "shorts",
+"phonetic0": "ʃɔːts",
+"phonetic1": "ʃɔːrts",
+"trans": [
+{
+"pos": "n.",
+"cn": "短裤"
+}
+]
+},
+{
+"word": "wrong",
+"phonetic0": "rɒŋ",
+"phonetic1": "rɔːŋ",
+"trans": [
+{
+"pos": "n.",
+"cn": "坏事；不公正"
+},
+{
+"pos": "adj.",
+"cn": "错误的；失常的；不适当的"
+},
+{
+"pos": "vt.",
+"cn": "委屈；无理地对待；诽谤"
+}
+]
+},
+{
+"word": "move",
+"phonetic0": "muːv",
+"phonetic1": "muːv",
+"trans": [
+{
+"pos": "n.",
+"cn": "移动；步骤；迁居"
+},
+{
+"pos": "vi.",
+"cn": "移动；搬家，迁移；离开"
+},
+{
+"pos": "vt.",
+"cn": "移动；感动"
+}
+]
+},
+{
+"word": "I think so.",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "我也这么想；我想是的；我想是吧"
+}
+]
+},
+{
+"word": "What's the matter",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "怎么回事?怎么啦?"
+}
+]
+},
+{
+"word": "hand",
+"phonetic0": "hænd",
+"phonetic1": "hænd",
+"trans": [
+{
+"pos": "n.",
+"cn": "手，手艺；帮助；指针"
+},
+{
+"pos": "vt.",
+"cn": "传递，交给；支持；搀扶"
+}
+]
+},
+{
+"word": "hurt",
+"phonetic0": "hɜːt",
+"phonetic1": "hɜːrt",
+"trans": [
+{
+"pos": "n.",
+"cn": "痛苦；危害；痛苦的原因"
+},
+{
+"pos": "vt.",
+"cn": "使受伤；损害；使疼痛"
+},
+{
+"pos": "adj.",
+"cn": "受伤的；痛苦的；受损的"
+}
+]
+},
+{
+"word": "thirsty",
+"phonetic0": "ˈθɜːsti",
+"phonetic1": "ˈθɜːrsti",
+"trans": [
+{
+"pos": "adj.",
+"cn": "口渴的，口干的；渴望的，热望的"
+}
+]
+},
+{
+"word": "water",
+"phonetic0": "ˈwɔːtə(r)",
+"phonetic1": "ˈwɔːtər",
+"trans": [
+{
+"pos": "n.",
+"cn": "水；海水；雨水"
+},
+{
+"pos": "vt.",
+"cn": "使湿；供以水；给…浇水"
+},
+{
+"pos": "vi.",
+"cn": "加水；流泪；流口水"
+}
+]
+},
+{
+"word": "ill",
+"phonetic0": "ɪl",
+"phonetic1": "ɪl",
+"trans": [
+{
+"pos": "n.",
+"cn": "疾病；不幸"
+},
+{
+"pos": "adj.",
+"cn": "生病的；坏的；邪恶的"
+},
+{
+"pos": "adv.",
+"cn": "不利地；恶劣地；几乎不"
+}
+]
+},
+{
+"word": "tired",
+"phonetic0": "ˈtaɪəd",
+"phonetic1": "ˈtaɪərd",
+"trans": [
+{
+"pos": "v.",
+"cn": "疲倦；对…腻烦（tire的过去分词形式）"
+},
+{
+"pos": "adj.",
+"cn": "疲倦的；厌倦的，厌烦的"
+}
+]
+},
+{
+"word": "Good night.",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "un.",
+"cn": "连夜；告辞；晚上好"
+}
+]
+},
+{
+"word": "dear",
+"phonetic0": "dɪə(r)",
+"phonetic1": "dɪr",
+"trans": [
+{
+"pos": "n.",
+"cn": "亲爱的人"
+},
+{
+"pos": "adj.",
+"cn": "亲爱的；尊敬的；昂贵的"
+},
+{
+"pos": "adv.",
+"cn": "高价地；疼爱地"
+}
+]
+},
+{
+"word": "happy",
+"phonetic0": "ˈhæpi",
+"phonetic1": "ˈhæpi",
+"trans": [
+{
+"pos": "adj.",
+"cn": "幸福的；高兴的；巧妙的"
+}
+]
+},
+{
+"word": "Mrs",
+"phonetic0": "ˈmɪsɪz",
+"phonetic1": "ˈmɪsɪz",
+"trans": [
+{
+"pos": "n.",
+"cn": "太太；夫人（用于已婚妇女姓名前的尊称）"
+}
+]
+},
+{
+"word": "speak",
+"phonetic0": "spiːk",
+"phonetic1": "spiːk",
+"trans": [
+{
+"pos": "vi.",
+"cn": "说话；演讲；表明"
+},
+{
+"pos": "vt.",
+"cn": "讲话；发言；讲演"
+}
+]
+},
+{
+"word": "may",
+"phonetic0": "meɪ",
+"phonetic1": "meɪ",
+"trans": [
+{
+"pos": "aux.",
+"cn": "可以，能够；可能，也许；祝，愿"
+}
+]
+},
+{
+"word": "come to school",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "来上学；来学校；来校"
+}
+]
+},
+{
+"word": "fever",
+"phonetic0": "ˈfiːvə(r)",
+"phonetic1": "ˈfiːvər",
+"trans": [
+{
+"pos": "n.",
+"cn": "发烧，发热；狂热"
+},
+{
+"pos": "vt.",
+"cn": "使发烧；使狂热；使患热病"
+},
+{
+"pos": "vi.",
+"cn": "发烧；狂热；患热病"
+}
+]
+},
+{
+"word": "hear",
+"phonetic0": "hɪə(r)",
+"phonetic1": "hɪr",
+"trans": [
+{
+"pos": "vi.",
+"cn": "听；听见"
+},
+{
+"pos": "vt.",
+"cn": "听到，听；听说；审理"
+}
+]
+},
+{
+"word": "take care",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "v.",
+"cn": "当心；留心"
+}
+]
+},
+{
+"word": "I'm fine, thank you.",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "无"
+}
+]
+},
+{
+"word": "See you tomorrow.",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "明天见；明天再见；明儿见"
+}
+]
+},
+{
+"word": "See you.",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "再见；回头见；回见"
+}
+]
+},
+{
+"word": "cough",
+"phonetic0": "kɒf",
+"phonetic1": "kɔːf",
+"trans": [
+{
+"pos": "n.",
+"cn": "咳嗽，咳嗽声；咳嗽病"
+},
+{
+"pos": "vt.",
+"cn": "咳出"
+},
+{
+"pos": "vi.",
+"cn": "咳嗽"
+}
+]
+},
+{
+"word": "headache",
+"phonetic0": "ˈhedeɪk",
+"phonetic1": "ˈhedeɪk",
+"trans": [
+{
+"pos": "n.",
+"cn": "头痛；麻烦；令人头痛之事"
+}
+]
+},
+{
+"word": "Not so good.",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "不怎么好；不太好；不是很好"
+}
+]
+},
+{
+"word": "at school",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "na.",
+"cn": "在学校；在上课；在求学"
+}
+]
+}
+]
+}

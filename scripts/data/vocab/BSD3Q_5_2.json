@@ -1,0 +1,1143 @@
+{
+"name": "北师大版三起·五年级下册词表",
+"enName": "bsd3q-5-2",
+"words": [
+{
+"word": "day",
+"phonetic0": "deɪ",
+"phonetic1": "deɪ",
+"trans": [
+{
+"pos": "n.",
+"cn": "一天；时期；白昼"
+},
+{
+"pos": "adj.",
+"cn": "日间的；逐日的"
+},
+{
+"pos": "adv.",
+"cn": "每天；经常在白天地"
+}
+]
+},
+{
+"word": "week",
+"phonetic0": "wiːk",
+"phonetic1": "wiːk",
+"trans": [
+{
+"pos": "n.",
+"cn": "周，星期"
+}
+]
+},
+{
+"word": "Wednesday",
+"phonetic0": "ˈwenzdeɪ",
+"phonetic1": "ˈwenzdeɪ",
+"trans": [
+{
+"pos": "n.",
+"cn": "星期三"
+}
+]
+},
+{
+"word": "Thursday",
+"phonetic0": "ˈθɜːzdeɪ",
+"phonetic1": "ˈθɜːrzdeɪ",
+"trans": [
+{
+"pos": "n.",
+"cn": "星期四"
+}
+]
+},
+{
+"word": "Monday",
+"phonetic0": "ˈmʌndeɪ",
+"phonetic1": "ˈmʌndeɪ",
+"trans": [
+{
+"pos": "n.",
+"cn": "星期一"
+}
+]
+},
+{
+"word": "Sunday",
+"phonetic0": "ˈsʌndeɪ",
+"phonetic1": "ˈsʌndeɪ",
+"trans": [
+{
+"pos": "n.",
+"cn": "星期日；礼拜日"
+}
+]
+},
+{
+"word": "Tuesday",
+"phonetic0": "ˈtjuːzdeɪ",
+"phonetic1": "ˈtuːzdeɪ",
+"trans": [
+{
+"pos": "n.",
+"cn": "星期二"
+}
+]
+},
+{
+"word": "Friday",
+"phonetic0": "ˈfraɪdeɪ",
+"phonetic1": "ˈfraɪdeɪ",
+"trans": [
+{
+"pos": "n.",
+"cn": "星期五"
+}
+]
+},
+{
+"word": "Saturday",
+"phonetic0": "ˈsætədeɪ",
+"phonetic1": "ˈsætərdeɪ",
+"trans": [
+{
+"pos": "n.",
+"cn": "星期六"
+}
+]
+},
+{
+"word": "today",
+"phonetic0": "təˈdeɪ",
+"phonetic1": "təˈdeɪ",
+"trans": [
+{
+"pos": "n.",
+"cn": "今天；现今"
+},
+{
+"pos": "adv.",
+"cn": "今天；现今"
+}
+]
+},
+{
+"word": "every",
+"phonetic0": "ˈevri",
+"phonetic1": "ˈevri",
+"trans": [
+{
+"pos": "adj.",
+"cn": "每一的，每个的；每隔…的"
+}
+]
+},
+{
+"word": "diary",
+"phonetic0": "ˈdaɪəri",
+"phonetic1": "ˈdaɪəri",
+"trans": [
+{
+"pos": "n.",
+"cn": "日志，日记；日记簿"
+}
+]
+},
+{
+"word": "remember",
+"phonetic0": "rɪˈmembə(r)",
+"phonetic1": "rɪˈmembər",
+"trans": [
+{
+"pos": "vi.",
+"cn": "记得，记起"
+},
+{
+"pos": "vt.",
+"cn": "记得；牢记；纪念"
+}
+]
+},
+{
+"word": "all",
+"phonetic0": "ɔːl",
+"phonetic1": "ɔːl",
+"trans": [
+{
+"pos": "n.",
+"cn": "全部"
+},
+{
+"pos": "adj.",
+"cn": "全部的"
+},
+{
+"pos": "adv.",
+"cn": "全然地；越发"
+}
+]
+},
+{
+"word": "tomorrow",
+"phonetic0": "təˈmɒrəʊ",
+"phonetic1": "təˈmɑːroʊ",
+"trans": [
+{
+"pos": "n.",
+"cn": "明天；未来"
+},
+{
+"pos": "adv.",
+"cn": "明天；未来地（等于to-morrow）"
+}
+]
+},
+{
+"word": "visit",
+"phonetic0": "ˈvɪzɪt",
+"phonetic1": "ˈvɪzɪt",
+"trans": [
+{
+"pos": "n.",
+"cn": "访问；参观；逗留"
+},
+{
+"pos": "vt.",
+"cn": "访问；参观；视察"
+},
+{
+"pos": "vi.",
+"cn": "访问；暂住；闲谈"
+}
+]
+},
+{
+"word": "watch",
+"phonetic0": "wɒtʃ",
+"phonetic1": "wɑːtʃ",
+"trans": [
+{
+"pos": "n.",
+"cn": "手表；监视；守护"
+},
+{
+"pos": "vt.",
+"cn": "观察；注视；看守"
+},
+{
+"pos": "vi.",
+"cn": "观看，注视；守侯，看守"
+}
+]
+},
+{
+"word": "time",
+"phonetic0": "taɪm",
+"phonetic1": "taɪm",
+"trans": [
+{
+"pos": "n.",
+"cn": "时间；时代；次数"
+},
+{
+"pos": "adj.",
+"cn": "定时的；定期的；分期的"
+},
+{
+"pos": "vt.",
+"cn": "计时；测定…的时间；安排…的速度"
+}
+]
+},
+{
+"word": "... o'clock",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "abbr.",
+"cn": "…点钟（等于of the clock）"
+}
+]
+},
+{
+"word": "hurry",
+"phonetic0": "ˈhʌri",
+"phonetic1": "ˈhɜːri",
+"trans": [
+{
+"pos": "n.",
+"cn": "匆忙，急忙"
+},
+{
+"pos": "v.",
+"cn": "仓促（做某事）；催促；（朝某方向）迅速移动"
+}
+]
+},
+{
+"word": "early",
+"phonetic0": "ˈɜːli",
+"phonetic1": "ˈɜːrli",
+"trans": [
+{
+"pos": "adj.",
+"cn": "早期的；早熟的"
+},
+{
+"pos": "adv.",
+"cn": "提早；在初期"
+}
+]
+},
+{
+"word": "late",
+"phonetic0": "leɪt",
+"phonetic1": "leɪt",
+"trans": [
+{
+"pos": "adj.",
+"cn": "晚的；迟的；已故的"
+},
+{
+"pos": "adv.",
+"cn": "晚；迟；最近"
+}
+]
+},
+{
+"word": "know",
+"phonetic0": "nəʊ",
+"phonetic1": "noʊ",
+"trans": [
+{
+"pos": "vt.",
+"cn": "知道；认识；懂得"
+},
+{
+"pos": "vi.",
+"cn": "了解；熟悉；确信"
+}
+]
+},
+{
+"word": "fix",
+"phonetic0": "fɪks",
+"phonetic1": "fɪks",
+"trans": [
+{
+"pos": "n.",
+"cn": "困境；方位；贿赂"
+},
+{
+"pos": "vt.",
+"cn": "使固定；修理；安装"
+},
+{
+"pos": "vi.",
+"cn": "固定；注视"
+}
+]
+},
+{
+"word": "tell",
+"phonetic0": "tel",
+"phonetic1": "tel",
+"trans": [
+{
+"pos": "vt.",
+"cn": "告诉，说；辨别；吩咐"
+},
+{
+"pos": "vi.",
+"cn": "讲述；告发，泄密；识别"
+}
+]
+},
+{
+"word": "night",
+"phonetic0": "naɪt",
+"phonetic1": "naɪt",
+"trans": [
+{
+"pos": "n.",
+"cn": "夜晚，晚上；黑暗，黑夜"
+},
+{
+"pos": "adj.",
+"cn": "夜晚的，夜间的"
+}
+]
+},
+{
+"word": "afternoon",
+"phonetic0": "ˌɑːftəˈnuːn",
+"phonetic1": "ˌæftərˈnuːn",
+"trans": [
+{
+"pos": "n.",
+"cn": "午后，下午"
+}
+]
+},
+{
+"word": "evening",
+"phonetic0": "ˈiːvnɪŋ",
+"phonetic1": "ˈiːvnɪŋ",
+"trans": [
+{
+"pos": "n.",
+"cn": "晚上；傍晚；（联欢性的）晚会"
+},
+{
+"pos": "adj.",
+"cn": "在晚上的；为晚上的；晚上用的"
+},
+{
+"pos": "int.",
+"cn": "晚上好（等于good evening）"
+}
+]
+},
+{
+"word": "morning",
+"phonetic0": "ˈmɔːnɪŋ",
+"phonetic1": "ˈmɔːrnɪŋ",
+"trans": [
+{
+"pos": "n.",
+"cn": "早晨；黎明；初期"
+}
+]
+},
+{
+"word": "space",
+"phonetic0": "speɪs",
+"phonetic1": "speɪs",
+"trans": [
+{
+"pos": "n.",
+"cn": "空间；太空；距离"
+},
+{
+"pos": "vt.",
+"cn": "隔开"
+},
+{
+"pos": "vi.",
+"cn": "留间隔"
+}
+]
+},
+{
+"word": "ask",
+"phonetic0": "ɑːsk",
+"phonetic1": "æsk",
+"trans": [
+{
+"pos": "vt.",
+"cn": "问，询问；要求；需要"
+},
+{
+"pos": "vi.",
+"cn": "问，询问；要求"
+}
+]
+},
+{
+"word": "him",
+"phonetic0": "hɪm",
+"phonetic1": "hɪm",
+"trans": [
+{
+"pos": "pron.",
+"cn": "他（宾格）"
+}
+]
+},
+{
+"word": "question",
+"phonetic0": "ˈkwestʃən",
+"phonetic1": "ˈkwestʃən",
+"trans": [
+{
+"pos": "n.",
+"cn": "问题，疑问；询问；疑问句"
+},
+{
+"pos": "vt.",
+"cn": "询问；怀疑；审问"
+},
+{
+"pos": "vi.",
+"cn": "询问"
+}
+]
+},
+{
+"word": "when",
+"phonetic0": "wen",
+"phonetic1": "wen",
+"trans": [
+{
+"pos": "conj.",
+"cn": "考虑到；既然；当…时"
+},
+{
+"pos": "n.",
+"cn": "时间，时候；日期；场合"
+},
+{
+"pos": "adv.",
+"cn": "什么时候，何时；（用于时间的表达方式之后）在那时；其时"
+}
+]
+},
+{
+"word": "get up",
+"phonetic0": "ɡet ʌp",
+"phonetic1": "ɡet ʌp",
+"trans": [
+{
+"pos": "na.",
+"cn": "起床；起身；站起来"
+}
+]
+},
+{
+"word": "always",
+"phonetic0": "ˈɔːlweɪz",
+"phonetic1": "ˈɔːlweɪz",
+"trans": [
+{
+"pos": "adv.",
+"cn": "永远，一直；总是；常常"
+}
+]
+},
+{
+"word": "often",
+"phonetic0": "ˈɒf(ə)n",
+"phonetic1": "ˈɔːf(ə)n",
+"trans": [
+{
+"pos": "adv.",
+"cn": "常常，时常"
+}
+]
+},
+{
+"word": "breakfast",
+"phonetic0": "ˈbrekfəst",
+"phonetic1": "ˈbrekfəst",
+"trans": [
+{
+"pos": "n.",
+"cn": "早餐；早饭"
+},
+{
+"pos": "vt.",
+"cn": "为…供应早餐"
+},
+{
+"pos": "vi.",
+"cn": "吃早餐"
+}
+]
+},
+{
+"word": "sometimes",
+"phonetic0": "ˈsʌmtaɪmz",
+"phonetic1": "ˈsʌmtaɪmz",
+"trans": [
+{
+"pos": "adv.",
+"cn": "有时，间或"
+}
+]
+},
+{
+"word": "meat",
+"phonetic0": "miːt",
+"phonetic1": "miːt",
+"trans": [
+{
+"pos": "n.",
+"cn": "肉，肉类（食用）"
+}
+]
+},
+{
+"word": "newspaper",
+"phonetic0": "ˈnjuːzpeɪpə(r)",
+"phonetic1": "ˈnuːzpeɪpər",
+"trans": [
+{
+"pos": "n.",
+"cn": "报纸"
+},
+{
+"pos": "",
+"cn": "报社"
+},
+{
+"pos": "",
+"cn": "旧报纸"
+}
+]
+},
+{
+"word": "exercise",
+"phonetic0": "ˈeksəsaɪz",
+"phonetic1": "ˈeksərsaɪz",
+"trans": [
+{
+"pos": "n.",
+"cn": "运动；练习；运用"
+},
+{
+"pos": "vt.",
+"cn": "锻炼；练习；使用"
+},
+{
+"pos": "vi.",
+"cn": "运动；练习"
+}
+]
+},
+{
+"word": "lunch",
+"phonetic0": "lʌntʃ",
+"phonetic1": "lʌntʃ",
+"trans": [
+{
+"pos": "n.",
+"cn": "午餐"
+},
+{
+"pos": "vt.",
+"cn": "吃午餐；供给午餐"
+},
+{
+"pos": "vi.",
+"cn": "吃午餐；供给午餐"
+}
+]
+},
+{
+"word": "never",
+"phonetic0": "ˈnevə(r)",
+"phonetic1": "ˈnevər",
+"trans": [
+{
+"pos": "adv.",
+"cn": "从未；决不"
+}
+]
+},
+{
+"word": "activity",
+"phonetic0": "ækˈtɪvəti",
+"phonetic1": "ækˈtɪvəti",
+"trans": [
+{
+"pos": "n.",
+"cn": "活动；行动；活跃"
+}
+]
+},
+{
+"word": "museum",
+"phonetic0": "mjuˈziːəm",
+"phonetic1": "mjuˈziːəm",
+"trans": [
+{
+"pos": "n.",
+"cn": "博物馆"
+}
+]
+},
+{
+"word": "dinosaur",
+"phonetic0": "ˈdaɪnəsɔː(r)",
+"phonetic1": "ˈdaɪnəsɔːr",
+"trans": [
+{
+"pos": "n.",
+"cn": "恐龙；过时、落伍的人或事物"
+}
+]
+},
+{
+"word": "film",
+"phonetic0": "fɪlm",
+"phonetic1": "fɪlm",
+"trans": [
+{
+"pos": "n.",
+"cn": "电影；薄膜；胶卷"
+},
+{
+"pos": "vt.",
+"cn": "在…上覆以薄膜；把…拍成电影"
+},
+{
+"pos": "vi.",
+"cn": "摄制电影；生薄膜；变得朦胧"
+}
+]
+},
+{
+"word": "shall",
+"phonetic0": "ʃəl",
+"phonetic1": "ʃəl",
+"trans": [
+{
+"pos": "aux.",
+"cn": "应；会；将"
+}
+]
+},
+{
+"word": "let's",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "让我们（let us的简写）"
+}
+]
+},
+{
+"word": "homework",
+"phonetic0": "ˈhəʊmwɜːk",
+"phonetic1": "ˈhoʊmwɜːrk",
+"trans": [
+{
+"pos": "n.",
+"cn": "家庭作业，课外作业"
+}
+]
+},
+{
+"word": "group",
+"phonetic0": "ɡruːp",
+"phonetic1": "ɡruːp",
+"trans": [
+{
+"pos": "n.",
+"cn": "组；团体"
+},
+{
+"pos": "adj.",
+"cn": "群的；团体的"
+},
+{
+"pos": "vt.",
+"cn": "把…聚集；把…分组"
+}
+]
+},
+{
+"word": "about",
+"phonetic0": "əˈbaʊt",
+"phonetic1": "əˈbaʊt",
+"trans": [
+{
+"pos": "prep.",
+"cn": "关于；大约"
+},
+{
+"pos": "n.",
+"cn": "大致；粗枝大叶；不拘小节的人"
+},
+{
+"pos": "adj.",
+"cn": "在附近的；四处走动的；在起作用的"
+}
+]
+},
+{
+"word": "enough",
+"phonetic0": "ɪˈnʌf",
+"phonetic1": "ɪˈnʌf",
+"trans": [
+{
+"pos": "n.",
+"cn": "很多；充足"
+},
+{
+"pos": "adj.",
+"cn": "充足的"
+},
+{
+"pos": "adv.",
+"cn": "足够地，充足地"
+}
+]
+},
+{
+"word": "free",
+"phonetic0": "friː",
+"phonetic1": "friː",
+"trans": [
+{
+"pos": "adj.",
+"cn": "免费的；自由的，不受约束的；[化学] 游离的"
+},
+{
+"pos": "vt.",
+"cn": "使自由，解放；释放"
+},
+{
+"pos": "adv.",
+"cn": "自由地；免费"
+}
+]
+},
+{
+"word": "by bus",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "na.",
+"cn": "乘公共汽车"
+}
+]
+},
+{
+"word": "close",
+"phonetic0": "kləʊz",
+"phonetic1": "kloʊz",
+"trans": [
+{
+"pos": "n.",
+"cn": "结束"
+},
+{
+"pos": "adj.",
+"cn": "紧密的；亲密的；亲近的"
+},
+{
+"pos": "vt.",
+"cn": "关；结束；使靠近"
+}
+]
+},
+{
+"word": "by bike",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "骑自行车；骑车；骑单车"
+}
+]
+},
+{
+"word": "buy",
+"phonetic0": "baɪ",
+"phonetic1": "baɪ",
+"trans": [
+{
+"pos": "n.",
+"cn": "购买，买卖；所购的物品"
+},
+{
+"pos": "vi.",
+"cn": "买，采购"
+},
+{
+"pos": "vt.",
+"cn": "购买；获得；贿赂"
+}
+]
+},
+{
+"word": "robot",
+"phonetic0": "ˈrəʊbɒt",
+"phonetic1": "ˈroʊbɑːt",
+"trans": [
+{
+"pos": "n.",
+"cn": "机器人；遥控设备，自动机械；机械般工作的人"
+}
+]
+},
+{
+"word": "by car",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "na.",
+"cn": "乘电车；乘汽车"
+}
+]
+},
+{
+"word": "on foot",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "na.",
+"cn": "步行；在进行中；徒步"
+}
+]
+},
+{
+"word": "by taxi",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "乘出租车；坐出租车；打的"
+}
+]
+},
+{
+"word": "weather",
+"phonetic0": "ˈweðə(r)",
+"phonetic1": "ˈweðər",
+"trans": [
+{
+"pos": "n.",
+"cn": "天气；气象；气候"
+},
+{
+"pos": "vt.",
+"cn": "经受住；使风化；侵蚀"
+},
+{
+"pos": "adj.",
+"cn": "露天的；迎风的"
+}
+]
+},
+{
+"word": "rainy",
+"phonetic0": "ˈreɪni",
+"phonetic1": "ˈreɪni",
+"trans": [
+{
+"pos": "adj.",
+"cn": "下雨的；多雨的"
+}
+]
+},
+{
+"word": "sunny",
+"phonetic0": "ˈsʌni",
+"phonetic1": "ˈsʌni",
+"trans": [
+{
+"pos": "adj.",
+"cn": "阳光充足的，和煦的；快活的；性情开朗的"
+}
+]
+},
+{
+"word": "cloudy",
+"phonetic0": "ˈklaʊdi",
+"phonetic1": "ˈklaʊdi",
+"trans": [
+{
+"pos": "adj.",
+"cn": "多云的；阴天的；愁容满面的"
+}
+]
+},
+{
+"word": "snowy",
+"phonetic0": "ˈsnəʊi",
+"phonetic1": "ˈsnoʊi",
+"trans": [
+{
+"pos": "adj.",
+"cn": "下雪的，多雪的；被雪覆盖的；洁白无瑕的"
+}
+]
+},
+{
+"word": "farm",
+"phonetic0": "fɑːm",
+"phonetic1": "fɑːrm",
+"trans": [
+{
+"pos": "n.",
+"cn": "农场；农家；畜牧场"
+},
+{
+"pos": "vt.",
+"cn": "养殖；耕种；佃出（土地）"
+},
+{
+"pos": "vi.",
+"cn": "种田，务农；经营农场"
+}
+]
+},
+{
+"word": "dark",
+"phonetic0": "dɑːk",
+"phonetic1": "dɑːrk",
+"trans": [
+{
+"pos": "n.",
+"cn": "黑暗；夜；黄昏"
+},
+{
+"pos": "adj.",
+"cn": "黑暗的，深色的；模糊的；无知的"
+}
+]
+},
+{
+"word": "cloud",
+"phonetic0": "klaʊd",
+"phonetic1": "klaʊd",
+"trans": [
+{
+"pos": "n.",
+"cn": "云；阴云；云状物"
+},
+{
+"pos": "vt.",
+"cn": "使混乱；以云遮敝；使忧郁"
+},
+{
+"pos": "vi.",
+"cn": "阴沉；乌云密布"
+}
+]
+},
+{
+"word": "rain",
+"phonetic0": "reɪn",
+"phonetic1": "reɪn",
+"trans": [
+{
+"pos": "n.",
+"cn": "雨；下雨；雨天"
+},
+{
+"pos": "vt.",
+"cn": "大量地给；使大量落下"
+},
+{
+"pos": "vi.",
+"cn": "下雨；降雨"
+}
+]
+},
+{
+"word": "weather report",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "na.",
+"cn": "气象通报；天气预报"
+}
+]
+},
+{
+"word": "scared",
+"phonetic0": "skeəd",
+"phonetic1": "skerd",
+"trans": [
+{
+"pos": "v.",
+"cn": "使害怕（scare的过去分词）"
+},
+{
+"pos": "adj.",
+"cn": "害怕的"
+}
+]
+},
+{
+"word": "fun",
+"phonetic0": "fʌn",
+"phonetic1": "fʌn",
+"trans": [
+{
+"pos": "n.",
+"cn": "乐趣；玩笑；有趣的人或事"
+},
+{
+"pos": "adj.",
+"cn": "供娱乐用的"
+},
+{
+"pos": "vi.",
+"cn": "开玩笑"
+}
+]
+},
+{
+"word": "windy",
+"phonetic0": "ˈwɪndi",
+"phonetic1": "ˈwɪndi",
+"trans": [
+{
+"pos": "adj.",
+"cn": "多风的，有风的；腹胀的；吹牛的"
+}
+]
+},
+{
+"word": "warm",
+"phonetic0": "wɔːm",
+"phonetic1": "wɔːrm",
+"trans": [
+{
+"pos": "n.",
+"cn": "取暖；加热"
+},
+{
+"pos": "adj.",
+"cn": "温暖的；热情的"
+},
+{
+"pos": "vt.",
+"cn": "使…兴奋；使…温暖；使…感兴趣"
+}
+]
+},
+{
+"word": "coat",
+"phonetic0": "kəʊt",
+"phonetic1": "koʊt",
+"trans": [
+{
+"pos": "n.",
+"cn": "外套"
+},
+{
+"pos": "vt.",
+"cn": "覆盖…的表面"
+}
+]
+},
+{
+"word": "sunglasses",
+"phonetic0": "ˈsʌnɡlɑːsɪz",
+"phonetic1": "ˈsʌnɡlæsɪz",
+"trans": [
+{
+"pos": "n.",
+"cn": "太阳镜；凸透镜（sunglass的复数）"
+}
+]
+}
+]
+}

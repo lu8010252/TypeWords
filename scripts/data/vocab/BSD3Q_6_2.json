@@ -1,0 +1,700 @@
+{
+"name": "北师大版三起·六年级下册词表",
+"enName": "bsd3q-6-2",
+"words": [
+{
+"word": "vacation",
+"phonetic0": "veɪˈkeɪʃn",
+"phonetic1": "veɪˈkeɪʃn",
+"trans": [
+{
+"pos": "n.",
+"cn": "假期；（房屋）搬出"
+},
+{
+"pos": "vi.",
+"cn": "休假，度假"
+}
+]
+},
+{
+"word": "travel",
+"phonetic0": "ˈtræv(ə)l",
+"phonetic1": "ˈtrævl",
+"trans": [
+{
+"pos": "n.",
+"cn": "旅行；游历；漫游"
+},
+{
+"pos": "vt.",
+"cn": "经过；在…旅行"
+},
+{
+"pos": "vi.",
+"cn": "旅行；行进；步行"
+}
+]
+},
+{
+"word": "traveled",
+"phonetic0": "ˈtræv(ə)ld",
+"phonetic1": "ˈtrævld",
+"trans": [
+{
+"pos": "adj.",
+"cn": "富有旅行经验的；旅客多的；旅客使用的"
+},
+{
+"pos": "v.",
+"cn": "旅行（travel的过去分词）"
+}
+]
+},
+{
+"word": "housework",
+"phonetic0": "ˈhaʊswɜːk",
+"phonetic1": "ˈhaʊswɜːrk",
+"trans": [
+{
+"pos": "n.",
+"cn": "家务事"
+}
+]
+},
+{
+"word": "over",
+"phonetic0": "ˈəʊvə(r)",
+"phonetic1": "ˈoʊvər",
+"trans": [
+{
+"pos": "adv.",
+"cn": "结束；越过；从头到尾"
+},
+{
+"pos": "prep.",
+"cn": "越过；在…之上；遍于…之上"
+},
+{
+"pos": "adj.",
+"cn": "结束的；上面的"
+}
+]
+},
+{
+"word": "trip",
+"phonetic0": "trɪp",
+"phonetic1": "trɪp",
+"trans": [
+{
+"pos": "n.",
+"cn": "旅行；绊倒；差错"
+},
+{
+"pos": "vt.",
+"cn": "绊倒；使犯错"
+},
+{
+"pos": "vi.",
+"cn": "绊倒；远足；犯错误"
+}
+]
+},
+{
+"word": "London",
+"phonetic0": "ˈlʌndən",
+"phonetic1": "ˈlʌndən",
+"trans": [
+{
+"pos": "n.",
+"cn": "伦敦"
+}
+]
+},
+{
+"word": "exciting",
+"phonetic0": "ɪkˈsaɪtɪŋ",
+"phonetic1": "ɪkˈsaɪtɪŋ",
+"trans": [
+{
+"pos": "adj.",
+"cn": "令人兴奋的；使人激动的"
+},
+{
+"pos": "v.",
+"cn": "激动；刺激（excite的ing形式）；唤起"
+}
+]
+},
+{
+"word": "photo",
+"phonetic0": "ˈfəʊtəʊ",
+"phonetic1": "ˈfoʊtoʊ",
+"trans": [
+{
+"pos": "n.",
+"cn": "照片"
+}
+]
+},
+{
+"word": "tour",
+"phonetic0": "tʊə(r)",
+"phonetic1": "tʊr",
+"trans": [
+{
+"pos": "n.",
+"cn": "旅游，旅行；巡回演出"
+},
+{
+"pos": "vt.",
+"cn": "旅行，在……旅游；在……作巡回演出"
+},
+{
+"pos": "vi.",
+"cn": "旅行，旅游；作巡回演出"
+}
+]
+},
+{
+"word": "top",
+"phonetic0": "tɒp",
+"phonetic1": "tɑːp",
+"trans": [
+{
+"pos": "n.",
+"cn": "顶部，顶端；上部；首席"
+},
+{
+"pos": "adj.",
+"cn": "最高的，顶上的；头等的"
+},
+{
+"pos": "vt.",
+"cn": "超越，超过；给…加盖；达到…的顶端"
+}
+]
+},
+{
+"word": "special",
+"phonetic0": "ˈspeʃ(ə)l",
+"phonetic1": "ˈspeʃl",
+"trans": [
+{
+"pos": "n.",
+"cn": "特使，特派人员；特刊；特色菜"
+},
+{
+"pos": "adj.",
+"cn": "特别的；专门的，专用的"
+}
+]
+},
+{
+"word": "bring",
+"phonetic0": "brɪŋ",
+"phonetic1": "brɪŋ",
+"trans": [
+{
+"pos": "vt.",
+"cn": "带来；促使；引起"
+}
+]
+},
+{
+"word": "brought",
+"phonetic0": "brɔːt",
+"phonetic1": "brɔːt",
+"trans": [
+{
+"pos": "v.",
+"cn": "带来（bring的过去分词）"
+}
+]
+},
+{
+"word": "weekend",
+"phonetic0": "ˌwiːkˈend",
+"phonetic1": "ˈwiːkend",
+"trans": [
+{
+"pos": "n.",
+"cn": "周末，周末休假；周末聚会"
+},
+{
+"pos": "adj.",
+"cn": "周末的，周末用的"
+},
+{
+"pos": "vi.",
+"cn": "度周末"
+}
+]
+},
+{
+"word": "read",
+"phonetic0": "riːd",
+"phonetic1": "riːd",
+"trans": [
+{
+"pos": "n.",
+"cn": "阅读；读物"
+},
+{
+"pos": "adj.",
+"cn": "有学问的"
+},
+{
+"pos": "vi.",
+"cn": "读；读起来"
+}
+]
+},
+{
+"word": "write",
+"phonetic0": "raɪt",
+"phonetic1": "raɪt",
+"trans": [
+{
+"pos": "vi.",
+"cn": "写，写字；写作，作曲；写信"
+},
+{
+"pos": "vt.",
+"cn": "写，书写；写信给；著述"
+}
+]
+},
+{
+"word": "wrote",
+"phonetic0": "rəʊt",
+"phonetic1": "roʊt",
+"trans": [
+{
+"pos": "v.",
+"cn": "写（write的过去式）"
+}
+]
+},
+{
+"word": "concert",
+"phonetic0": "ˈkɒnsət",
+"phonetic1": "ˈkɑːnsərt",
+"trans": [
+{
+"pos": "n.",
+"cn": "音乐会；一致；和谐"
+},
+{
+"pos": "adj.",
+"cn": "音乐会用的；在音乐会上演出的"
+},
+{
+"pos": "vt.",
+"cn": "使协调；协同安排"
+}
+]
+},
+{
+"word": "program",
+"phonetic0": "ˈprəʊɡræm",
+"phonetic1": "ˈproʊɡræm",
+"trans": [
+{
+"pos": "n.",
+"cn": "程序；计划；大纲"
+},
+{
+"pos": "vt.",
+"cn": "用程序指令；为…制订计划；为…安排节目"
+},
+{
+"pos": "vi.",
+"cn": "编程序；安排节目；设计电脑程式"
+}
+]
+},
+{
+"word": "piano",
+"phonetic0": "piˈænəʊ",
+"phonetic1": "piˈænoʊ",
+"trans": [
+{
+"pos": "n.",
+"cn": "钢琴"
+}
+]
+},
+{
+"word": "drum",
+"phonetic0": "drʌm",
+"phonetic1": "drʌm",
+"trans": [
+{
+"pos": "n.",
+"cn": "鼓；鼓声"
+},
+{
+"pos": "vi.",
+"cn": "击鼓；大力争取"
+},
+{
+"pos": "vt.",
+"cn": "击鼓；大力争取"
+}
+]
+},
+{
+"word": "guitar",
+"phonetic0": "ɡɪˈtɑː(r)",
+"phonetic1": "ɡɪˈtɑːr",
+"trans": [
+{
+"pos": "n.",
+"cn": "吉他，六弦琴"
+},
+{
+"pos": "vi.",
+"cn": "弹吉他"
+}
+]
+},
+{
+"word": "flute",
+"phonetic0": "fluːt",
+"phonetic1": "fluːt",
+"trans": [
+{
+"pos": "n.",
+"cn": "长笛；【工程设计】(刀具的)出屑槽"
+},
+{
+"pos": "vt.",
+"cn": "用长笛吹奏"
+},
+{
+"pos": "vi.",
+"cn": "吹长笛"
+}
+]
+},
+{
+"word": "will",
+"phonetic0": "wɪl",
+"phonetic1": "wɪl",
+"trans": [
+{
+"pos": "n.",
+"cn": "意志；决心；情感"
+},
+{
+"pos": "vt.",
+"cn": "决心要；遗赠；用意志力使"
+},
+{
+"pos": "vi.",
+"cn": "愿意；下决心"
+}
+]
+},
+{
+"word": "wonderful",
+"phonetic0": "ˈwʌndəf(ə)l",
+"phonetic1": "ˈwʌndərf(ə)l",
+"trans": [
+{
+"pos": "adj.",
+"cn": "极好的，精彩的，绝妙的；奇妙的；美妙"
+}
+]
+},
+{
+"word": "begin",
+"phonetic0": "bɪˈɡɪn",
+"phonetic1": "bɪˈɡɪn",
+"trans": [
+{
+"pos": "vi.",
+"cn": "开始；首先"
+},
+{
+"pos": "vt.",
+"cn": "开始"
+}
+]
+},
+{
+"word": "soon",
+"phonetic0": "suːn",
+"phonetic1": "suːn",
+"trans": [
+{
+"pos": "adv.",
+"cn": "快；不久，一会儿；立刻"
+}
+]
+},
+{
+"word": "tonight",
+"phonetic0": "təˈnaɪt",
+"phonetic1": "təˈnaɪt",
+"trans": [
+{
+"pos": "n.",
+"cn": "今晚"
+},
+{
+"pos": "adv.",
+"cn": "在今晚"
+}
+]
+},
+{
+"word": "worried",
+"phonetic0": "ˈwʌrid",
+"phonetic1": "ˈwɜːrid",
+"trans": [
+{
+"pos": "adj.",
+"cn": "担心的"
+}
+]
+},
+{
+"word": "violin",
+"phonetic0": "ˌvaɪəˈlɪn",
+"phonetic1": "ˌvaɪəˈlɪn",
+"trans": [
+{
+"pos": "n.",
+"cn": "小提琴；小提琴手"
+}
+]
+},
+{
+"word": "year",
+"phonetic0": "jɪə(r)",
+"phonetic1": "jɪr",
+"trans": [
+{
+"pos": "n.",
+"cn": "年；年度；历年"
+}
+]
+},
+{
+"word": "live",
+"phonetic0": "lɪv",
+"phonetic1": "lɪv",
+"trans": [
+{
+"pos": "adj.",
+"cn": "活的；生动的；实况转播的"
+},
+{
+"pos": "vt.",
+"cn": "经历；度过"
+},
+{
+"pos": "vi.",
+"cn": "活；居住；生存"
+}
+]
+},
+{
+"word": "people",
+"phonetic0": "ˈpiːp(ə)l",
+"phonetic1": "ˈpiːpl",
+"trans": [
+{
+"pos": "n.",
+"cn": "人；人类；民族"
+},
+{
+"pos": "vt.",
+"cn": "居住于；使住满人"
+}
+]
+},
+{
+"word": "think",
+"phonetic0": "θɪŋk",
+"phonetic1": "θɪŋk",
+"trans": [
+{
+"pos": "n.",
+"cn": "想；想法"
+},
+{
+"pos": "adj.",
+"cn": "思想的"
+},
+{
+"pos": "vi.",
+"cn": "想；认为"
+}
+]
+},
+{
+"word": "life",
+"phonetic0": "laɪf",
+"phonetic1": "laɪf",
+"trans": [
+{
+"pos": "n.",
+"cn": "生活，生存；寿命"
+}
+]
+},
+{
+"word": "hard",
+"phonetic0": "hɑːd",
+"phonetic1": "hɑːrd",
+"trans": [
+{
+"pos": "adj.",
+"cn": "努力的；硬的；困难的"
+},
+{
+"pos": "adv.",
+"cn": "努力地；困难地；辛苦地"
+}
+]
+},
+{
+"word": "happen",
+"phonetic0": "ˈhæpən",
+"phonetic1": "ˈhæpən",
+"trans": [
+{
+"pos": "vi.",
+"cn": "发生；碰巧；偶然遇到"
+}
+]
+},
+{
+"word": "future",
+"phonetic0": "ˈfjuːtʃə(r)",
+"phonetic1": "ˈfjuːtʃər",
+"trans": [
+{
+"pos": "n.",
+"cn": "未来；前途；期货"
+},
+{
+"pos": "adj.",
+"cn": "将来的，未来的"
+}
+]
+},
+{
+"word": "everything",
+"phonetic0": "ˈevriθɪŋ",
+"phonetic1": "ˈevriθɪŋ",
+"trans": [
+{
+"pos": "pron.",
+"cn": "每件事物；最重要的东西；（有关的）一切"
+}
+]
+},
+{
+"word": "more",
+"phonetic0": "mɔː(r)",
+"phonetic1": "mɔːr",
+"trans": [
+{
+"pos": "adv.",
+"cn": "更多；此外；更大程度地"
+},
+{
+"pos": "adj.",
+"cn": "更多的；附加的"
+},
+{
+"pos": "pron.",
+"cn": "更多的数量"
+}
+]
+},
+{
+"word": "better",
+"phonetic0": "ˈbetə(r)",
+"phonetic1": "ˈbetər",
+"trans": [
+{
+"pos": "n.",
+"cn": "长辈；较好者；打赌的人（等于bettor）"
+},
+{
+"pos": "adj.",
+"cn": "较好的"
+},
+{
+"pos": "vt.",
+"cn": "改善；胜过"
+}
+]
+},
+{
+"word": "dirty",
+"phonetic0": "ˈdɜːti",
+"phonetic1": "ˈdɜːrti",
+"trans": [
+{
+"pos": "adj.",
+"cn": "下流的，卑鄙的；肮脏的；恶劣的"
+},
+{
+"pos": "vt.",
+"cn": "弄脏"
+},
+{
+"pos": "vi.",
+"cn": "变脏"
+}
+]
+},
+{
+"word": "terrible",
+"phonetic0": "ˈterəb(ə)l",
+"phonetic1": "ˈterəbl",
+"trans": [
+{
+"pos": "adj.",
+"cn": "可怕的；很糟的；令人讨厌的"
+},
+{
+"pos": "adv.",
+"cn": "很，非常"
+}
+]
+},
+{
+"word": "believe",
+"phonetic0": "bɪˈliːv",
+"phonetic1": "bɪˈliːv",
+"trans": [
+{
+"pos": "vi.",
+"cn": "信任；料想；笃信宗教"
+},
+{
+"pos": "vt.",
+"cn": "相信；认为；信任"
+}
+]
+},
+{
+"word": "sea",
+"phonetic0": "siː",
+"phonetic1": "siː",
+"trans": [
+{
+"pos": "n.",
+"cn": "海；海洋；许多"
+}
+]
+}
+]
+}

@@ -1,0 +1,991 @@
+{
+"name": "牛津上海版·三年级下册词表",
+"enName": "njsh-3-2",
+"words": [
+{
+"word": "aeroplane",
+"phonetic0": "ˈeərəpleɪn",
+"phonetic1": "ˈerəpleɪn",
+"trans": [
+{
+"pos": "n.",
+"cn": "飞机（等于airplane）"
+}
+]
+},
+{
+"word": "bus",
+"phonetic0": "bʌs",
+"phonetic1": "bʌs",
+"trans": [
+{
+"pos": "n.",
+"cn": "公共汽车"
+},
+{
+"pos": "",
+"cn": "乘公共汽车"
+}
+]
+},
+{
+"word": "ship",
+"phonetic0": "ʃɪp",
+"phonetic1": "ʃɪp",
+"trans": [
+{
+"pos": "n.",
+"cn": "船；舰；太空船"
+},
+{
+"pos": "vt.",
+"cn": "运送，乘船；以船运送"
+},
+{
+"pos": "vi.",
+"cn": "上船；乘船旅行；当船员"
+}
+]
+},
+{
+"word": "car",
+"phonetic0": "kɑː(r)",
+"phonetic1": "kɑːr",
+"trans": [
+{
+"pos": "n.",
+"cn": "汽车；车厢"
+}
+]
+},
+{
+"word": "pineapple",
+"phonetic0": "ˈpaɪnæp(ə)l",
+"phonetic1": "ˈpaɪnæpl",
+"trans": [
+{
+"pos": "n.",
+"cn": "[园艺] 菠萝；[园艺] 凤梨"
+},
+{
+"pos": "adj.",
+"cn": "凤梨科的"
+}
+]
+},
+{
+"word": "cake",
+"phonetic0": "keɪk",
+"phonetic1": "keɪk",
+"trans": [
+{
+"pos": "n.",
+"cn": "蛋糕；块状物；利益总额"
+},
+{
+"pos": "vt.",
+"cn": "使结块"
+},
+{
+"pos": "vi.",
+"cn": "结成块状"
+}
+]
+},
+{
+"word": "bread",
+"phonetic0": "bred",
+"phonetic1": "bred",
+"trans": [
+{
+"pos": "n.",
+"cn": "面包；生计"
+},
+{
+"pos": "vt.",
+"cn": "在…上洒面包屑"
+}
+]
+},
+{
+"word": "glass",
+"phonetic0": "ɡlɑːs",
+"phonetic1": "ɡlæs",
+"trans": [
+{
+"pos": "n.",
+"cn": "玻璃；玻璃制品；镜子"
+},
+{
+"pos": "vt.",
+"cn": "反映；给某物加玻璃"
+},
+{
+"pos": "vi.",
+"cn": "成玻璃状"
+}
+]
+},
+{
+"word": "bag",
+"phonetic0": "bæɡ",
+"phonetic1": "bæɡ",
+"trans": [
+{
+"pos": "n.",
+"cn": "袋；猎获物；（俚）一瓶啤酒"
+},
+{
+"pos": "vt.",
+"cn": "猎获；把…装入袋中；占据，私吞"
+},
+{
+"pos": "vi.",
+"cn": "松垂"
+}
+]
+},
+{
+"word": "sweet",
+"phonetic0": "swiːt",
+"phonetic1": "swiːt",
+"trans": [
+{
+"pos": "n.",
+"cn": "糖果；乐趣；芳香"
+},
+{
+"pos": "adj.",
+"cn": "甜的；悦耳的；芳香的"
+},
+{
+"pos": "",
+"cn": "（俚）酷毙了"
+}
+]
+},
+{
+"word": "lemon",
+"phonetic0": "ˈlemən",
+"phonetic1": "ˈlemən",
+"trans": [
+{
+"pos": "adj.",
+"cn": "柠檬色的"
+},
+{
+"pos": "n.",
+"cn": "柠檬"
+}
+]
+},
+{
+"word": "sour",
+"phonetic0": "ˈsaʊə(r)",
+"phonetic1": "ˈsaʊər",
+"trans": [
+{
+"pos": "n.",
+"cn": "酸味；苦事"
+},
+{
+"pos": "adj.",
+"cn": "酸的；发酵的；刺耳的"
+},
+{
+"pos": "vt.",
+"cn": "使变酸；使失望"
+}
+]
+},
+{
+"word": "salt",
+"phonetic0": "sɔːlt",
+"phonetic1": "sɔːlt",
+"trans": [
+{
+"pos": "n.",
+"cn": "盐；风趣，刺激性"
+},
+{
+"pos": "adj.",
+"cn": "咸水的；含盐的，咸味的；盐腌的"
+},
+{
+"pos": "vt.",
+"cn": "用盐腌；给…加盐；将盐撒在道路上使冰或雪融化"
+}
+]
+},
+{
+"word": "salty",
+"phonetic0": "ˈsɔːlti",
+"phonetic1": "ˈsɔːlti",
+"trans": [
+{
+"pos": "adj.",
+"cn": "咸的；含盐的"
+}
+]
+},
+{
+"word": "coffee",
+"phonetic0": "ˈkɒfi",
+"phonetic1": "ˈkɔːfi",
+"trans": [
+{
+"pos": "n.",
+"cn": "咖啡；咖啡豆；咖啡色"
+}
+]
+},
+{
+"word": "bitter",
+"phonetic0": "ˈbɪtə(r)",
+"phonetic1": "ˈbɪtər",
+"trans": [
+{
+"pos": "n.",
+"cn": "苦味；苦啤酒"
+},
+{
+"pos": "adj.",
+"cn": "苦的；痛苦的；尖刻的"
+},
+{
+"pos": "vt.",
+"cn": "使变苦"
+}
+]
+},
+{
+"word": "tiger",
+"phonetic0": "ˈtaɪɡə(r)",
+"phonetic1": "ˈtaɪɡər",
+"trans": [
+{
+"pos": "n.",
+"cn": "老虎；凶暴的人"
+}
+]
+},
+{
+"word": "lion",
+"phonetic0": "ˈlaɪən",
+"phonetic1": "ˈlaɪən",
+"trans": [
+{
+"pos": "n.",
+"cn": "狮子；名人；勇猛的人"
+}
+]
+},
+{
+"word": "panda",
+"phonetic0": "ˈpændə",
+"phonetic1": "ˈpændə",
+"trans": [
+{
+"pos": "n.",
+"cn": "熊猫；猫熊"
+}
+]
+},
+{
+"word": "monkey",
+"phonetic0": "ˈmʌŋki",
+"phonetic1": "ˈmʌŋki",
+"trans": [
+{
+"pos": "n.",
+"cn": "猴子；顽童"
+},
+{
+"pos": "vi.",
+"cn": "胡闹；捣蛋"
+},
+{
+"pos": "vt.",
+"cn": "嘲弄"
+}
+]
+},
+{
+"word": "clever",
+"phonetic0": "ˈklevə(r)",
+"phonetic1": "ˈklevər",
+"trans": [
+{
+"pos": "adj.",
+"cn": "聪明的；机灵的；熟练的"
+},
+{
+"pos": "",
+"cn": "[ 比较级cleverer 最高级 cleverest ]"
+}
+]
+},
+{
+"word": "strong",
+"phonetic0": "strɒŋ",
+"phonetic1": "strɔːŋ",
+"trans": [
+{
+"pos": "adj.",
+"cn": "坚强的；强壮的；牢固的"
+},
+{
+"pos": "adv.",
+"cn": "强劲地；猛烈地"
+}
+]
+},
+{
+"word": "toy train",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "玩具火车；小火车；马克吐温小火车"
+}
+]
+},
+{
+"word": "doll",
+"phonetic0": "dɒl",
+"phonetic1": "dɑːl",
+"trans": [
+{
+"pos": "n.",
+"cn": "洋娃娃；玩偶；无头脑的美丽女人"
+},
+{
+"pos": "vt.",
+"cn": "把…打扮得花枝招展"
+}
+]
+},
+{
+"word": "skateboard",
+"phonetic0": "ˈskeɪtbɔːd",
+"phonetic1": "ˈskeɪtbɔːrd",
+"trans": [
+{
+"pos": "n.",
+"cn": "溜冰板"
+},
+{
+"pos": "vi.",
+"cn": "用滑板滑行"
+}
+]
+},
+{
+"word": "robot",
+"phonetic0": "ˈrəʊbɒt",
+"phonetic1": "ˈroʊbɑːt",
+"trans": [
+{
+"pos": "n.",
+"cn": "机器人；遥控设备，自动机械；机械般工作的人"
+}
+]
+},
+{
+"word": "lovely",
+"phonetic0": "ˈlʌvli",
+"phonetic1": "ˈlʌvli",
+"trans": [
+{
+"pos": "adj.",
+"cn": "可爱的；令人愉快的；爱恋的"
+},
+{
+"pos": "n.",
+"cn": "美女；可爱的东西"
+}
+]
+},
+{
+"word": "hat",
+"phonetic0": "hæt",
+"phonetic1": "hæt",
+"trans": [
+{
+"pos": "n.",
+"cn": "帽子"
+},
+{
+"pos": "vt.",
+"cn": "给……戴上帽子"
+},
+{
+"pos": "vi.",
+"cn": "供应帽子；制造帽子"
+}
+]
+},
+{
+"word": "scarf",
+"phonetic0": "skɑːf",
+"phonetic1": "skɑːrf",
+"trans": [
+{
+"pos": "n.",
+"cn": "围巾；嵌接，嵌接处；头巾领巾"
+},
+{
+"pos": "vt.",
+"cn": "披嵌接；用围巾围"
+}
+]
+},
+{
+"word": "jacket",
+"phonetic0": "ˈdʒækɪt",
+"phonetic1": "ˈdʒækɪt",
+"trans": [
+{
+"pos": "n.",
+"cn": "羽绒滑雪衫；西装短外套；短上衣，夹克"
+},
+{
+"pos": "vt.",
+"cn": "给…穿夹克；给…装护套；给…包上护封"
+}
+]
+},
+{
+"word": "a pair of gloves",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "na.",
+"cn": "一副手套"
+}
+]
+},
+{
+"word": "a pair of socks",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "无"
+}
+]
+},
+{
+"word": "a pair of shoes",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "na.",
+"cn": "一双鞋；一双鞋子"
+}
+]
+},
+{
+"word": "funny",
+"phonetic0": "ˈfʌni",
+"phonetic1": "ˈfʌni",
+"trans": [
+{
+"pos": "n.",
+"cn": "滑稽人物；笑话，有趣的故事；滑稽连环漫画栏"
+},
+{
+"pos": "adj.",
+"cn": "有趣的，好笑的，滑稽的；（口）稀奇的，古怪的，奇异的；有病的，不舒服的"
+}
+]
+},
+{
+"word": "his",
+"phonetic0": "hɪz",
+"phonetic1": "hɪz",
+"trans": [
+{
+"pos": "pron.",
+"cn": "他的"
+}
+]
+},
+{
+"word": "circle",
+"phonetic0": "ˈsɜːk(ə)l",
+"phonetic1": "ˈsɜːrkl",
+"trans": [
+{
+"pos": "n.",
+"cn": "循环，周期；圆；圈子"
+},
+{
+"pos": "vt.",
+"cn": "画圆圈；环绕…移动"
+},
+{
+"pos": "vi.",
+"cn": "盘旋，旋转；环行"
+}
+]
+},
+{
+"word": "square",
+"phonetic0": "skweə(r)",
+"phonetic1": "skwer",
+"trans": [
+{
+"pos": "n.",
+"cn": "平方；广场；正方形"
+},
+{
+"pos": "adj.",
+"cn": "平方的；正方形的；直角的"
+},
+{
+"pos": "vt.",
+"cn": "使成方形；与…一致"
+}
+]
+},
+{
+"word": "triangle",
+"phonetic0": "ˈtraɪæŋɡl",
+"phonetic1": "ˈtraɪæŋɡl",
+"trans": [
+{
+"pos": "n.",
+"cn": "三角（形）；三角关系；三角形之物"
+}
+]
+},
+{
+"word": "star",
+"phonetic0": "stɑː(r)",
+"phonetic1": "stɑːr",
+"trans": [
+{
+"pos": "n.",
+"cn": "星，恒星；明星；星形物"
+},
+{
+"pos": "adj.",
+"cn": "明星的，主角的；星形的"
+},
+{
+"pos": "vt.",
+"cn": "用星号标于；由…主演，由…担任主角"
+}
+]
+},
+{
+"word": "rectangle",
+"phonetic0": "ˈrektæŋɡl",
+"phonetic1": "ˈrektæŋɡl",
+"trans": [
+{
+"pos": "n.",
+"cn": "矩形；长方形"
+}
+]
+},
+{
+"word": "house",
+"phonetic0": "haʊs",
+"phonetic1": "haʊs",
+"trans": [
+{
+"pos": "n.",
+"cn": "住宅；家庭；机构"
+},
+{
+"pos": "vt.",
+"cn": "覆盖；给…房子住；把…储藏在房内"
+},
+{
+"pos": "vi.",
+"cn": "住"
+}
+]
+},
+{
+"word": "sky",
+"phonetic0": "skaɪ",
+"phonetic1": "skaɪ",
+"trans": [
+{
+"pos": "n.",
+"cn": "天空；顶点"
+},
+{
+"pos": "vt.",
+"cn": "把…投向空中；把…挂得过高"
+},
+{
+"pos": "vi.",
+"cn": "踢或击高空球；把桨叶翘得过高；飞涨"
+}
+]
+},
+{
+"word": "sea",
+"phonetic0": "siː",
+"phonetic1": "siː",
+"trans": [
+{
+"pos": "n.",
+"cn": "海；海洋；许多"
+}
+]
+},
+{
+"word": "mountain",
+"phonetic0": "ˈmaʊntən",
+"phonetic1": "ˈmaʊntn",
+"trans": [
+{
+"pos": "n.",
+"cn": "山；山脉"
+}
+]
+},
+{
+"word": "river",
+"phonetic0": "ˈrɪvə(r)",
+"phonetic1": "ˈrɪvər",
+"trans": [
+{
+"pos": "n.",
+"cn": "河，江"
+}
+]
+},
+{
+"word": "plant a tree",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "无"
+}
+]
+},
+{
+"word": "have a picnic",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "举行野餐；去野餐；吃野餐"
+}
+]
+},
+{
+"word": "ice-skate",
+"phonetic0": "ˈaɪs skeɪt",
+"phonetic1": "ˈaɪs skeɪt",
+"trans": [
+{
+"pos": "v.",
+"cn": "溜冰，滑冰"
+}
+]
+},
+{
+"word": "ski",
+"phonetic0": "skiː",
+"phonetic1": "skiː",
+"trans": [
+{
+"pos": "n.",
+"cn": "滑雪橇"
+},
+{
+"pos": "vi.",
+"cn": "滑雪"
+},
+{
+"pos": "adj.",
+"cn": "滑雪（用）的"
+}
+]
+},
+{
+"word": "body",
+"phonetic0": "ˈbɒdi",
+"phonetic1": "ˈbɑːdi",
+"trans": [
+{
+"pos": "n.",
+"cn": "身体；主体；大量"
+},
+{
+"pos": "vt.",
+"cn": "赋以形体"
+}
+]
+},
+{
+"word": "head",
+"phonetic0": "hed",
+"phonetic1": "hed",
+"trans": [
+{
+"pos": "n.",
+"cn": "头；头痛；上端"
+},
+{
+"pos": "adj.",
+"cn": "头的；主要的；在顶端的"
+},
+{
+"pos": "vt.",
+"cn": "前进；用头顶；作为…的首领"
+}
+]
+},
+{
+"word": "shoulder",
+"phonetic0": "ˈʃəʊldə(r)",
+"phonetic1": "ˈʃoʊldər",
+"trans": [
+{
+"pos": "n.",
+"cn": "肩，肩膀；肩部"
+},
+{
+"pos": "vi.",
+"cn": "用肩推挤，用肩顶"
+},
+{
+"pos": "vt.",
+"cn": "肩负，承担"
+}
+]
+},
+{
+"word": "arm",
+"phonetic0": "ɑːm",
+"phonetic1": "ɑːrm",
+"trans": [
+{
+"pos": "n.",
+"cn": "手臂；武器；袖子"
+},
+{
+"pos": "vt.",
+"cn": "武装；备战"
+},
+{
+"pos": "vi.",
+"cn": "武装起来"
+}
+]
+},
+{
+"word": "finger",
+"phonetic0": "ˈfɪŋɡə(r)",
+"phonetic1": "ˈfɪŋɡər",
+"trans": [
+{
+"pos": "n.",
+"cn": "手指；指针，指状物"
+},
+{
+"pos": "vt.",
+"cn": "伸出；用手指拨弄"
+},
+{
+"pos": "vi.",
+"cn": "用指触摸；拨弄"
+}
+]
+},
+{
+"word": "hand",
+"phonetic0": "hænd",
+"phonetic1": "hænd",
+"trans": [
+{
+"pos": "n.",
+"cn": "手，手艺；帮助；指针"
+},
+{
+"pos": "vt.",
+"cn": "传递，交给；支持；搀扶"
+}
+]
+},
+{
+"word": "knee",
+"phonetic0": "niː",
+"phonetic1": "niː",
+"trans": [
+{
+"pos": "n.",
+"cn": "膝盖，膝"
+},
+{
+"pos": "vt.",
+"cn": "用膝盖碰"
+}
+]
+},
+{
+"word": "leg",
+"phonetic0": "leɡ",
+"phonetic1": "leɡ",
+"trans": [
+{
+"pos": "n.",
+"cn": "腿；支柱"
+}
+]
+},
+{
+"word": "foot",
+"phonetic0": "fʊt",
+"phonetic1": "fʊt",
+"trans": [
+{
+"pos": "n.",
+"cn": "脚；英尺；步调"
+},
+{
+"pos": "vt.",
+"cn": "支付；给……换底"
+},
+{
+"pos": "vi.",
+"cn": "步行；跳舞；总计"
+}
+]
+},
+{
+"word": "feet",
+"phonetic0": "fiːt",
+"phonetic1": "fiːt",
+"trans": [
+{
+"pos": "n.",
+"cn": "脚（foot的复数形式）；尺；韵脚"
+}
+]
+},
+{
+"word": "park",
+"phonetic0": "pɑːk",
+"phonetic1": "pɑːrk",
+"trans": [
+{
+"pos": "n.",
+"cn": "公园；[交] 停车场"
+},
+{
+"pos": "vt.",
+"cn": "停放；放置；寄存"
+},
+{
+"pos": "vi.",
+"cn": "停放车辆"
+}
+]
+},
+{
+"word": "cinema",
+"phonetic0": "ˈsɪnəmə",
+"phonetic1": "ˈsɪnəmə",
+"trans": [
+{
+"pos": "n.",
+"cn": "电影；电影院；电影业，电影制作术"
+}
+]
+},
+{
+"word": "zoo",
+"phonetic0": "zuː",
+"phonetic1": "zuː",
+"trans": [
+{
+"pos": "n.",
+"cn": "动物园；<美俚>（铁路货车的最后一节）守车；<美俚>核粒子园"
+}
+]
+},
+{
+"word": "our",
+"phonetic0": "ɑː(r)",
+"phonetic1": "ɑːr",
+"trans": [
+{
+"pos": "pron.",
+"cn": "我们的"
+}
+]
+},
+{
+"word": "class",
+"phonetic0": "klɑːs",
+"phonetic1": "klæs",
+"trans": [
+{
+"pos": "n.",
+"cn": "阶级；班级；种类"
+},
+{
+"pos": "adj.",
+"cn": "极好的；很好的，优秀的，出色的"
+},
+{
+"pos": "vt.",
+"cn": "分类；把…分等级；把…归入某等级，把…看作（或分类、归类）"
+}
+]
+},
+{
+"word": "party",
+"phonetic0": "ˈpɑːti",
+"phonetic1": "ˈpɑːrti",
+"trans": [
+{
+"pos": "n.",
+"cn": "政党，党派；聚会，派对；当事人 [复数 parties]"
+},
+{
+"pos": "vi.",
+"cn": "参加社交聚会 [ 过去式 partied 过去分词 partied 现在分词 partying ]"
+}
+]
+},
+{
+"word": "take a photograph",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "un.",
+"cn": "摄影"
+}
+]
+},
+{
+"word": "parent",
+"phonetic0": "ˈpeərənt",
+"phonetic1": "ˈperənt",
+"trans": [
+{
+"pos": "n.",
+"cn": "父亲（或母亲）；父母亲；根源"
+}
+]
+}
+]
+}

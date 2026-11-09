@@ -1,0 +1,2185 @@
+{
+"name": "外研版三起·四年级上册词表",
+"enName": "wy3q-4-1",
+"words": [
+{
+"word": "straight",
+"phonetic0": "streɪt",
+"phonetic1": "streɪt",
+"trans": [
+{
+"pos": "n.",
+"cn": "直；直线；直男，直女，异性恋者"
+},
+{
+"pos": "adj.",
+"cn": "直的；连续的；笔直的"
+},
+{
+"pos": "adv.",
+"cn": "直接地；不断地；立即"
+}
+]
+},
+{
+"word": "go straight on",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "v.",
+"cn": "一直走"
+}
+]
+},
+{
+"word": "left",
+"phonetic0": "left",
+"phonetic1": "left",
+"trans": [
+{
+"pos": "adj.",
+"cn": "左边的；左派的；剩下的"
+},
+{
+"pos": "adv.",
+"cn": "在左面"
+},
+{
+"pos": "n.",
+"cn": "左边；左派；激进分子"
+}
+]
+},
+{
+"word": "right",
+"phonetic0": "raɪt",
+"phonetic1": "raɪt",
+"trans": [
+{
+"pos": "n.",
+"cn": "正确；右边；正义"
+},
+{
+"pos": "adj.",
+"cn": "正确的；直接的；右方的"
+},
+{
+"pos": "vt.",
+"cn": "纠正"
+}
+]
+},
+{
+"word": "lost",
+"phonetic0": "lɒst",
+"phonetic1": "lɔːst",
+"trans": [
+{
+"pos": "adj.",
+"cn": "失去的；丧失的；迷惑的"
+},
+{
+"pos": "v.",
+"cn": "遗失（lose的过去分词）；失败"
+}
+]
+},
+{
+"word": "live",
+"phonetic0": "lɪv",
+"phonetic1": "lɪv",
+"trans": [
+{
+"pos": "adj.",
+"cn": "活的；生动的；实况转播的"
+},
+{
+"pos": "vt.",
+"cn": "经历；度过"
+},
+{
+"pos": "vi.",
+"cn": "活；居住；生存"
+}
+]
+},
+{
+"word": "No.",
+"phonetic0": "ˈnʌmbə(r)",
+"phonetic1": "ˈnʌmbər",
+"trans": [
+{
+"pos": "adv.",
+"cn": "没有；无；并不"
+},
+{
+"pos": "int.",
+"cn": "没有；不是；不要"
+},
+{
+"pos": "adj.",
+"cn": "禁止；(一个也)没有；一点儿也没有"
+}
+]
+},
+{
+"word": "number",
+"phonetic0": "ˈnʌmbə(r)",
+"phonetic1": "ˈnʌmbər",
+"trans": [
+{
+"pos": "n.",
+"cn": "数；（杂志等的）期；号码"
+},
+{
+"pos": "vi.",
+"cn": "计入；总数达到"
+},
+{
+"pos": "vt.",
+"cn": "编号；计入；数…的数目"
+}
+]
+},
+{
+"word": "street",
+"phonetic0": "striːt",
+"phonetic1": "striːt",
+"trans": [
+{
+"pos": "n.",
+"cn": "街道"
+},
+{
+"pos": "adj.",
+"cn": "街道的"
+}
+]
+},
+{
+"word": "excuse me",
+"phonetic0": "ɪk'skjʊs mi",
+"phonetic1": "ɪkˈskjuːz mi",
+"trans": [
+{
+"pos": "un.",
+"cn": "请原谅；对不起"
+}
+]
+},
+{
+"word": "turn left",
+"phonetic0": "tɜ:n left",
+"phonetic1": "tɝ​n lɛft",
+"trans": [
+{
+"pos": "un.",
+"cn": "向左转"
+}
+]
+},
+{
+"word": "turn right",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "na.",
+"cn": "转往右面"
+}
+]
+},
+{
+"word": "next to",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "prep.",
+"cn": "紧邻；在…近旁；仅次于"
+}
+]
+},
+{
+"word": "supermarket",
+"phonetic0": "ˈsuːpəmɑːkɪt",
+"phonetic1": "ˈsuːpərmɑːrkɪt",
+"trans": [
+{
+"pos": "n.",
+"cn": "超级市场；自助售货商店"
+}
+]
+},
+{
+"word": "beside",
+"phonetic0": "bɪˈsaɪd",
+"phonetic1": "bɪˈsaɪd",
+"trans": [
+{
+"pos": "prep.",
+"cn": "在旁边；与…相比；和…无关"
+}
+]
+},
+{
+"word": "cinema",
+"phonetic0": "ˈsɪnəmə",
+"phonetic1": "ˈsɪnəmə",
+"trans": [
+{
+"pos": "n.",
+"cn": "电影；电影院；电影业，电影制作术"
+}
+]
+},
+{
+"word": "so much",
+"phonetic0": "səʊ mʌtʃ",
+"phonetic1": "soʊ mʌtʃ",
+"trans": [
+{
+"pos": "na.",
+"cn": "和…一样多；就只那么多；多少"
+}
+]
+},
+{
+"word": "You're welcome",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "不客气；别客气；不用谢"
+}
+]
+},
+{
+"word": "station",
+"phonetic0": "ˈsteɪʃ(ə)n",
+"phonetic1": "ˈsteɪʃn",
+"trans": [
+{
+"pos": "n.",
+"cn": "车站；驻地；地位"
+},
+{
+"pos": "vt.",
+"cn": "配置；安置；驻扎"
+}
+]
+},
+{
+"word": "train",
+"phonetic0": "treɪn",
+"phonetic1": "treɪn",
+"trans": [
+{
+"pos": "n.",
+"cn": "火车；行列；长队"
+},
+{
+"pos": "v.",
+"cn": "培养；训练；瞄准"
+}
+]
+},
+{
+"word": "hill",
+"phonetic0": "hɪl",
+"phonetic1": "hɪl",
+"trans": [
+{
+"pos": "n.",
+"cn": "小山；丘陵；斜坡"
+}
+]
+},
+{
+"word": "near",
+"phonetic0": "nɪə(r)",
+"phonetic1": "nɪr",
+"trans": [
+{
+"pos": "adj.",
+"cn": "近的；亲近的；近似的"
+},
+{
+"pos": "adv.",
+"cn": "近；接近"
+},
+{
+"pos": "prep.",
+"cn": "靠近；近似于"
+}
+]
+},
+{
+"word": "house",
+"phonetic0": "haʊs",
+"phonetic1": "haʊs",
+"trans": [
+{
+"pos": "n.",
+"cn": "住宅；家庭；机构"
+},
+{
+"pos": "vt.",
+"cn": "覆盖；给…房子住；把…储藏在房内"
+},
+{
+"pos": "vi.",
+"cn": "住"
+}
+]
+},
+{
+"word": "read",
+"phonetic0": "riːd",
+"phonetic1": "riːd",
+"trans": [
+{
+"pos": "n.",
+"cn": "阅读；读物"
+},
+{
+"pos": "adj.",
+"cn": "有学问的"
+},
+{
+"pos": "vi.",
+"cn": "读；读起来"
+}
+]
+},
+{
+"word": "running",
+"phonetic0": "ˈrʌnɪŋ",
+"phonetic1": "ˈrʌnɪŋ",
+"trans": [
+{
+"pos": "n.",
+"cn": "运转；赛跑；流出"
+},
+{
+"pos": "v.",
+"cn": "跑；运转（run的ing形式）；行驶"
+},
+{
+"pos": "adj.",
+"cn": "连续的；流动的；跑着的"
+}
+]
+},
+{
+"word": "these",
+"phonetic0": "ðiːz",
+"phonetic1": "ðiːz",
+"trans": [
+{
+"pos": "adj.",
+"cn": "这些的"
+},
+{
+"pos": "pron.",
+"cn": "这些"
+}
+]
+},
+{
+"word": "picture",
+"phonetic0": "ˈpɪktʃə(r)",
+"phonetic1": "ˈpɪktʃər",
+"trans": [
+{
+"pos": "n.",
+"cn": "照片，图画；影片；景色"
+},
+{
+"pos": "vt.",
+"cn": "画；想像；描写"
+}
+]
+},
+{
+"word": "take",
+"phonetic0": "teɪk",
+"phonetic1": "teɪk",
+"trans": [
+{
+"pos": "vi.",
+"cn": "拿；获得"
+},
+{
+"pos": "vt.",
+"cn": "拿，取；采取；接受（礼物等）"
+},
+{
+"pos": "n.",
+"cn": "捕获量；看法；利益，盈益"
+}
+]
+},
+{
+"word": "take pictures",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "照相；拍照；拍照片"
+}
+]
+},
+{
+"word": "children",
+"phonetic0": "ˈtʃɪldrən",
+"phonetic1": "ˈtʃɪldrən",
+"trans": [
+{
+"pos": "n.",
+"cn": "孩子们（child的复数）"
+}
+]
+},
+{
+"word": "child",
+"phonetic0": "tʃaɪld",
+"phonetic1": "tʃaɪld",
+"trans": [
+{
+"pos": "n.",
+"cn": "儿童，小孩，孩子；产物；子孙"
+}
+]
+},
+{
+"word": "listen",
+"phonetic0": "ˈlɪs(ə)n",
+"phonetic1": "ˈlɪsn",
+"trans": [
+{
+"pos": "vi.",
+"cn": "听，倾听；听从，听信"
+},
+{
+"pos": "n.",
+"cn": "听，倾听"
+}
+]
+},
+{
+"word": "listen to",
+"phonetic0": "ˈlɪsn tʊ",
+"phonetic1": "ˈlɪsn tu",
+"trans": [
+{
+"pos": "v.",
+"cn": "听"
+}
+]
+},
+{
+"word": "talk",
+"phonetic0": "tɔːk",
+"phonetic1": "tɔːk",
+"trans": [
+{
+"pos": "n.",
+"cn": "谈话；演讲；空谈"
+},
+{
+"pos": "vi.",
+"cn": "谈话；说闲话"
+},
+{
+"pos": "vt.",
+"cn": "说；谈话；讨论"
+}
+]
+},
+{
+"word": "talk to",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "na.",
+"cn": "向…谈；〔口语〕申斥"
+}
+]
+},
+{
+"word": "China",
+"phonetic0": "ˈtʃaɪnə",
+"phonetic1": "ˈtʃaɪnə",
+"trans": [
+{
+"pos": "n.",
+"cn": "中国"
+},
+{
+"pos": "n.",
+"cn": "china，瓷器"
+},
+{
+"pos": "adj.",
+"cn": "中国的；中国制造的"
+}
+]
+},
+{
+"word": "kid",
+"phonetic0": "kɪd",
+"phonetic1": "kɪd",
+"trans": [
+{
+"pos": "n.",
+"cn": "小孩；小山羊"
+},
+{
+"pos": "vt.",
+"cn": "欺骗；取笑；戏弄"
+},
+{
+"pos": "vi.",
+"cn": "欺骗；取笑；戏弄"
+}
+]
+},
+{
+"word": "get on",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "na.",
+"cn": "上马；安上；过日子"
+}
+]
+},
+{
+"word": "can",
+"phonetic0": "kən",
+"phonetic1": "kən",
+"trans": [
+{
+"pos": "aux.",
+"cn": "能；能够；可以"
+},
+{
+"pos": "n.",
+"cn": "罐头；（用金属或塑料制作的）容器；（马口铁或其他金属制作的）食品罐头"
+},
+{
+"pos": "vt.",
+"cn": "将…装入密封罐中保存"
+}
+]
+},
+{
+"word": "see",
+"phonetic0": "siː",
+"phonetic1": "siː",
+"trans": [
+{
+"pos": "vi.",
+"cn": "看；看见；领会"
+},
+{
+"pos": "vt.",
+"cn": "看见；理解；领会"
+}
+]
+},
+{
+"word": "lots of",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "adj.",
+"cn": "许多；很多"
+}
+]
+},
+{
+"word": "interesting",
+"phonetic0": "ˈɪntrəstɪŋ",
+"phonetic1": "ˈɪntrəstɪŋ",
+"trans": [
+{
+"pos": "adj.",
+"cn": "有趣的；引起兴趣的，令人关注的"
+}
+]
+},
+{
+"word": "thing",
+"phonetic0": "θɪŋ",
+"phonetic1": "θɪŋ",
+"trans": [
+{
+"pos": "n.",
+"cn": "事情；东西；事物"
+}
+]
+},
+{
+"word": "people",
+"phonetic0": "ˈpiːp(ə)l",
+"phonetic1": "ˈpiːpl",
+"trans": [
+{
+"pos": "n.",
+"cn": "人；人类；民族"
+},
+{
+"pos": "vt.",
+"cn": "居住于；使住满人"
+}
+]
+},
+{
+"word": "row",
+"phonetic0": "rəʊ",
+"phonetic1": "roʊ",
+"trans": [
+{
+"pos": "n.",
+"cn": "行，排；划船；街道"
+},
+{
+"pos": "vt.",
+"cn": "划船；使……成排"
+},
+{
+"pos": "vi.",
+"cn": "划船；争吵"
+}
+]
+},
+{
+"word": "dragon",
+"phonetic0": "ˈdræɡən",
+"phonetic1": "ˈdræɡən",
+"trans": [
+{
+"pos": "n.",
+"cn": "龙；凶暴的人，凶恶的人；严厉而有警觉性的女人"
+}
+]
+},
+{
+"word": "boat",
+"phonetic0": "bəʊt",
+"phonetic1": "boʊt",
+"trans": [
+{
+"pos": "n.",
+"cn": "小船；轮船"
+},
+{
+"pos": "vi.",
+"cn": "划船"
+}
+]
+},
+{
+"word": "dragon boat",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "n.",
+"cn": "龙舟；龙船"
+}
+]
+},
+{
+"word": "men",
+"phonetic0": "men",
+"phonetic1": "men",
+"trans": [
+{
+"pos": "n.",
+"cn": "男人，人类（man的复数）"
+}
+]
+},
+{
+"word": "man",
+"phonetic0": "mæn",
+"phonetic1": "mæn",
+"trans": [
+{
+"pos": "n.",
+"cn": "人；男人；人类"
+},
+{
+"pos": "vt.",
+"cn": "操纵；给…配置人员；使增强勇气"
+}
+]
+},
+{
+"word": "between",
+"phonetic0": "bɪˈtwiːn",
+"phonetic1": "bɪˈtwiːn",
+"trans": [
+{
+"pos": "prep.",
+"cn": "在…之间"
+},
+{
+"pos": "adv.",
+"cn": "在中间"
+}
+]
+},
+{
+"word": "chess",
+"phonetic0": "tʃes",
+"phonetic1": "tʃes",
+"trans": [
+{
+"pos": "n.",
+"cn": "国际象棋，西洋棋"
+}
+]
+},
+{
+"word": "play chess",
+"phonetic0": "pleɪ tʃes",
+"phonetic1": "pleɪ tʃes",
+"trans": [
+{
+"pos": "na.",
+"cn": "下象棋"
+}
+]
+},
+{
+"word": "drink",
+"phonetic0": "drɪŋk",
+"phonetic1": "drɪŋk",
+"trans": [
+{
+"pos": "n.",
+"cn": "酒，饮料；喝酒"
+},
+{
+"pos": "vt.",
+"cn": "喝，饮；吸收；举杯庆贺"
+},
+{
+"pos": "vi.",
+"cn": "喝酒；饮水；干杯"
+}
+]
+},
+{
+"word": "soya milk",
+"phonetic0": "ˈsɔɪə mɪlk",
+"phonetic1": "ˈsɔɪə mɪlk",
+"trans": [
+{
+"pos": "n.",
+"cn": "豆浆"
+}
+]
+},
+{
+"word": "clock",
+"phonetic0": "klɒk",
+"phonetic1": "klɑːk",
+"trans": [
+{
+"pos": "n.",
+"cn": "时钟；计时器"
+},
+{
+"pos": "vt.",
+"cn": "记录；记时"
+},
+{
+"pos": "vi.",
+"cn": "打卡；记录时间"
+}
+]
+},
+{
+"word": "hungry",
+"phonetic0": "ˈhʌŋɡri",
+"phonetic1": "ˈhʌŋɡri",
+"trans": [
+{
+"pos": "adj.",
+"cn": "饥饿的；渴望的；荒年的"
+}
+]
+},
+{
+"word": "Me too.",
+"phonetic0": "mi: tu:",
+"phonetic1": "ˌmiː ˈtuː",
+"trans": [
+{
+"pos": "adj.",
+"cn": "〈美口〉行仿效计策的"
+},
+{
+"pos": "v.",
+"cn": "同意(对方的政见等)"
+}
+]
+},
+{
+"word": "draw",
+"phonetic0": "drɔː",
+"phonetic1": "drɔː",
+"trans": [
+{
+"pos": "n.",
+"cn": "平局；抽签"
+},
+{
+"pos": "vi.",
+"cn": "拉；拖"
+},
+{
+"pos": "vt.",
+"cn": "画；拉；吸引"
+}
+]
+},
+{
+"word": "jump",
+"phonetic0": "dʒʌmp",
+"phonetic1": "dʒʌmp",
+"trans": [
+{
+"pos": "n.",
+"cn": "跳跃；暴涨；惊跳"
+},
+{
+"pos": "vt.",
+"cn": "跳跃；使跳跃；跳过"
+},
+{
+"pos": "vi.",
+"cn": "跳跃；暴涨；猛增"
+}
+]
+},
+{
+"word": "sing",
+"phonetic0": "sɪŋ",
+"phonetic1": "sɪŋ",
+"trans": [
+{
+"pos": "n.",
+"cn": "演唱；鸣声；呼啸声"
+},
+{
+"pos": "vt.",
+"cn": "唱；用诗赞颂；唱着使"
+},
+{
+"pos": "vi.",
+"cn": "唱歌；歌颂；鸣叫"
+}
+]
+},
+{
+"word": "dance",
+"phonetic0": "dɑːns",
+"phonetic1": "dæns",
+"trans": [
+{
+"pos": "n.",
+"cn": "舞蹈；舞会；舞曲"
+},
+{
+"pos": "adj.",
+"cn": "舞蹈的；用于跳舞的"
+},
+{
+"pos": "vt.",
+"cn": "跳舞；使跳跃"
+}
+]
+},
+{
+"word": "want",
+"phonetic0": "wɒnt",
+"phonetic1": "wɑːnt",
+"trans": [
+{
+"pos": "n.",
+"cn": "需要；缺乏；贫困"
+},
+{
+"pos": "vt.",
+"cn": "需要；希望；应该"
+},
+{
+"pos": "vi.",
+"cn": "需要；缺少"
+}
+]
+},
+{
+"word": "some",
+"phonetic0": "sʌm",
+"phonetic1": "sʌm",
+"trans": [
+{
+"pos": "adj.",
+"cn": "一些；某个；大约"
+},
+{
+"pos": "pron.",
+"cn": "一些；若干；其中的一部分"
+},
+{
+"pos": "adv.",
+"cn": "非常；相当；<美>稍微"
+}
+]
+},
+{
+"word": "juice",
+"phonetic0": "dʒuːs",
+"phonetic1": "dʒuːs",
+"trans": [
+{
+"pos": "n.",
+"cn": "（水果）汁，液；果汁"
+}
+]
+},
+{
+"word": "ice",
+"phonetic0": "aɪs",
+"phonetic1": "aɪs",
+"trans": [
+{
+"pos": "n.",
+"cn": "冰；冰淇淋；矜持"
+},
+{
+"pos": "adj.",
+"cn": "冰的"
+},
+{
+"pos": "vt.",
+"cn": "冰镇；结冰"
+}
+]
+},
+{
+"word": "also",
+"phonetic0": "ˈɔːlsəʊ",
+"phonetic1": "ˈɔːlsoʊ",
+"trans": [
+{
+"pos": "conj.",
+"cn": "并且；另外"
+},
+{
+"pos": "adv.",
+"cn": "也；而且；同样"
+}
+]
+},
+{
+"word": "food",
+"phonetic0": "fuːd",
+"phonetic1": "fuːd",
+"trans": [
+{
+"pos": "n.",
+"cn": "食物；养料"
+}
+]
+},
+{
+"word": "fast food",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "n.",
+"cn": "快餐；速食"
+}
+]
+},
+{
+"word": "make",
+"phonetic0": "meɪk",
+"phonetic1": "meɪk",
+"trans": [
+{
+"pos": "vt.",
+"cn": "使得；进行；布置，准备，整理"
+},
+{
+"pos": "vi.",
+"cn": "开始；前进；增大"
+},
+{
+"pos": "n.",
+"cn": "制造；构造；性情"
+}
+]
+},
+{
+"word": "tomato",
+"phonetic0": "təˈmɑːtəʊ",
+"phonetic1": "təˈmeɪtoʊ",
+"trans": [
+{
+"pos": "n.",
+"cn": "番茄，西红柿"
+}
+]
+},
+{
+"word": "egg",
+"phonetic0": "eɡ",
+"phonetic1": "eɡ",
+"trans": [
+{
+"pos": "n.",
+"cn": "蛋；卵子；家伙"
+},
+{
+"pos": "vt.",
+"cn": "煽动；怂恿"
+}
+]
+},
+{
+"word": "potato",
+"phonetic0": "pəˈteɪtəʊ",
+"phonetic1": "pəˈteɪtoʊ",
+"trans": [
+{
+"pos": "n.",
+"cn": "[作物] 土豆，[作物] 马铃薯"
+}
+]
+},
+{
+"word": "How much ...",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "conj.",
+"cn": "多少"
+}
+]
+},
+{
+"word": "flower",
+"phonetic0": "ˈflaʊə(r)",
+"phonetic1": "ˈflaʊər",
+"trans": [
+{
+"pos": "n.",
+"cn": "花；精华；开花植物"
+},
+{
+"pos": "vt.",
+"cn": "使开花；用花装饰"
+},
+{
+"pos": "vi.",
+"cn": "成熟，发育；开花；繁荣"
+}
+]
+},
+{
+"word": "dumpling",
+"phonetic0": "ˈdʌmplɪŋ",
+"phonetic1": "ˈdʌmplɪŋ",
+"trans": [
+{
+"pos": "n.",
+"cn": "饺子，汤团；面团布丁"
+}
+]
+},
+{
+"word": "help",
+"phonetic0": "help",
+"phonetic1": "help",
+"trans": [
+{
+"pos": "n.",
+"cn": "帮助；补救办法；帮忙者"
+},
+{
+"pos": "vt.",
+"cn": "帮助；促进；治疗"
+},
+{
+"pos": "vi.",
+"cn": "帮助；有用；招待"
+}
+]
+},
+{
+"word": "buy",
+"phonetic0": "baɪ",
+"phonetic1": "baɪ",
+"trans": [
+{
+"pos": "n.",
+"cn": "购买，买卖；所购的物品"
+},
+{
+"pos": "vi.",
+"cn": "买，采购"
+},
+{
+"pos": "vt.",
+"cn": "购买；获得；贿赂"
+}
+]
+},
+{
+"word": "run",
+"phonetic0": "rʌn",
+"phonetic1": "rʌn",
+"trans": [
+{
+"pos": "n.",
+"cn": "奔跑；赛跑；趋向"
+},
+{
+"pos": "vt.",
+"cn": "管理，经营；运行；参赛"
+},
+{
+"pos": "vi.",
+"cn": "经营；奔跑；运转"
+}
+]
+},
+{
+"word": "fast",
+"phonetic0": "fɑːst",
+"phonetic1": "fæst",
+"trans": [
+{
+"pos": "n.",
+"cn": "斋戒；绝食"
+},
+{
+"pos": "adj.",
+"cn": "快速的，迅速的；紧的，稳固的"
+},
+{
+"pos": "adv.",
+"cn": "迅速地；紧紧地；彻底地"
+}
+]
+},
+{
+"word": "sky",
+"phonetic0": "skaɪ",
+"phonetic1": "skaɪ",
+"trans": [
+{
+"pos": "n.",
+"cn": "天空；顶点"
+},
+{
+"pos": "vt.",
+"cn": "把…投向空中；把…挂得过高"
+},
+{
+"pos": "vi.",
+"cn": "踢或击高空球；把桨叶翘得过高；飞涨"
+}
+]
+},
+{
+"word": "high",
+"phonetic0": "haɪ",
+"phonetic1": "haɪ",
+"trans": [
+{
+"pos": "n.",
+"cn": "高水平；天空；由麻醉品引起的快感"
+},
+{
+"pos": "adj.",
+"cn": "高的；高级的；崇高的"
+},
+{
+"pos": "adv.",
+"cn": "高；奢侈地"
+}
+]
+},
+{
+"word": "winner",
+"phonetic0": "ˈwɪnə(r)",
+"phonetic1": "ˈwɪnər",
+"trans": [
+{
+"pos": "n.",
+"cn": "胜利者"
+}
+]
+},
+{
+"word": "far",
+"phonetic0": "fɑː(r)",
+"phonetic1": "fɑːr",
+"trans": [
+{
+"pos": "n.",
+"cn": "远方"
+},
+{
+"pos": "adj.",
+"cn": "远的；久远的"
+},
+{
+"pos": "adv.",
+"cn": "很；遥远地；久远地"
+}
+]
+},
+{
+"word": "afraid",
+"phonetic0": "əˈfreɪd",
+"phonetic1": "əˈfreɪd",
+"trans": [
+{
+"pos": "adj.",
+"cn": "害怕的；恐怕；担心的"
+}
+]
+},
+{
+"word": "strong",
+"phonetic0": "strɒŋ",
+"phonetic1": "strɔːŋ",
+"trans": [
+{
+"pos": "adj.",
+"cn": "坚强的；强壮的；牢固的"
+},
+{
+"pos": "adv.",
+"cn": "强劲地；猛烈地"
+}
+]
+},
+{
+"word": "star",
+"phonetic0": "stɑː(r)",
+"phonetic1": "stɑːr",
+"trans": [
+{
+"pos": "n.",
+"cn": "星，恒星；明星；星形物"
+},
+{
+"pos": "adj.",
+"cn": "明星的，主角的；星形的"
+},
+{
+"pos": "vt.",
+"cn": "用星号标于；由…主演，由…担任主角"
+}
+]
+},
+{
+"word": "sweets",
+"phonetic0": "swi:ts",
+"phonetic1": "swiːts",
+"trans": [
+{
+"pos": "n.",
+"cn": "糖果；甜食（sweet的复数）"
+}
+]
+},
+{
+"word": "soup",
+"phonetic0": "suːp",
+"phonetic1": "suːp",
+"trans": [
+{
+"pos": "n.",
+"cn": "汤，羹；马力"
+},
+{
+"pos": "vt.",
+"cn": "加速；增加马力"
+}
+]
+},
+{
+"word": "sorry",
+"phonetic0": "ˈsɒri",
+"phonetic1": "ˈsɑːri",
+"trans": [
+{
+"pos": "adj.",
+"cn": "遗憾的；对不起的，抱歉的"
+},
+{
+"pos": "int.",
+"cn": "对不起，抱歉（表示委婉的拒绝等）"
+}
+]
+},
+{
+"word": "bread",
+"phonetic0": "bred",
+"phonetic1": "bred",
+"trans": [
+{
+"pos": "n.",
+"cn": "面包；生计"
+},
+{
+"pos": "vt.",
+"cn": "在…上洒面包屑"
+}
+]
+},
+{
+"word": "dark",
+"phonetic0": "dɑːk",
+"phonetic1": "dɑːrk",
+"trans": [
+{
+"pos": "n.",
+"cn": "黑暗；夜；黄昏"
+},
+{
+"pos": "adj.",
+"cn": "黑暗的，深色的；模糊的；无知的"
+}
+]
+},
+{
+"word": "well",
+"phonetic0": "wel",
+"phonetic1": "wel",
+"trans": [
+{
+"pos": "n.",
+"cn": "井；源泉"
+},
+{
+"pos": "adj.",
+"cn": "良好的；健康的；适宜的"
+},
+{
+"pos": "adv.",
+"cn": "很好地；充分地；满意地"
+}
+]
+},
+{
+"word": "turn on",
+"phonetic0": "tɜ:n ɒn",
+"phonetic1": "tɜːrn ɑːn",
+"trans": [
+{
+"pos": "na.",
+"cn": "转向；对…进行突击"
+}
+]
+},
+{
+"word": "light",
+"phonetic0": "laɪt",
+"phonetic1": "laɪt",
+"trans": [
+{
+"pos": "n.",
+"cn": "光；光线；灯"
+},
+{
+"pos": "adj.",
+"cn": "轻的；浅色的；明亮的"
+},
+{
+"pos": "vi.",
+"cn": "点着；变亮；着火"
+}
+]
+},
+{
+"word": "Halloween",
+"phonetic0": "ˌhæləʊˈiːn",
+"phonetic1": "ˌhæloʊˈiːn",
+"trans": [
+{
+"pos": "n.",
+"cn": "万圣节前夕（指十月三十一日夜晚）"
+}
+]
+},
+{
+"word": "trick or treat",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "int.",
+"cn": "不给糖就捣蛋"
+},
+{
+"pos": "n.",
+"cn": "不给糖就捣蛋"
+}
+]
+},
+{
+"word": "give",
+"phonetic0": "ɡɪv",
+"phonetic1": "ɡɪv",
+"trans": [
+{
+"pos": "n.",
+"cn": "弹性；弯曲；伸展性"
+},
+{
+"pos": "vi.",
+"cn": "捐赠；面向；有弹性"
+},
+{
+"pos": "vt.",
+"cn": "给；产生；让步"
+}
+]
+},
+{
+"word": "come in",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "na.",
+"cn": "进入；当选；上台"
+}
+]
+},
+{
+"word": "of course",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "na.",
+"cn": "当然"
+}
+]
+},
+{
+"word": "there is",
+"phonetic0": "ðɛə iz",
+"phonetic1": "ðɛr ɪz",
+"trans": [
+{
+"pos": "na.",
+"cn": "[was, are 等 ] 有"
+}
+]
+},
+{
+"word": "horse",
+"phonetic0": "hɔːs",
+"phonetic1": "hɔːrs",
+"trans": [
+{
+"pos": "n.",
+"cn": "马；骑兵；脚架"
+},
+{
+"pos": "vt.",
+"cn": "使骑马；系马于；捉弄"
+},
+{
+"pos": "vi.",
+"cn": "骑马；作弄人"
+}
+]
+},
+{
+"word": "there are",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "有…,存在着…"
+}
+]
+},
+{
+"word": "have a look",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "v.",
+"cn": "看一看"
+}
+]
+},
+{
+"word": "sheep",
+"phonetic0": "ʃiːp",
+"phonetic1": "ʃiːp",
+"trans": [
+{
+"pos": "n.",
+"cn": "羊，绵羊；胆小鬼"
+}
+]
+},
+{
+"word": "vegetable",
+"phonetic0": "ˈvedʒtəb(ə)l",
+"phonetic1": "ˈvedʒtəbl",
+"trans": [
+{
+"pos": "n.",
+"cn": "蔬菜；植物；植物人"
+},
+{
+"pos": "adj.",
+"cn": "蔬菜的；植物的"
+}
+]
+},
+{
+"word": "climb",
+"phonetic0": "klaɪm",
+"phonetic1": "klaɪm",
+"trans": [
+{
+"pos": "n.",
+"cn": "爬；攀登"
+},
+{
+"pos": "vi.",
+"cn": "爬；攀登；上升"
+},
+{
+"pos": "vt.",
+"cn": "爬；攀登；上升"
+}
+]
+},
+{
+"word": "face",
+"phonetic0": "feɪs",
+"phonetic1": "feɪs",
+"trans": [
+{
+"pos": "n.",
+"cn": "脸；表面；面子"
+},
+{
+"pos": "vi.",
+"cn": "向；朝"
+},
+{
+"pos": "vt.",
+"cn": "面对；面向；承认"
+}
+]
+},
+{
+"word": "fruit",
+"phonetic0": "fruːt",
+"phonetic1": "fruːt",
+"trans": [
+{
+"pos": "n.",
+"cn": "水果；产物"
+},
+{
+"pos": "vt.",
+"cn": "使……结果实"
+},
+{
+"pos": "vi.",
+"cn": "结果实"
+}
+]
+},
+{
+"word": "chicken",
+"phonetic0": "ˈtʃɪkɪn",
+"phonetic1": "ˈtʃɪkɪn",
+"trans": [
+{
+"pos": "n.",
+"cn": "鸡肉；小鸡；胆小鬼，懦夫"
+},
+{
+"pos": "adj.",
+"cn": "鸡肉的；胆怯的；幼小的"
+}
+]
+},
+{
+"word": "bear",
+"phonetic0": "beə(r)",
+"phonetic1": "ber",
+"trans": [
+{
+"pos": "n.",
+"cn": "熊"
+},
+{
+"pos": "vt.",
+"cn": "结果实，开花（正式）"
+},
+{
+"pos": "vt.",
+"cn": "忍受；承受；具有"
+}
+]
+},
+{
+"word": "pig",
+"phonetic0": "pɪɡ",
+"phonetic1": "pɪɡ",
+"trans": [
+{
+"pos": "n.",
+"cn": "猪；猪肉"
+},
+{
+"pos": "vi.",
+"cn": "生小猪；像猪一样过活"
+},
+{
+"pos": "n.",
+"cn": "警察（俚语，带有攻击性）"
+}
+]
+},
+{
+"word": "visit",
+"phonetic0": "ˈvɪzɪt",
+"phonetic1": "ˈvɪzɪt",
+"trans": [
+{
+"pos": "n.",
+"cn": "访问；参观；逗留"
+},
+{
+"pos": "vt.",
+"cn": "访问；参观；视察"
+},
+{
+"pos": "vi.",
+"cn": "访问；暂住；闲谈"
+}
+]
+},
+{
+"word": "tomorrow",
+"phonetic0": "təˈmɒrəʊ",
+"phonetic1": "təˈmɑːroʊ",
+"trans": [
+{
+"pos": "n.",
+"cn": "明天；未来"
+},
+{
+"pos": "adv.",
+"cn": "明天；未来地（等于to-morrow）"
+}
+]
+},
+{
+"word": "plane",
+"phonetic0": "pleɪn",
+"phonetic1": "pleɪn",
+"trans": [
+{
+"pos": "n.",
+"cn": "飞机；平面；程度，水平"
+},
+{
+"pos": "adj.",
+"cn": "平的；平面的"
+},
+{
+"pos": "vt.",
+"cn": "刨平；用刨子刨；掠过水面"
+}
+]
+},
+{
+"word": "get up",
+"phonetic0": "ɡet ʌp",
+"phonetic1": "ɡet ʌp",
+"trans": [
+{
+"pos": "na.",
+"cn": "起床；起身；站起来"
+}
+]
+},
+{
+"word": "o'clock",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "abbr.",
+"cn": "…点钟（等于of the clock）"
+}
+]
+},
+{
+"word": "from",
+"phonetic0": "frəm",
+"phonetic1": "frəm",
+"trans": [
+{
+"pos": "prep.",
+"cn": "来自，从；由于；今后"
+}
+]
+},
+{
+"word": "sea",
+"phonetic0": "siː",
+"phonetic1": "siː",
+"trans": [
+{
+"pos": "n.",
+"cn": "海；海洋；许多"
+}
+]
+},
+{
+"word": "swimsuit",
+"phonetic0": "ˈswɪmsuːt",
+"phonetic1": "ˈswɪmsuːt",
+"trans": [
+{
+"pos": "n.",
+"cn": "游泳衣（女式）"
+}
+]
+},
+{
+"word": "sock",
+"phonetic0": "sɒk",
+"phonetic1": "sɑːk",
+"trans": [
+{
+"pos": "vt.",
+"cn": "重击；给……穿袜"
+},
+{
+"pos": "n.",
+"cn": "短袜；一击"
+},
+{
+"pos": "adv.",
+"cn": "正着地；不偏不倚地"
+}
+]
+},
+{
+"word": "fish",
+"phonetic0": "fɪʃ",
+"phonetic1": "fɪʃ",
+"trans": [
+{
+"pos": "n.",
+"cn": "鱼，鱼类"
+},
+{
+"pos": "vt.",
+"cn": "钓鱼，捕鱼；搜寻"
+},
+{
+"pos": "vi.",
+"cn": "捕鱼，钓鱼；用钩捞取"
+}
+]
+},
+{
+"word": "hooray",
+"phonetic0": "huˈreɪ",
+"phonetic1": "huˈreɪ",
+"trans": [
+{
+"pos": "n.",
+"cn": "万岁"
+},
+{
+"pos": "vt.",
+"cn": "呼万岁"
+},
+{
+"pos": "int.",
+"cn": "万岁"
+}
+]
+},
+{
+"word": "sports day",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "n.",
+"cn": "（学校的）运动会"
+}
+]
+},
+{
+"word": "win",
+"phonetic0": "wɪn",
+"phonetic1": "wɪn",
+"trans": [
+{
+"pos": "n.",
+"cn": "赢；胜利"
+},
+{
+"pos": "vt.",
+"cn": "赢得；在…中获胜；劝诱"
+},
+{
+"pos": "vi.",
+"cn": "赢；获胜；成功"
+}
+]
+},
+{
+"word": "month",
+"phonetic0": "mʌnθ",
+"phonetic1": "mʌnθ",
+"trans": [
+{
+"pos": "n.",
+"cn": "月，一个月的时间"
+}
+]
+},
+{
+"word": "hundred",
+"phonetic0": "ˈhʌndrəd",
+"phonetic1": "ˈhʌndrəd",
+"trans": [
+{
+"pos": "num.",
+"cn": "百；百个"
+},
+{
+"pos": "n.",
+"cn": "一百；许多"
+},
+{
+"pos": "adj.",
+"cn": "一百的；许多的"
+}
+]
+},
+{
+"word": "metre",
+"phonetic0": "ˈmiːtə(r)",
+"phonetic1": "ˈmiːtər",
+"trans": [
+{
+"pos": "n.",
+"cn": "米；公尺；韵律"
+}
+]
+},
+{
+"word": "every",
+"phonetic0": "ˈevri",
+"phonetic1": "ˈevri",
+"trans": [
+{
+"pos": "adj.",
+"cn": "每一的，每个的；每隔…的"
+}
+]
+},
+{
+"word": "day",
+"phonetic0": "deɪ",
+"phonetic1": "deɪ",
+"trans": [
+{
+"pos": "n.",
+"cn": "一天；时期；白昼"
+},
+{
+"pos": "adj.",
+"cn": "日间的；逐日的"
+},
+{
+"pos": "adv.",
+"cn": "每天；经常在白天地"
+}
+]
+},
+{
+"word": "luck",
+"phonetic0": "lʌk",
+"phonetic1": "lʌk",
+"trans": [
+{
+"pos": "n.",
+"cn": "运气；幸运；带来好运的东西"
+},
+{
+"pos": "vi.",
+"cn": "靠运气，走运；凑巧碰上"
+}
+]
+},
+{
+"word": "good luck",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "na.",
+"cn": "幸运"
+}
+]
+},
+{
+"word": "come on",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "na.",
+"cn": "(演员)出台；进行(很好)；(暴风雨等)起"
+}
+]
+},
+{
+"word": "high jump",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "n.",
+"cn": "跳高"
+}
+]
+},
+{
+"word": "long jump",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "n.",
+"cn": "跳远"
+}
+]
+},
+{
+"word": "How about ...",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "怎么样；如何；怎麽样"
+}
+]
+},
+{
+"word": "subject",
+"phonetic0": "ˈsʌbdʒɪkt",
+"phonetic1": "ˈsʌbdʒɪkt",
+"trans": [
+{
+"pos": "n.",
+"cn": "主题；科目；[语] 主语"
+},
+{
+"pos": "adj.",
+"cn": "服从的；易患…的；受制于…的"
+},
+{
+"pos": "vt.",
+"cn": "使…隶属；使屈从于…"
+}
+]
+},
+{
+"word": "family",
+"phonetic0": "ˈfæməli",
+"phonetic1": "ˈfæməli",
+"trans": [
+{
+"pos": "n.",
+"cn": "家庭；亲属；家族"
+},
+{
+"pos": "adj.",
+"cn": "家庭的；家族的；适合于全家的"
+}
+]
+},
+{
+"word": "dinner",
+"phonetic0": "ˈdɪnə(r)",
+"phonetic1": "ˈdɪnər",
+"trans": [
+{
+"pos": "n.",
+"cn": "晚餐，晚宴；宴会；正餐"
+}
+]
+},
+{
+"word": "year",
+"phonetic0": "jɪə(r)",
+"phonetic1": "jɪr",
+"trans": [
+{
+"pos": "n.",
+"cn": "年；年度；历年"
+}
+]
+},
+{
+"word": "New Year",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "n.",
+"cn": "新年"
+}
+]
+},
+{
+"word": "Chinese",
+"phonetic0": "ˌtʃaɪˈniːz",
+"phonetic1": "ˌtʃaɪˈniːz",
+"trans": [
+{
+"pos": "n.",
+"cn": "中文，汉语；中国人"
+},
+{
+"pos": "adj.",
+"cn": "中国的，中国人的；中国话的"
+}
+]
+},
+{
+"word": "festival",
+"phonetic0": "ˈfestɪv(ə)l",
+"phonetic1": "ˈfestɪvl",
+"trans": [
+{
+"pos": "n.",
+"cn": "节日；庆祝，纪念活动；欢乐"
+},
+{
+"pos": "adj.",
+"cn": "节日的，喜庆的；快乐的"
+}
+]
+},
+{
+"word": "the Spring Festival",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "un.",
+"cn": "春节"
+}
+]
+},
+{
+"word": "I see.",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "",
+"cn": "我明白了；我知道了；我了解"
+}
+]
+},
+{
+"word": "peanut",
+"phonetic0": "ˈpiːnʌt",
+"phonetic1": "ˈpiːnʌt",
+"trans": [
+{
+"pos": "n.",
+"cn": "花生"
+}
+]
+},
+{
+"word": "merry",
+"phonetic0": "ˈmeri",
+"phonetic1": "ˈmeri",
+"trans": [
+{
+"pos": "adj.",
+"cn": "愉快的；微醉的；嬉戏作乐的"
+},
+{
+"pos": "n.",
+"cn": "甜樱桃"
+}
+]
+},
+{
+"word": "Christmas",
+"phonetic0": "ˈkrɪsməs",
+"phonetic1": "ˈkrɪsməs",
+"trans": [
+{
+"pos": "n.",
+"cn": "圣诞节；圣诞节期间"
+}
+]
+},
+{
+"word": "Merry Christmas",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "na.",
+"cn": "圣诞快乐"
+}
+]
+}
+]
+}

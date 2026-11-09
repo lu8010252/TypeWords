@@ -1,0 +1,1221 @@
+{
+"name": "北师大版三起·三年级下册词表",
+"enName": "bsd3q-3-2",
+"words": [
+{
+"word": "banana",
+"phonetic0": "bəˈnɑːnə",
+"phonetic1": "bəˈnænə",
+"trans": [
+{
+"pos": "n.",
+"cn": "香蕉；喜剧演员；大鹰钩鼻"
+}
+]
+},
+{
+"word": "fruits",
+"phonetic0": "fruːts",
+"phonetic1": "fruːts",
+"trans": [
+{
+"pos": "n.",
+"cn": "水果；成果，收益（fruit的复数）；孽息"
+},
+{
+"pos": "v.",
+"cn": "结果实（fruit的第三人称单数）"
+}
+]
+},
+{
+"word": "nut",
+"phonetic0": "nʌt",
+"phonetic1": "nʌt",
+"trans": [
+{
+"pos": "n.",
+"cn": "螺母，螺帽；坚果；难对付的人，难解的问题"
+},
+{
+"pos": "vi.",
+"cn": "采坚果"
+}
+]
+},
+{
+"word": "an",
+"phonetic0": "ən",
+"phonetic1": "ən",
+"trans": [
+{
+"pos": "art.",
+"cn": "一（在元音音素前）"
+}
+]
+},
+{
+"word": "apple",
+"phonetic0": "ˈæp(ə)l",
+"phonetic1": "ˈæpl",
+"trans": [
+{
+"pos": "n.",
+"cn": "苹果，苹果树，苹果似的东西；[美俚]炸弹，手榴弹，（棒球的）球；[美俚]人，家伙。"
+}
+]
+},
+{
+"word": "orange",
+"phonetic0": "ˈɒrɪndʒ",
+"phonetic1": "ˈɔrɪndʒ",
+"trans": [
+{
+"pos": "adj.",
+"cn": "橙色的；橘色的"
+},
+{
+"pos": "n.",
+"cn": "橙；橙色；桔子"
+}
+]
+},
+{
+"word": "peach",
+"phonetic0": "piːtʃ",
+"phonetic1": "piːtʃ",
+"trans": [
+{
+"pos": "n.",
+"cn": "桃子；桃树；桃红色"
+},
+{
+"pos": "adj.",
+"cn": "桃色的；用桃子制成的"
+},
+{
+"pos": "vt.",
+"cn": "告发"
+}
+]
+},
+{
+"word": "pear",
+"phonetic0": "peə(r)",
+"phonetic1": "per",
+"trans": [
+{
+"pos": "n.",
+"cn": "[园艺] 梨树；梨子"
+}
+]
+},
+{
+"word": "strawberry",
+"phonetic0": "ˈstrɔːbəri",
+"phonetic1": "ˈstrɔːberi",
+"trans": [
+{
+"pos": "n.",
+"cn": "草莓；草莓色"
+}
+]
+},
+{
+"word": "sweet",
+"phonetic0": "swiːt",
+"phonetic1": "swiːt",
+"trans": [
+{
+"pos": "n.",
+"cn": "糖果；乐趣；芳香"
+},
+{
+"pos": "adj.",
+"cn": "甜的；悦耳的；芳香的"
+},
+{
+"pos": "",
+"cn": "（俚）酷毙了"
+}
+]
+},
+{
+"word": "lemon",
+"phonetic0": "ˈlemən",
+"phonetic1": "ˈlemən",
+"trans": [
+{
+"pos": "adj.",
+"cn": "柠檬色的"
+},
+{
+"pos": "n.",
+"cn": "柠檬"
+}
+]
+},
+{
+"word": "sour",
+"phonetic0": "ˈsaʊə(r)",
+"phonetic1": "ˈsaʊər",
+"trans": [
+{
+"pos": "n.",
+"cn": "酸味；苦事"
+},
+{
+"pos": "adj.",
+"cn": "酸的；发酵的；刺耳的"
+},
+{
+"pos": "vt.",
+"cn": "使变酸；使失望"
+}
+]
+},
+{
+"word": "pineapple",
+"phonetic0": "ˈpaɪnæp(ə)l",
+"phonetic1": "ˈpaɪnæpl",
+"trans": [
+{
+"pos": "n.",
+"cn": "[园艺] 菠萝；[园艺] 凤梨"
+},
+{
+"pos": "adj.",
+"cn": "凤梨科的"
+}
+]
+},
+{
+"word": "watermelon",
+"phonetic0": "ˈwɔːtəmelən",
+"phonetic1": "ˈwɔːtərmelən",
+"trans": [
+{
+"pos": "n.",
+"cn": "西瓜"
+}
+]
+},
+{
+"word": "they",
+"phonetic0": "ðeɪ",
+"phonetic1": "ðeɪ",
+"trans": [
+{
+"pos": "pron.",
+"cn": "他们；它们；她们"
+}
+]
+},
+{
+"word": "are",
+"phonetic0": "ɑ:(r)",
+"phonetic1": "ər",
+"trans": [
+{
+"pos": "v.",
+"cn": "是（be的第二人称单复数现在式）"
+},
+{
+"pos": "n.",
+"cn": "公亩"
+}
+]
+},
+{
+"word": "tomatoes",
+"phonetic0": "təˈmɑːtəʊz",
+"phonetic1": "təˈmeɪtoʊz",
+"trans": [
+{
+"pos": "n.",
+"cn": "蕃茄（tomato的复数形式）"
+}
+]
+},
+{
+"word": "these",
+"phonetic0": "ðiːz",
+"phonetic1": "ðiːz",
+"trans": [
+{
+"pos": "adj.",
+"cn": "这些的"
+},
+{
+"pos": "pron.",
+"cn": "这些"
+}
+]
+},
+{
+"word": "those",
+"phonetic0": "ðəʊz",
+"phonetic1": "ðoʊz",
+"trans": [
+{
+"pos": "adj.",
+"cn": "那些的"
+},
+{
+"pos": "pron.",
+"cn": "那些（that的复数）"
+}
+]
+},
+{
+"word": "beans",
+"phonetic0": "bi:nz",
+"phonetic1": "biːnz",
+"trans": [
+{
+"pos": "n.",
+"cn": "豆类；豆子；黄豆（bean的复数）"
+}
+]
+},
+{
+"word": "cabbages",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "n.",
+"cn": "洋白菜，卷心菜( cabbage的名词复数 )"
+}
+]
+},
+{
+"word": "potatoes",
+"phonetic0": "pəˈteɪtəʊz",
+"phonetic1": "pəˈtetoz",
+"trans": [
+{
+"pos": "n.",
+"cn": "[作物] 土豆（potato的复数形式）；[作物] 马铃薯"
+}
+]
+},
+{
+"word": "carrots",
+"phonetic0": "ˈkærəts",
+"phonetic1": "ˈkærəts",
+"trans": [
+{
+"pos": "n.",
+"cn": "[园艺] 胡萝卜；红萝卜（carrot的复数形式）"
+}
+]
+},
+{
+"word": "help",
+"phonetic0": "help",
+"phonetic1": "help",
+"trans": [
+{
+"pos": "n.",
+"cn": "帮助；补救办法；帮忙者"
+},
+{
+"pos": "vt.",
+"cn": "帮助；促进；治疗"
+},
+{
+"pos": "vi.",
+"cn": "帮助；有用；招待"
+}
+]
+},
+{
+"word": "you",
+"phonetic0": "ju",
+"phonetic1": "juː",
+"trans": [
+{
+"pos": "pron.",
+"cn": "你；你们"
+}
+]
+},
+{
+"word": "mushrooms",
+"phonetic0": "ˈmʌʃrʊmz",
+"phonetic1": "ˈmʌʃrʊmz",
+"trans": [
+{
+"pos": "n.",
+"cn": "蘑菇；蕈类（mushroom的复数形式）"
+},
+{
+"pos": "v.",
+"cn": "采蘑菇；蘑菇般地迅速增长（mushroom的第三人称单数形式）"
+}
+]
+},
+{
+"word": "onions",
+"phonetic0": "ˈʌnjənz",
+"phonetic1": "ˈʌnjənz",
+"trans": [
+{
+"pos": "n.",
+"cn": "[园艺] 洋葱（onion的复数）"
+},
+{
+"pos": "v.",
+"cn": "因洋葱使掉泪（onion的单三形式）"
+}
+]
+},
+{
+"word": "how many",
+"phonetic0": "",
+"phonetic1": "",
+"trans": [
+{
+"pos": "na.",
+"cn": "多少"
+}
+]
+},
+{
+"word": "birds",
+"phonetic0": "bɝdz",
+"phonetic1": "bɜːrdz",
+"trans": [
+{
+"pos": "n.",
+"cn": "[鸟] 鸟类；禽（bird的复数）"
+},
+{
+"pos": "v.",
+"cn": "打鸟；观察研究野鸟；起哄（bird的三单形式）"
+}
+]
+},
+{
+"word": "there",
+"phonetic0": "ðeə(r)",
+"phonetic1": "ðer",
+"trans": [
+{
+"pos": "n.",
+"cn": "那个地方"
+},
+{
+"pos": "adv.",
+"cn": "在那里；在那边；在那点上"
+},
+{
+"pos": "int.",
+"cn": "你瞧"
+}
+]
+},
+{
+"word": "eggs",
+"phonetic0": "eɡz",
+"phonetic1": "eɡz",
+"trans": [
+{
+"pos": "n.",
+"cn": "[禽] 蛋（egg的复数形式）；鸡蛋"
+}
+]
+},
+{
+"word": "flowers",
+"phonetic0": "ˈflaʊəz",
+"phonetic1": "ˈflaʊərz",
+"trans": [
+{
+"pos": "",
+"cn": "[植] 花（flower的复数）"
+}
+]
+},
+{
+"word": "one",
+"phonetic0": "wʌn",
+"phonetic1": "wʌn",
+"trans": [
+{
+"pos": "pron.",
+"cn": "一个人；任何人"
+},
+{
+"pos": "adj.",
+"cn": "一的；唯一的"
+},
+{
+"pos": "n.",
+"cn": "一"
+}
+]
+},
+{
+"word": "two",
+"phonetic0": "tuː",
+"phonetic1": "tuː",
+"trans": [
+{
+"pos": "num.",
+"cn": "二"
+},
+{
+"pos": "n.",
+"cn": "两个"
+},
+{
+"pos": "adj.",
+"cn": "两个的"
+}
+]
+},
+{
+"word": "three",
+"phonetic0": "θriː",
+"phonetic1": "θriː",
+"trans": [
+{
+"pos": "num.",
+"cn": "三"
+},
+{
+"pos": "n.",
+"cn": "三，三个"
+},
+{
+"pos": "adj.",
+"cn": "三的，三个的"
+}
+]
+},
+{
+"word": "five",
+"phonetic0": "faɪv",
+"phonetic1": "faɪv",
+"trans": [
+{
+"pos": "num.",
+"cn": "五，五个"
+},
+{
+"pos": "n.",
+"cn": "五，五个；五美元钞票"
+},
+{
+"pos": "adj.",
+"cn": "五的；五个的"
+}
+]
+},
+{
+"word": "four",
+"phonetic0": "fɔː(r)",
+"phonetic1": "fɔːr",
+"trans": [
+{
+"pos": "num.",
+"cn": "四；四个"
+},
+{
+"pos": "adj.",
+"cn": "四的；四个的"
+}
+]
+},
+{
+"word": "big",
+"phonetic0": "bɪɡ",
+"phonetic1": "bɪɡ",
+"trans": [
+{
+"pos": "adj.",
+"cn": "大的；重要的；量大的"
+},
+{
+"pos": "adv.",
+"cn": "大量地；顺利；夸大地"
+}
+]
+},
+{
+"word": "crocodile",
+"phonetic0": "ˈkrɒkədaɪl",
+"phonetic1": "ˈkrɑːkədaɪl",
+"trans": [
+{
+"pos": "n.",
+"cn": "鳄鱼"
+}
+]
+},
+{
+"word": "small",
+"phonetic0": "smɔːl",
+"phonetic1": "smɔːl",
+"trans": [
+{
+"pos": "n.",
+"cn": "小件物品；矮小的人"
+},
+{
+"pos": "adj.",
+"cn": "少的，小的；微弱的；几乎没有的"
+},
+{
+"pos": "adv.",
+"cn": "小小地；卑鄙地"
+}
+]
+},
+{
+"word": "six",
+"phonetic0": "sɪks",
+"phonetic1": "sɪks",
+"trans": [
+{
+"pos": "num.",
+"cn": "六，六个"
+},
+{
+"pos": "n.",
+"cn": "六，六个"
+}
+]
+},
+{
+"word": "seven",
+"phonetic0": "ˈsev(ə)n",
+"phonetic1": "ˈsev(ə)n",
+"trans": [
+{
+"pos": "num.",
+"cn": "七个，七"
+},
+{
+"pos": "n.",
+"cn": "七个，七"
+},
+{
+"pos": "adj.",
+"cn": "七的；七个的"
+}
+]
+},
+{
+"word": "eight",
+"phonetic0": "eɪt",
+"phonetic1": "eɪt",
+"trans": [
+{
+"pos": "num.",
+"cn": "八；八个；第八"
+},
+{
+"pos": "n.",
+"cn": "八字形"
+},
+{
+"pos": "adj.",
+"cn": "八的"
+}
+]
+},
+{
+"word": "nine",
+"phonetic0": "naɪn",
+"phonetic1": "naɪn",
+"trans": [
+{
+"pos": "n.",
+"cn": "九，九个"
+},
+{
+"pos": "num.",
+"cn": "九；九个"
+},
+{
+"pos": "adj.",
+"cn": "九的，九个的"
+}
+]
+},
+{
+"word": "ten",
+"phonetic0": "ten",
+"phonetic1": "ten",
+"trans": [
+{
+"pos": "num.",
+"cn": "十个，十"
+}
+]
+},
+{
+"word": "color",
+"phonetic0": "ˈkʌlə(r)",
+"phonetic1": "ˈkʌlər",
+"trans": [
+{
+"pos": "n.",
+"cn": "颜色；肤色；颜料"
+},
+{
+"pos": "vt.",
+"cn": "粉饰；给...涂颜色；歪曲"
+},
+{
+"pos": "vi.",
+"cn": "变色；获得颜色"
+}
+]
+},
+{
+"word": "brown",
+"phonetic0": "braʊn",
+"phonetic1": "braʊn",
+"trans": [
+{
+"pos": "n.",
+"cn": "褐色，棕色"
+},
+{
+"pos": "adj.",
+"cn": "棕色的，褐色的；太阳晒黑的"
+},
+{
+"pos": "vt.",
+"cn": "使变成褐色"
+}
+]
+},
+{
+"word": "black",
+"phonetic0": "blæk",
+"phonetic1": "blæk",
+"trans": [
+{
+"pos": "n.",
+"cn": "黑色；黑人；黑颜料"
+},
+{
+"pos": "adj.",
+"cn": "黑色的；黑人的；邪恶的"
+},
+{
+"pos": "vt.",
+"cn": "使变黑；把鞋油等涂在…上；把（眼眶）打成青肿"
+}
+]
+},
+{
+"word": "red",
+"phonetic0": "red",
+"phonetic1": "red",
+"trans": [
+{
+"pos": "n.",
+"cn": "红色，红颜料；赤字"
+},
+{
+"pos": "adj.",
+"cn": "红色的；红肿的，充血的"
+}
+]
+},
+{
+"word": "blue",
+"phonetic0": "bluː",
+"phonetic1": "bluː",
+"trans": [
+{
+"pos": "adj.",
+"cn": "蓝色的；沮丧的，忧郁的；下流的"
+},
+{
+"pos": "n.",
+"cn": "蓝色；[复数]（美国海、陆、空三军穿的）蓝色制服；蓝颜料"
+},
+{
+"pos": "vi.",
+"cn": "变成蓝色，呈蓝色"
+}
+]
+},
+{
+"word": "green",
+"phonetic0": "ɡriːn",
+"phonetic1": "ɡriːn",
+"trans": [
+{
+"pos": "n.",
+"cn": "绿色；青春"
+},
+{
+"pos": "adj.",
+"cn": "绿色的；青春的"
+},
+{
+"pos": "vt.",
+"cn": "使…变绿色"
+}
+]
+},
+{
+"word": "yellow",
+"phonetic0": "ˈjeləʊ",
+"phonetic1": "ˈjeloʊ",
+"trans": [
+{
+"pos": "n.",
+"cn": "黄色；黄种人；黄色颜料"
+},
+{
+"pos": "adj.",
+"cn": "黄色的；黄皮肤的"
+},
+{
+"pos": "vt.",
+"cn": "使变黄或发黄"
+}
+]
+},
+{
+"word": "white",
+"phonetic0": "waɪt",
+"phonetic1": "waɪt",
+"trans": [
+{
+"pos": "n.",
+"cn": "白色；洁白；白种人"
+},
+{
+"pos": "adj.",
+"cn": "白色的；白种的；纯洁的"
+}
+]
+},
+{
+"word": "many",
+"phonetic0": "ˈmeni",
+"phonetic1": "ˈmeni",
+"trans": [
+{
+"pos": "pron.",
+"cn": "许多；许多人"
+},
+{
+"pos": "adj.",
+"cn": "许多的"
+}
+]
+},
+{
+"word": "thank you",
+"phonetic0": "ˈθæŋk juː",
+"phonetic1": "ˈθæŋk juː",
+"trans": [
+{
+"pos": "int.",
+"cn": "（表示感激）谢谢你；（接受好意）好；（婉言谢绝）不用了"
+},
+{
+"pos": "n.",
+"cn": "感谢；谢意；酬谢"
+}
+]
+},
+{
+"word": "tree",
+"phonetic0": "triː",
+"phonetic1": "triː",
+"trans": [
+{
+"pos": "n.",
+"cn": "树；木料；树状物"
+},
+{
+"pos": "vt.",
+"cn": "把...赶上树"
+},
+{
+"pos": "vi.",
+"cn": "爬上树；逃上树"
+}
+]
+},
+{
+"word": "can",
+"phonetic0": "kən",
+"phonetic1": "kən",
+"trans": [
+{
+"pos": "aux.",
+"cn": "能；能够；可以"
+},
+{
+"pos": "n.",
+"cn": "罐头；（用金属或塑料制作的）容器；（马口铁或其他金属制作的）食品罐头"
+},
+{
+"pos": "vt.",
+"cn": "将…装入密封罐中保存"
+}
+]
+},
+{
+"word": "climb",
+"phonetic0": "klaɪm",
+"phonetic1": "klaɪm",
+"trans": [
+{
+"pos": "n.",
+"cn": "爬；攀登"
+},
+{
+"pos": "vi.",
+"cn": "爬；攀登；上升"
+},
+{
+"pos": "vt.",
+"cn": "爬；攀登；上升"
+}
+]
+},
+{
+"word": "see",
+"phonetic0": "siː",
+"phonetic1": "siː",
+"trans": [
+{
+"pos": "vi.",
+"cn": "看；看见；领会"
+},
+{
+"pos": "vt.",
+"cn": "看见；理解；领会"
+}
+]
+},
+{
+"word": "our",
+"phonetic0": "ɑː(r)",
+"phonetic1": "ɑːr",
+"trans": [
+{
+"pos": "pron.",
+"cn": "我们的"
+}
+]
+},
+{
+"word": "house",
+"phonetic0": "haʊs",
+"phonetic1": "haʊs",
+"trans": [
+{
+"pos": "n.",
+"cn": "住宅；家庭；机构"
+},
+{
+"pos": "vt.",
+"cn": "覆盖；给…房子住；把…储藏在房内"
+},
+{
+"pos": "vi.",
+"cn": "住"
+}
+]
+},
+{
+"word": "read",
+"phonetic0": "riːd",
+"phonetic1": "riːd",
+"trans": [
+{
+"pos": "n.",
+"cn": "阅读；读物"
+},
+{
+"pos": "adj.",
+"cn": "有学问的"
+},
+{
+"pos": "vi.",
+"cn": "读；读起来"
+}
+]
+},
+{
+"word": "run",
+"phonetic0": "rʌn",
+"phonetic1": "rʌn",
+"trans": [
+{
+"pos": "n.",
+"cn": "奔跑；赛跑；趋向"
+},
+{
+"pos": "vt.",
+"cn": "管理，经营；运行；参赛"
+},
+{
+"pos": "vi.",
+"cn": "经营；奔跑；运转"
+}
+]
+},
+{
+"word": "walk",
+"phonetic0": "wɔːk",
+"phonetic1": "wɔːk",
+"trans": [
+{
+"pos": "n.",
+"cn": "步行，走；散步"
+},
+{
+"pos": "vi.",
+"cn": "走，步行；散步"
+},
+{
+"pos": "vt.",
+"cn": "散步；走过"
+}
+]
+},
+{
+"word": "jump",
+"phonetic0": "dʒʌmp",
+"phonetic1": "dʒʌmp",
+"trans": [
+{
+"pos": "n.",
+"cn": "跳跃；暴涨；惊跳"
+},
+{
+"pos": "vt.",
+"cn": "跳跃；使跳跃；跳过"
+},
+{
+"pos": "vi.",
+"cn": "跳跃；暴涨；猛增"
+}
+]
+},
+{
+"word": "speak",
+"phonetic0": "spiːk",
+"phonetic1": "spiːk",
+"trans": [
+{
+"pos": "vi.",
+"cn": "说话；演讲；表明"
+},
+{
+"pos": "vt.",
+"cn": "讲话；发言；讲演"
+}
+]
+},
+{
+"word": "but",
+"phonetic0": "bət",
+"phonetic1": "bət",
+"trans": [
+{
+"pos": "conj.",
+"cn": "但是；而是；然而"
+},
+{
+"pos": "adv.",
+"cn": "仅仅，只"
+},
+{
+"pos": "prep.",
+"cn": "除…以外"
+}
+]
+},
+{
+"word": "listen",
+"phonetic0": "ˈlɪs(ə)n",
+"phonetic1": "ˈlɪsn",
+"trans": [
+{
+"pos": "vi.",
+"cn": "听，倾听；听从，听信"
+},
+{
+"pos": "n.",
+"cn": "听，倾听"
+}
+]
+},
+{
+"word": "sing",
+"phonetic0": "sɪŋ",
+"phonetic1": "sɪŋ",
+"trans": [
+{
+"pos": "n.",
+"cn": "演唱；鸣声；呼啸声"
+},
+{
+"pos": "vt.",
+"cn": "唱；用诗赞颂；唱着使"
+},
+{
+"pos": "vi.",
+"cn": "唱歌；歌颂；鸣叫"
+}
+]
+},
+{
+"word": "dance",
+"phonetic0": "dɑːns",
+"phonetic1": "dæns",
+"trans": [
+{
+"pos": "n.",
+"cn": "舞蹈；舞会；舞曲"
+},
+{
+"pos": "adj.",
+"cn": "舞蹈的；用于跳舞的"
+},
+{
+"pos": "vt.",
+"cn": "跳舞；使跳跃"
+}
+]
+},
+{
+"word": "draw",
+"phonetic0": "drɔː",
+"phonetic1": "drɔː",
+"trans": [
+{
+"pos": "n.",
+"cn": "平局；抽签"
+},
+{
+"pos": "vi.",
+"cn": "拉；拖"
+},
+{
+"pos": "vt.",
+"cn": "画；拉；吸引"
+}
+]
+},
+{
+"word": "swim",
+"phonetic0": "swɪm",
+"phonetic1": "swɪm",
+"trans": [
+{
+"pos": "n.",
+"cn": "游泳；漂浮；眩晕"
+},
+{
+"pos": "adj.",
+"cn": "游泳时穿戴的"
+},
+{
+"pos": "vi.",
+"cn": "游泳；漂浮；浸"
+}
+]
+},
+{
+"word": "write",
+"phonetic0": "raɪt",
+"phonetic1": "raɪt",
+"trans": [
+{
+"pos": "vi.",
+"cn": "写，写字；写作，作曲；写信"
+},
+{
+"pos": "vt.",
+"cn": "写，书写；写信给；著述"
+}
+]
+},
+{
+"word": "please",
+"phonetic0": "pliːz",
+"phonetic1": "pliːz",
+"trans": [
+{
+"pos": "int.",
+"cn": "请（礼貌用语）"
+},
+{
+"pos": "vt.",
+"cn": "使喜欢；使高兴，使满意"
+},
+{
+"pos": "vi.",
+"cn": "讨人喜欢；令人高兴"
+}
+]
+},
+{
+"word": "candy",
+"phonetic0": "ˈkændi",
+"phonetic1": "ˈkændi",
+"trans": [
+{
+"pos": "n.",
+"cn": "糖果（等于sweets）；冰糖（等于sugar candy，rock candy）；毒品"
+},
+{
+"pos": "adj.",
+"cn": "新潮的（服饰）；甜言蜜语的"
+},
+{
+"pos": "vt.",
+"cn": "用糖煮；使结晶为砂糖；美化"
+}
+]
+},
+{
+"word": "cookies",
+"phonetic0": "ˈkʊkiz",
+"phonetic1": "ˈkʊkiz",
+"trans": [
+{
+"pos": "n.",
+"cn": "饼干"
+}
+]
+},
+{
+"word": "monkey",
+"phonetic0": "ˈmʌŋki",
+"phonetic1": "ˈmʌŋki",
+"trans": [
+{
+"pos": "n.",
+"cn": "猴子；顽童"
+},
+{
+"pos": "vi.",
+"cn": "胡闹；捣蛋"
+},
+{
+"pos": "vt.",
+"cn": "嘲弄"
+}
+]
+}
+]
+}
